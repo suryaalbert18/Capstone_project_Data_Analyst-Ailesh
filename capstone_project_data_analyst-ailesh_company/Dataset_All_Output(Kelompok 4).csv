@@ -1,0 +1,1113 @@
+Sector,Area,Unit_Id,Unit_Process,Output_Category,Output,Output_Amount,Output_Unit
+Oil & Gas Distribution,Pertamina IT Makassar,1,Penerimaan,Waste,Waste,224.4,kg
+Oil & Gas Distribution,Pertamina IT Makassar,2,Genset,Emission,Carbon Dioxide (CO2),8780,kg
+Oil & Gas Distribution,Pertamina IT Makassar,2,Genset,Emission,Sulfur Oxide (SOx),4.992957099,kg
+Oil & Gas Distribution,Pertamina IT Makassar,2,Genset,Emission,Nitrogen Oxide (NOx),938.3581452,kg
+Oil & Gas Distribution,Pertamina IT Makassar,2,Genset,Emission,Particulate Matter (PM10),5.631656436,kg
+Oil & Gas Distribution,Pertamina IT Makassar,2,Genset,Waste,Waste,224.4,kg
+Oil & Gas Distribution,Pertamina IT Makassar,2,Genset,Waste,Waste,58,kg
+Oil & Gas Distribution,Pertamina IT Makassar,3,Office,Waste,Wastewater,1840000,liter
+Oil & Gas Distribution,Pertamina IT Makassar,3,Office,Waste,Waste,4070,kg
+Oil & Gas Distribution,Pertamina IT Makassar,4,Storage Tank,Emission,Volatile Organic Compounds (VOC),137920.9043,kg
+Oil & Gas Distribution,Pertamina IT Makassar,4,Storage Tank,Waste,Waste,224.4,kg
+Oil & Gas Distribution,Pertamina IT Makassar,4,Storage Tank,Waste,Sludge,57728,kg
+Oil & Gas Distribution,Pertamina IT Makassar,4,Storage Tank,Waste,Wastewater,1163000,liter
+Oil & Gas Distribution,Pertamina IT Makassar,5,Pompa,Waste,Waste,224.4,kg
+Oil & Gas Distribution,Pertamina IT Makassar,5,Pompa,Waste,Wastewater,284000,liter
+Oil & Gas Distribution,Pertamina IT Makassar,6,Filling Shed Pump,Waste,Waste,224.4,kg
+Oil & Gas Distribution,Pertamina IT Makassar,7,Mobil Tangki,Waste,Waste,58,kg
+Oil & Gas Distribution,FT Cilacap,8,Storage Tank,Waste,Sludge,14710,kg
+Oil & Gas Distribution,FT Cilacap,8,Storage Tank,Waste,Wastewater,652000,kg
+Oil & Gas Distribution,FT Cilacap,9,Mobil Tangki,Product,Fuel,1790585802,kg
+Oil & Gas Distribution,FT Cilacap,9,Mobil Tangki,Emission,Methane (CH4),275450.579,kg
+Oil & Gas Distribution,FT Cilacap,9,Mobil Tangki,Emission,Nitrogen Oxide (NOx),8487.251292,kg
+Oil & Gas Distribution,FT Cilacap,9,Mobil Tangki,Emission,Sulfur Oxide (SOx),129105.6011,kg
+Oil & Gas Distribution,FT Cilacap,9,Mobil Tangki,Emission,Particulates,215.967889,kg
+Oil & Gas Distribution,FT Cilacap,9,Mobil Tangki,Emission,Dinitrogen Monoxide (N2O),34.3781923,kg
+Oil & Gas Distribution,FT Cilacap,10,Genset,Emission,Carbon Dioxide (CO2),3672642241,kg
+Oil & Gas Distribution,FT Cilacap,10,Genset,Emission,Sulfur Oxide (SOx),129105.6011,kg
+Oil & Gas Distribution,FT Cilacap,10,Genset,Emission,Particulates,215.967889,kg
+Oil & Gas Distribution,FT Cilacap,10,Genset,Emission,Dinitrogen Monoxide (N2O),34.3781923,kg
+Oil & Gas Distribution,FT Cilacap,10,Genset,Waste,Waste,97,kg
+Oil & Gas Distribution,FT Cilacap,11,Office,Waste,Waste,1479.280938,kg
+Oil & Gas Distribution,FT Cilacap,11,Office,Waste,Waste,10848.06021,kg
+Oil & Gas Distribution,FT Cilacap,11,Office,Waste,Waste,12,kg
+Oil & Gas Distribution,FT Cilacap,11,Office,Waste,Waste,1579.386375,kg
+Oil & Gas Distribution,FT Cilacap,12,Pompa,Waste,Wastewater,652000,kg
+Oil & Gas Distribution,IT Bitung,13,Genset,Emission,Carbon Dioxide (CO2),88500,kg
+Oil & Gas Distribution,IT Bitung,13,Genset,Emission,Nitrogen Oxide (NOx),573,kg
+Oil & Gas Distribution,IT Bitung,13,Genset,Emission,Particulate Matter (PM10),40.3,kg
+Oil & Gas Distribution,IT Bitung,13,Genset,Emission,Sulfur Oxide (SOx),37.7,kg
+Oil & Gas Distribution,IT Bitung,13,Genset,Waste,Waste,20,kg
+Oil & Gas Distribution,IT Bitung,14,Office,Waste,Waste,3160,kg
+Oil & Gas Distribution,IT Bitung,14,Office,Waste,Wastewater,1750000,liter
+Oil & Gas Distribution,IT Bitung,15,Pompa,Waste,Wastewater,13800,liter
+Oil & Gas Distribution,IT Bitung,16,Filling Shed Pump,Waste,Waste,15,kg
+Oil & Gas Distribution,IT Bitung,16,Filling Shed Pump,Waste,Wastewater,13800,liter
+Oil & Gas Distribution,FT Boyolali,17,Storage Tank,Emission,Volatile Organic Compounds (VOC),1897000,kg
+Oil & Gas Distribution,FT Boyolali,18,Genset,Emission,Carbon Dioxide (CO2),30,kg
+Oil & Gas Distribution,FT Boyolali,19,Office,Waste,Waste,440,kg
+Oil & Gas Distribution,FT Boyolali,19,Office,Waste,Waste,5945000,kg
+Oil & Gas Distribution,FT Boyolali,19,Office,Waste,Plastic,87200,kg
+Oil & Gas Distribution,FT Boyolali,19,Office,Waste,Waste,1840000,kg
+Oil & Gas Distribution,FT Rewulu,20,Storage Tank,Emission,Volatile Organic Compounds (VOC),1180000,kg
+Oil & Gas Distribution,FT Rewulu,20,Storage Tank,Waste,Sludge,14700,kg
+Oil & Gas Distribution,FT Rewulu,21,Genset,Emission,Methane (CH4),0.843,kg
+Oil & Gas Distribution,FT Rewulu,21,Genset,Emission,Nitrogen Oxide (NOx),614,kg
+Oil & Gas Distribution,FT Rewulu,21,Genset,Emission,Sulfur Oxide (SOx),40.8,kg
+Oil & Gas Distribution,FT Rewulu,21,Genset,Emission,Particulates,43.7,kg
+Oil & Gas Distribution,FT Rewulu,21,Genset,Emission,Dinitrogen Monoxide (N2O),0.169,kg
+Oil & Gas Distribution,FT Rewulu,21,Genset,Waste,Oil,97,liter
+Oil & Gas Distribution,FT Rewulu,21,Genset,Emission,Carbon Dioxide (CO2),22400,kg
+Oil & Gas Distribution,FT Rewulu,22,Pompa,Emission,Volatile Organic Compounds (VOC),467000,kg
+Oil & Gas Distribution,FT Rewulu,23,Office,Waste,Waste,1.73,kg
+Oil & Gas Distribution,FT Rewulu,23,Office,Waste,Waste,10800,kg
+Oil & Gas Distribution,FT Rewulu,23,Office,Waste,Plastic,1580,kg
+Oil & Gas Distribution,FT Rewulu,23,Office,Waste,Lamp,12,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,24,Pompa,Waste,Fuel,12168000,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,24,Pompa,Waste,Waste,8,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,24,Pompa,Product,Electricity,27418,kWh
+Oil & Gas Distribution,DPPU Ahmad Yani,25,Storage Tank,Waste,Fuel,12168000,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,26,Pompa,Waste,Fuel,12294251000,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,27,Filter Separator,Waste,Fuel,12294251000,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,27,Filter Separator,Waste,Waste,32,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,28,Refueller,Waste,Fuel,12294251000,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,28,Refueller,Waste,Wastewater,0.336,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,28,Refueller,Waste,Wastewater,29281,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,29,Use Stage,Waste,Fuel,12294251,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,29,Use Stage,Emission,Carbon Dioxide (CO2),3.06,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,29,Use Stage,Emission,Dinitrogen Monoxide (N2O),849803,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,29,Use Stage,Emission,Methane (CH4),212451,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,30,Genset,Product,Electricity,14628,kWh
+Oil & Gas Distribution,DPPU Ahmad Yani,30,Genset,Emission,Carbon Dioxide (CO2),0.0000015,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,30,Genset,Emission,Carbon Monoxide (CO),0.000235,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,30,Genset,Emission,Nitrogen Oxide (NOx),0.000381,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,30,Genset,Emission,Sulfur Oxide (SOx),0.00000099,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,31,Genset,Emission,"Particulates, Unspecified",0.000022,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,32,Oil Catcher,Waste,Wastewater,336,liter
+Oil & Gas Distribution,DPPU Ahmad Yani,32,Oil Catcher,Waste,Oil,0.0008366,liter
+Oil & Gas Distribution,DPPU Ahmad Yani,32,Oil Catcher,Waste,TOC,0.035504,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,33,Waste Pool,Waste,Wastewater,0.121,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,33,Waste Pool,Waste,Ammonia,0.0005035,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,33,Waste Pool,Waste,BOD5,0.020649,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,33,Waste Pool,Waste,COD,0.005078,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,33,Waste Pool,Waste,Oil,0.0003013,liter
+Oil & Gas Distribution,DPPU Ahmad Yani,33,Waste Pool,Waste,Waste,0.002182,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,34,Office,Waste,Wastewater,1001000,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,34,Office,Waste,Waste,2166,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,35,Pompa,Waste,Fuel,5232000,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,35,Pompa,Waste,Waste,2.3,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,35,Pompa,Product,Electricity,15847.96,kWh
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,35,Pompa,Product,Electricity,167.33,kWh
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,36,Storage Tank,Waste,Fuel,5300669.5,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,36,Storage Tank,Waste,Waste,1.5,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,36,Storage Tank,Waste,Volatile Organic Compounds (VOC),74511,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,37,Pompa,Waste,Fuel,5300669.5,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,37,Pompa,Waste,Waste,0.9,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,38,Filter Separator,Waste,Fuel,5300669.5,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,38,Filter Separator,Waste,Waste,32.4,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,38,Filter Separator,Waste,Volatile Organic Compounds (VOC),234795,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,39,Refueller,Waste,Fuel,5300669.5,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,39,Refueller,Waste,Wastewater,23.18,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,39,Refueller,Emission,Carbon Dioxide (CO2),15047,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,39,Refueller,Emission,Dinitrogen Monoxide (N2O),0.1,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,39,Refueller,Emission,Methane (CH4),0.6,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,39,Refueller,Emission,Nitrogen Oxide (NOx),449,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,39,Refueller,Emission,"Particulates, Unspecified",31.6,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,39,Refueller,Emission,Sulfur Oxide (SOx),2.95,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,40,Use Stage,Waste,Fuel,5300669.5,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,40,Use Stage,Emission,Carbon Dioxide (CO2),130325,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,40,Use Stage,Emission,Dinitrogen Monoxide (N2O),362.09,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,40,Use Stage,Emission,Methane (CH4),90.52,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,41,Genset,Product,Electricity,502,kWh
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,41,Genset,Emission,Carbon Dioxide (CO2),2121.51,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,41,Genset,Emission,Dinitrogen Monoxide (N2O),61.45,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,41,Genset,Emission,Methane (CH4),2.08,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,41,Genset,Emission,Nitrogen Oxide (NOx),61.45,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,41,Genset,Emission,Particulates,4.3,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,42,Oil Catcher,Waste,Wastewater,23180,liter
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,42,Oil Catcher,Waste,Oil,5.27,liter
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,42,Oil Catcher,Waste,TOC,7.09,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,43,Waste Pool,Waste,Wastewater,54.68,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,43,Waste Pool,Waste,Ammonia,0.0000485,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,43,Waste Pool,Waste,BOD,0.0001,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,43,Waste Pool,Waste,COD,0.0003,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,43,Waste Pool,Waste,Oil,0.0014,liter
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,43,Waste Pool,Waste,Waste,0.00043,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,43,Waste Pool,Waste,Waste,54.68,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,44,Office,Waste,Wastewater,54.68,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,44,Office,Waste,Waste,905.2,kg
+Oil & Gas Distribution,Pertamina FT Maos,45,Penerimaan,Waste,Fuel,1340000000,kg
+Oil & Gas Distribution,Pertamina FT Maos,45,Penerimaan,Waste,Filter,2660,kg
+Oil & Gas Distribution,Pertamina FT Maos,45,Penerimaan,Waste,Plastic,3,kg
+Oil & Gas Distribution,Pertamina FT Maos,46,Storage Tank,Waste,Fuel,1330000000,kg
+Oil & Gas Distribution,Pertamina FT Maos,46,Storage Tank,Emission,Volatile Organic Compounds (VOC),1250,kg
+Oil & Gas Distribution,Pertamina FT Maos,46,Storage Tank,Waste,Wastewater,753,kg
+Oil & Gas Distribution,Pertamina FT Maos,46,Storage Tank,Waste,Sludge,38200,kg
+Oil & Gas Distribution,Pertamina FT Maos,46,Storage Tank,Waste,Filter,1340,kg
+Oil & Gas Distribution,Pertamina FT Maos,47,Pompa,Waste,Fuel,1330000000,kg
+Oil & Gas Distribution,Pertamina FT Maos,47,Pompa,Emission,Volatile Organic Compounds (VOC),1620000,kg
+Oil & Gas Distribution,Pertamina FT Maos,47,Pompa,Waste,Waste,100,kg
+Oil & Gas Distribution,Pertamina FT Maos,47,Pompa,Waste,Fuel,300,kg
+Oil & Gas Distribution,Pertamina FT Maos,47,Pompa,Waste,Filter,14,kg
+Oil & Gas Distribution,Pertamina FT Maos,48,Filter Separator,Waste,Fuel,1330000000,kg
+Oil & Gas Distribution,Pertamina FT Maos,49,Mobil Tangki,Waste,Fuel,1330000000,kg
+Oil & Gas Distribution,Pertamina FT Maos,49,Mobil Tangki,Emission,Volatile Organic Compounds (VOC),1620000,kg
+Oil & Gas Distribution,Pertamina FT Maos,50,Use Stage,Waste,Fuel,1330000000,kg
+Oil & Gas Distribution,Pertamina FT Maos,51,Genset,Product,Electricity,3810,kWh
+Oil & Gas Distribution,Pertamina FT Maos,51,Genset,Waste,Fuel,300,kg
+Oil & Gas Distribution,Pertamina FT Maos,51,Genset,Waste,Waste,100,kg
+Oil & Gas Distribution,Pertamina FT Maos,51,Genset,Emission,Carbon Dioxide (CO2),2070,kg
+Oil & Gas Distribution,Pertamina FT Maos,51,Genset,Emission,Dinitrogen Monoxide (N2O),1680,kg
+Oil & Gas Distribution,Pertamina FT Maos,51,Genset,Emission,Methane (CH4),0.1,kg
+Oil & Gas Distribution,Pertamina FT Maos,51,Genset,Emission,Nitrogen Oxide (NOx),61.8,kg
+Oil & Gas Distribution,Pertamina FT Maos,51,Genset,Emission,Particulates,4.3,kg
+Oil & Gas Distribution,Pertamina FT Maos,51,Genset,Emission,Sulfur Oxide (SOx),4.1,kg
+Oil & Gas Distribution,Pertamina FT Maos,52,Oil Catcher,Waste,Waste,726,kg
+Oil & Gas Distribution,Pertamina FT Maos,52,Oil Catcher,Waste,Oil,5.42,liter
+Oil & Gas Distribution,Pertamina FT Maos,52,Oil Catcher,Emission,TOC,21.2,kg
+Oil & Gas Distribution,Pertamina FT Maos,53,Waste Pool,Waste,Packaging Kaporit,3,kg
+Oil & Gas Distribution,Pertamina FT Maos,53,Waste Pool,Waste,IC,0.0431,kg
+Oil & Gas Distribution,Pertamina FT Maos,53,Waste Pool,Waste,BOD,0.0175,kg
+Oil & Gas Distribution,Pertamina FT Maos,53,Waste Pool,Waste,"Suspended Solids, Unspecified",0.0205,kg
+Oil & Gas Distribution,Pertamina FT Maos,53,Waste Pool,Waste,Oil,0.00049,liter
+Oil & Gas Distribution,Pertamina FT Maos,53,Waste Pool,Waste,Waste,195,kg
+Oil & Gas Distribution,Pertamina FT Maos,53,Waste Pool,Waste,Ammonia,0.00217,kg
+Oil & Gas Distribution,Pertamina FT Maos,54,Office,Waste,Waste,195,kg
+Oil & Gas Distribution,Pertamina FT Maos,54,Office,Waste,Paper Waste,260,kg
+Oil & Gas Distribution,Pertamina FT Maos,54,Office,Waste,Waste,3600,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,55,Storage Tank,Waste,Fuel,1972058084,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,55,Storage Tank,Waste,Sludge,14750,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,55,Storage Tank,Waste,Oil,226.84,liter
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,55,Storage Tank,Waste,Wastewater,83850,liter
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,55,Storage Tank,Emission,Volatile Organic Compounds (VOC),2467440,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,56,Pompa,Waste,Fuel,1972058084,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,56,Pompa,Emission,Waste,1400.869814,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,57,Mobil Tangki,Waste,Fuel,1400869.814,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,57,Mobil Tangki,Emission,Carbon Dioxide (CO2),15047,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,57,Mobil Tangki,Emission,Nitrogen Oxide (NOx),449,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,57,Mobil Tangki,Emission,Particulates,31.6,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,57,Mobil Tangki,Emission,Sulfur Oxide (SOx),2.95,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,57,Mobil Tangki,Emission,Wastewater,31000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,58,Use Stage,Emission,Carbon Dioxide (CO2),5260662.144,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,58,Use Stage,Emission,Methane (CH4),212.9822731,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,58,Use Stage,Emission,Dinitrogen Monoxide (N2O),42.59645461,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,58,Use Stage,Waste,Non-Hazardous waste,1.69,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,58,Use Stage,Waste,Wastewater,900,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,58,Use Stage,Waste,Wastewater,327700,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,58,Use Stage,Waste,Wastewater,47000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,59,Genset,Product,Electricity,2353.2,kWh
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,59,Genset,Waste,Oil,230,liter
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,59,Genset,Waste,Waste,2.3,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,59,Genset,Emission,Carbon Dioxide (CO2),657233.5996,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,59,Genset,Emission,Nitrogen Oxide (NOx),313.8412923,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,59,Genset,Emission,Particulates,22.06205165,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,59,Genset,Emission,Sulfur Oxide (SOx),20.63847989,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,60,Oil Catcher,Waste,Oil,0.99425,liter
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,60,Oil Catcher,Waste,TOC,2.32926125,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,60,Oil Catcher,Waste,Wastewater,122935.6445,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,61,Penerimaan,Waste,Fuel,6720000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,62,Storage Tank,Waste,Fuel,7090000000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,62,Storage Tank,Waste,Volatile Organic Compounds (VOC),53.7,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,62,Storage Tank,Waste,Wastewater,53.7,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,63,Pompa,Waste,Fuel,7090000000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,64,Filter Separator,Waste,Fuel,7050000000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,64,Filter Separator,Waste,Volatile Organic Compounds (VOC),71.6,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,65,Refueller,Waste,Fuel,7050000000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,65,Refueller,Waste,Wastewater,31000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,66,Use Stage,Emission,Carbon Dioxide (CO2),17600000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,66,Use Stage,Emission,Methane (CH4),122,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,66,Use Stage,Emission,Dinitrogen Monoxide (N2O),488,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,67,Office,Waste,Non-Hazardous waste,1.69,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,67,Office,Waste,Wastewater,900,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,67,Office,Waste,Wastewater,328000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,67,Office,Waste,Wastewater,47000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,68,Genset,Product,Electricity,2350,kWh
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,68,Genset,Emission,Carbon Dioxide (CO2),494,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,68,Genset,Emission,Nitrogen Oxide (NOx),12.6,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,68,Genset,Waste,Particulates,0.888,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,68,Genset,Waste,Sulfur Oxide (SOx),0.83,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,69,Oil Catcher,Waste,Oil,0.197,liter
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,69,Oil Catcher,Waste,TOC,0.609,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,69,Oil Catcher,Waste,Wastewater,123000,kg
+Oil & Gas Distribution,DPPU Hasanudin,70,Penerimaan,Waste,Fuel,135200880,kg
+Oil & Gas Distribution,DPPU Hasanudin,70,Penerimaan,Waste,Waste,1.5,kg
+Oil & Gas Distribution,DPPU Hasanudin,70,Penerimaan,Waste,Waste,155.64,kg
+Oil & Gas Distribution,DPPU Hasanudin,70,Penerimaan,Waste,Wastewater,20.23,kg
+Oil & Gas Distribution,DPPU Hasanudin,71,Storage Tank,Waste,Fuel,135200880,kg
+Oil & Gas Distribution,DPPU Hasanudin,71,Storage Tank,Waste,Waste,3,kg
+Oil & Gas Distribution,DPPU Hasanudin,71,Storage Tank,Waste,Wastewater,96.1,kg
+Oil & Gas Distribution,DPPU Hasanudin,71,Storage Tank,Emission,Volatile Organic Compounds (VOC),1730,kg
+Oil & Gas Distribution,DPPU Hasanudin,72,Pompa,Waste,Fuel,135969645,kg
+Oil & Gas Distribution,DPPU Hasanudin,72,Pompa,Waste,Waste,1,kg
+Oil & Gas Distribution,DPPU Hasanudin,72,Pompa,Waste,Wastewater,24.27,kg
+Oil & Gas Distribution,DPPU Hasanudin,72,Pompa,Waste,Waste Lube Oil,43,kg
+Oil & Gas Distribution,DPPU Hasanudin,72,Pompa,Emission,Volatile Organic Compounds (VOC),880,kg
+Oil & Gas Distribution,DPPU Hasanudin,73,Filter Separator,Waste,Fuel,135969645,kg
+Oil & Gas Distribution,DPPU Hasanudin,73,Filter Separator,Waste,Waste,2,kg
+Oil & Gas Distribution,DPPU Hasanudin,73,Filter Separator,Waste,Wastewater,64.45,kg
+Oil & Gas Distribution,DPPU Hasanudin,73,Filter Separator,Waste,Waste,233.46,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Waste,Fuel,123336300,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Waste,Waste,2,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Waste,Wastewater,23.45,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Waste,Waste,389,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Waste,Waste Lube Oil,926.22,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Emission,Sulfur Oxide (SOx),413.1,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Emission,Nitrogen Oxide (NOx),6282.2,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Emission,Carbon Dioxide (CO2),215940,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Emission,Methane (CH4),8.5,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Emission,Dinitrogen Monoxide (N2O),1.7,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Emission,Particulates,441.6,kg
+Oil & Gas Distribution,DPPU Hasanudin,75,Bridger,Waste,Fuel,12632550,kg
+Oil & Gas Distribution,DPPU Hasanudin,76,Genset,Waste,Waste,2,kg
+Oil & Gas Distribution,DPPU Hasanudin,76,Genset,Waste,Waste Lube Oil,158.24,kg
+Oil & Gas Distribution,DPPU Hasanudin,76,Genset,Emission,Sulfur Oxide (SOx),15881.6,kg
+Oil & Gas Distribution,DPPU Hasanudin,76,Genset,Emission,Nitrogen Oxide (NOx),30.4,kg
+Oil & Gas Distribution,DPPU Hasanudin,76,Genset,Emission,Carbon Dioxide (CO2),462,kg
+Oil & Gas Distribution,DPPU Hasanudin,76,Genset,Emission,Methane (CH4),32.5,kg
+Oil & Gas Distribution,DPPU Hasanudin,76,Genset,Emission,Dinitrogen Monoxide (N2O),0.6,kg
+Oil & Gas Distribution,DPPU Hasanudin,76,Genset,Emission,Particulates,0.125,kg
+Oil & Gas Distribution,DPPU Hasanudin,77,Oil Catcher,Waste,Wastewater,415.88,kg
+Oil & Gas Distribution,DPPU Hasanudin,77,Oil Catcher,Emission,TOC,1.13,kg
+Oil & Gas Distribution,DPPU Hasanudin,77,Oil Catcher,Emission,Oil,2.17,liter
+Oil & Gas Distribution,DPPU Hasanudin,78,Waste Pool,Waste,Wastewater,232.24,kg
+Oil & Gas Distribution,DPPU Hasanudin,78,Waste Pool,Emission,BOD,1.11,kg
+Oil & Gas Distribution,DPPU Hasanudin,78,Waste Pool,Emission,COD,2826,kg
+Oil & Gas Distribution,DPPU Hasanudin,78,Waste Pool,Emission,TSS,1917,kg
+Oil & Gas Distribution,DPPU Hasanudin,78,Waste Pool,Emission,Oil,0.627,liter
+Oil & Gas Distribution,DPPU Hasanudin,78,Waste Pool,Emission,Ammonia,0.379,kg
+Oil & Gas Distribution,DPPU Hasanudin,79,Office,Waste,Wastewater,232242,kg
+Oil & Gas Distribution,DPPU Hasanudin,79,Office,Waste,Sampah Organik,3.0654,kg
+Oil & Gas Distribution,DPPU Hasanudin,79,Office,Waste,Sampah Anorganik,0.998,kg
+Oil & Gas Distribution,DPPU Hasanudin,80,Pompa,Waste,Feedwater,187378,liter
+Oil & Gas Distribution,DPPU Hasanudin,80,Pompa,Waste,Sampah Organik,3.0654,kg
+Oil & Gas Distribution,DPPU Hasanudin,80,Pompa,Waste,Sampah Anorganik,0.998,kg
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Waste,CMP 101,84619000,kg
+Oil & Gas Distribution,Pertamina FT Poso,82,Downstream,Waste,Fuel,84619000,kg
+Oil & Gas Distribution,Pertamina FT Poso,83,Bbm Transportation,Waste,Fuel,84619000,kg
+Oil & Gas Distribution,Pertamina FT Poso,84,Penerimaan,Waste,Fuel,84619000,kg
+Oil & Gas Distribution,Pertamina FT Poso,85,Fuel Storage Tank,Waste,Fuel,86583420.19,kg
+Oil & Gas Distribution,Pertamina FT Poso,85,Fuel Storage Tank,Waste,Volatile Organic Compounds (VOC),120000,kg
+Oil & Gas Distribution,Pertamina FT Poso,85,Fuel Storage Tank,Waste,Absorbent,70,kg
+Oil & Gas Distribution,Pertamina FT Poso,85,Fuel Storage Tank,Waste,Wastewater,149200,liter
+Oil & Gas Distribution,Pertamina FT Poso,85,Fuel Storage Tank,Waste,Sludge,436,kg
+Oil & Gas Distribution,Pertamina FT Poso,86,Filter Separator,Waste,Fuel,86583420.19,kg
+Oil & Gas Distribution,Pertamina FT Poso,86,Filter Separator,Waste,Waste,3338000,kg
+Oil & Gas Distribution,Pertamina FT Poso,86,Filter Separator,Waste,Wastewater,59270,liter
+Oil & Gas Distribution,Pertamina FT Poso,87,Pompa,Waste,Fuel,86169000,kg
+Oil & Gas Distribution,Pertamina FT Poso,87,Pompa,Waste,Volatile Organic Compounds (VOC),58622.86552,kg
+Oil & Gas Distribution,Pertamina FT Poso,88,Mobil Tangki,Waste,Fuel,86169000,kg
+Oil & Gas Distribution,Pertamina FT Poso,89,Use Stage,Waste,Fuel,86169000,kg
+Oil & Gas Distribution,Pertamina FT Poso,89,Use Stage,Emission,Carbon Dioxide (CO2),186736904,kg
+Oil & Gas Distribution,Pertamina FT Poso,89,Use Stage,Emission,Dinitrogen Monoxide (N2O),8547000,kg
+Oil & Gas Distribution,Pertamina FT Poso,89,Use Stage,Emission,Methane (CH4),3083000,kg
+Oil & Gas Distribution,Pertamina FT Poso,90,Genset,Waste,Waste,40,kg
+Oil & Gas Distribution,Pertamina FT Poso,90,Genset,Emission,Carbon Dioxide (CO2),123.7131641,kg
+Oil & Gas Distribution,Pertamina FT Poso,90,Genset,Emission,Dinitrogen Monoxide (N2O),0.2985143554,kg
+Oil & Gas Distribution,Pertamina FT Poso,90,Genset,Emission,Methane (CH4),0.1252157531,kg
+Oil & Gas Distribution,Pertamina FT Poso,90,Genset,Emission,Nitrogen Oxide (NOx),3.691417814,kg
+Oil & Gas Distribution,Pertamina FT Poso,90,Genset,Waste,Particulates,0.25948742,kg
+Oil & Gas Distribution,Pertamina FT Poso,90,Genset,Waste,Sulfur Oxide (SOx),0.2427462962,kg
+Oil & Gas Distribution,Pertamina FT Poso,91,Oil Catcher,Waste,Wastewater,149200,liter
+Oil & Gas Distribution,Pertamina FT Poso,91,Oil Catcher,Waste,Oil,0.14877,liter
+Oil & Gas Distribution,Pertamina FT Poso,91,Oil Catcher,Waste,TOC,0.0328,kg
+Oil & Gas Distribution,Pertamina FT Poso,92,Waste Pool,Waste,Wastewater,59270,liter
+Oil & Gas Distribution,Pertamina FT Poso,92,Waste Pool,Waste,Oil,0.65411,liter
+Oil & Gas Distribution,Pertamina FT Poso,92,Waste Pool,Waste,TOC,0.3795681,kg
+Oil & Gas Distribution,Pertamina FT Poso,92,Waste Pool,Emission,BOD,0.4164396,kg
+Oil & Gas Distribution,Pertamina FT Poso,92,Waste Pool,Emission,COD,1.0591122,kg
+Oil & Gas Distribution,Pertamina FT Poso,92,Waste Pool,Emission,TSS,0.65411,kg
+Power Plant,IP Wonogiri,93,Dam,Waste,Sludge,2142170000,liter
+Power Plant,IP Wonogiri,93,Dam,Waste,Feedwater,1945000,liter
+Power Plant,IP Wonogiri,93,Dam,Waste,Feedwater,663187773000,liter
+Power Plant,IP Wonogiri,94,Infiltration Gallery,Waste,Feedwater,1945000,liter
+Power Plant,IP Wonogiri,95,Power Intake,Waste,Waste,5,liter
+Power Plant,IP Wonogiri,95,Power Intake,Waste,Feedwater,663187773000,liter
+Power Plant,IP Wonogiri,96,Trash Rack,Waste,Feedwater,663187773000,liter
+Power Plant,IP Wonogiri,97,Penstock,Waste,Feedwater,663187773000,liter
+Power Plant,IP Wonogiri,98,Main & By Pass Valve,Waste,Waste,1,liter
+Power Plant,IP Wonogiri,98,Main & By Pass Valve,Waste,Feedwater,663187773000,liter
+Power Plant,IP Wonogiri,99,Turbine,Waste,Waste,250,kg
+Power Plant,IP Wonogiri,99,Turbine,Product,Energy,152748000,MJ
+Power Plant,IP Wonogiri,99,Turbine,Waste,Waste,1000,liter
+Power Plant,IP Wonogiri,99,Turbine,Waste,Feedwater,663187773000,liter
+Power Plant,IP Wonogiri,100,Generator,Product,Electricity,216000,kWh
+Power Plant,IP Wonogiri,100,Generator,Product,Electricity,42430000,kWh
+Power Plant,IP Wonogiri,100,Generator,Waste,Mineral oil,319,liter
+Power Plant,IP Wonogiri,101,Main Transformator,Product,Electricity,42214000,kWh
+Power Plant,IP Wonogiri,101,Main Transformator,Waste,Waste,50,liter
+Power Plant,IP Wonogiri,102,Transformator,Product,Electricity,1752,kWh
+Power Plant,IP Wonogiri,102,Transformator,Product,Electricity,0.32,kWh
+Power Plant,IP Wonogiri,102,Transformator,Product,Electricity,0.2,kWh
+Power Plant,IP Wonogiri,102,Transformator,Product,Electricity,0.01,kWh
+Power Plant,IP Wonogiri,102,Transformator,Product,Electricity,64.008,kWh
+Power Plant,IP Wonogiri,102,Transformator,Product,Electricity,0.45,kWh
+Power Plant,IP Wonogiri,102,Transformator,Product,Electricity,829.248,kWh
+Power Plant,IP Wonogiri,102,Transformator,Product,Electricity,15.14,kWh
+Power Plant,IP Wonogiri,102,Transformator,Product,Electricity,14.8,kWh
+Power Plant,IP Wonogiri,102,Transformator,Product,Electricity,64.04,kWh
+Power Plant,IP Wonogiri,102,Transformator,Product,Electricity,0.4,kWh
+Power Plant,IP Wonogiri,103,Transformator,Waste,Waste,1,liter
+Power Plant,IP Wonogiri,104,Main Oil Tank,Waste,Cooling Oil,7700,liter
+Power Plant,IP Wonogiri,104,Main Oil Tank,Waste,"Hazardous Waste, for Incineration",160,kg
+Power Plant,IP Wonogiri,104,Main Oil Tank,Waste,Hydraulic Oil,600,liter
+Power Plant,IP Wonogiri,104,Main Oil Tank,Waste,Waste Lube Oil,1200,kg
+Power Plant,IP Wonogiri,104,Main Oil Tank,Waste,Waste,600,liter
+Power Plant,IP Wonogiri,105,Draft Tube,Waste,Feedwater,663187773000,liter
+Power Plant,IP Wonogiri,106,Tailrace,Waste,Feedwater,663187773000,liter
+Power Plant,IP Wonogiri,107,Emergency Diesel,Emission,Carbon Dioxide (CO2),470,kg
+Power Plant,IP Wonogiri,107,Emergency Diesel,Product,Electricity,1,kWh
+Power Plant,IP Wonogiri,107,Emergency Diesel,Emission,Nitrogen Oxide (NOx),2.08,kg
+Power Plant,IP Wonogiri,107,Emergency Diesel,Emission,Particulates,0.45,kg
+Power Plant,IP Wonogiri,107,Emergency Diesel,Emission,Sulfur Dioxide (SO2),0.72,kg
+Power Plant,IP Wonogiri,108,Power House,Waste,Compost,300,kg
+Power Plant,IP Wonogiri,108,Power House,Waste,"Hazardous Waste, for Incineration",248,kg
+Power Plant,IP Wonogiri,108,Power House,Waste,Oil,7600,liter
+Power Plant,IP Wonogiri,108,Power House,Waste,Waste,4262.8,kg
+Power Plant,IP Wonogiri,108,Power House,Waste,Waste,1945000,liter
+Power Plant,IP Wonogiri,108,Power House,Waste,Waste,192,kg
+Power Plant,IP PB Soedirman,109,Extraction of Water,Waste,Feedwater,3010000000000,liter
+Power Plant,IP PB Soedirman,110,Transportation,Waste,Diesel,60,kg
+Power Plant,IP PB Soedirman,111,Transportation,Waste,Hydraulic Oil,17,liter
+Power Plant,IP PB Soedirman,111,Transportation,Waste,Hydraulic Oil,45,liter
+Power Plant,IP PB Soedirman,111,Transportation,Waste,Waste Lube Oil,5,kg
+Power Plant,IP PB Soedirman,111,Transportation,Waste,Oil,5,liter
+Power Plant,IP PB Soedirman,111,Transportation,Waste,Oil,209,liter
+Power Plant,IP PB Soedirman,111,Transportation,Waste,Oil,37,liter
+Power Plant,IP PB Soedirman,112,Dam,Waste,Sediment,4510000000,liter
+Power Plant,IP PB Soedirman,112,Dam,Waste,Feedwater,21600000,liter
+Power Plant,IP PB Soedirman,112,Dam,Waste,Feedwater,2570000000000,liter
+Power Plant,IP PB Soedirman,112,Dam,Waste,Feedwater,439000000000,liter
+Power Plant,IP PB Soedirman,112,Dam,Waste,Feedwater,50,liter
+Power Plant,IP PB Soedirman,112,Dam,Waste,Feedwater,22,liter
+Power Plant,IP PB Soedirman,113,Power Intake,Product,Feedwater,2570000000000,liter
+Power Plant,IP PB Soedirman,113,Power Intake,Waste,Waste,37,liter
+Power Plant,IP PB Soedirman,114,Trash Rack,Waste,Feedwater,2570000000000,liter
+Power Plant,IP PB Soedirman,114,Trash Rack,Waste,Biowaste (Gulma),604000,liter
+Power Plant,IP PB Soedirman,114,Trash Rack,Waste,Municipal Solid Waste,32000,liter
+Power Plant,IP PB Soedirman,115,Penstock,Waste,Feedwater,2570000000000,liter
+Power Plant,IP PB Soedirman,116,Main & By Pass Valve,Waste,Waste,5,liter
+Power Plant,IP PB Soedirman,116,Main & By Pass Valve,Waste,Feedwater,2570000000000,liter
+Power Plant,IP PB Soedirman,117,Turbine,Product,Energy,1540000000,MJ
+Power Plant,IP PB Soedirman,117,Turbine,Waste,Waste,209,liter
+Power Plant,IP PB Soedirman,117,Turbine,Waste,Feedwater,2570000000000,liter
+Power Plant,IP PB Soedirman,118,Generator,Product,Electricity,427000000,kWh
+Power Plant,IP PB Soedirman,118,Generator,Waste,Waste,5,liter
+Power Plant,IP PB Soedirman,119,Transformator,Product,Electricity,426000000,kWh
+Power Plant,IP PB Soedirman,119,Transformator,Product,Electricity,1700000,kWh
+Power Plant,IP PB Soedirman,119,Transformator,Waste,Waste,5,liter
+Power Plant,IP PB Soedirman,120,Trafo,Product,Electricity,20900,kWh
+Power Plant,IP PB Soedirman,120,Trafo,Product,Electricity,36.3,kWh
+Power Plant,IP PB Soedirman,120,Trafo,Product,Electricity,4940,kWh
+Power Plant,IP PB Soedirman,120,Trafo,Product,Electricity,32,kWh
+Power Plant,IP PB Soedirman,120,Trafo,Product,Electricity,556,kWh
+Power Plant,IP PB Soedirman,120,Trafo,Product,Electricity,0.018,kWh
+Power Plant,IP PB Soedirman,120,Trafo,Product,Electricity,36500,kWh
+Power Plant,IP PB Soedirman,120,Trafo,Product,Electricity,1600000,kWh
+Power Plant,IP PB Soedirman,120,Trafo,Product,Electricity,1940,kWh
+Power Plant,IP PB Soedirman,120,Trafo,Product,Electricity,2950,kWh
+Power Plant,IP PB Soedirman,120,Trafo,Product,Electricity,0.4,kWh
+Power Plant,IP PB Soedirman,120,Trafo,Product,Electricity,5820,kWh
+Power Plant,IP PB Soedirman,121,Main Oil Tank,Product,Hydraulic Oil,5,liter
+Power Plant,IP PB Soedirman,121,Main Oil Tank,Product,Waste Lube Oil,5,kg
+Power Plant,IP PB Soedirman,121,Main Oil Tank,Product,Waste Lube Oil,209,kg
+Power Plant,IP PB Soedirman,122,Generator,Product,Electricity,1,kWh
+Power Plant,IP PB Soedirman,122,Generator,Emission,Carbon Dioxide (CO2),130,kg
+Power Plant,IP PB Soedirman,122,Generator,Emission,Nitrogen Oxide (NOx),0.19,kg
+Power Plant,IP PB Soedirman,122,Generator,Emission,Particulates,0.004,kg
+Power Plant,IP PB Soedirman,122,Generator,Emission,Sulfur Dioxide (SO2),0.003,kg
+Power Plant,IP PB Soedirman,122,Generator,Waste,Waste,5,liter
+Power Plant,IP PB Soedirman,123,Generator,Product,Electricity,1,kWh
+Power Plant,IP PB Soedirman,123,Generator,Emission,Carbon Dioxide (CO2),70,kg
+Power Plant,IP PB Soedirman,123,Generator,Emission,Nitrogen Oxide (NOx),0.15,kg
+Power Plant,IP PB Soedirman,123,Generator,Emission,Particulates,0.003,kg
+Power Plant,IP PB Soedirman,123,Generator,Emission,Sulfur Dioxide (SO2),0.002,kg
+Power Plant,IP PB Soedirman,123,Generator,Waste,Waste,5,liter
+Power Plant,IP PB Soedirman,124,Hazardous Waste,Waste,Waste,276,kg
+Power Plant,IP PB Soedirman,124,Hazardous Waste,Waste,Waste,35,kg
+Power Plant,IP PB Soedirman,124,Hazardous Waste,Waste,Waste,55,kg
+Power Plant,IP PB Soedirman,124,Hazardous Waste,Waste,Waste Lube Oil,5050,kg
+Power Plant,IP PB Soedirman,124,Hazardous Waste,Waste,Air Terkontaminasi B3,3100,kg
+Power Plant,IP PB Soedirman,125,Non-Hazardous Waste,Waste,Paper,759,kg
+Power Plant,IP PB Soedirman,125,Non-Hazardous Waste,Waste,Plastic,380,kg
+Power Plant,IP PB Soedirman,125,Non-Hazardous Waste,Waste,Waste,438,kg
+Power Plant,IP PB Soedirman,125,Non-Hazardous Waste,Waste,Bahan Organik,4650,kg
+Power Plant,IP PB Soedirman,125,Non-Hazardous Waste,Waste,"Kaca, Kain, Karet, Logam dll",18.3,kg
+Power Plant,IP PB Soedirman,126,Power House,Waste,Paper,759,kg
+Power Plant,IP PB Soedirman,126,Power House,Waste,Plastic,380,kg
+Power Plant,IP PB Soedirman,126,Power House,Waste,Waste,438,kg
+Power Plant,IP PB Soedirman,126,Power House,Waste,Bahan Organik,4650,kg
+Power Plant,IP PB Soedirman,126,Power House,Waste,"Kaca, Kain, Karet, Logam dll",18.3,kg
+Power Plant,IP PB Soedirman,126,Power House,Waste,Feedwater,21600000,liter
+Power Plant,IP PB Soedirman,126,Power House,Waste,Waste,276,kg
+Power Plant,IP PB Soedirman,126,Power House,Waste,Waste,35,kg
+Power Plant,IP PB Soedirman,126,Power House,Waste,Waste,55,kg
+Power Plant,IP PB Soedirman,126,Power House,Waste,Waste Lube Oil,5050,kg
+Power Plant,IP PB Soedirman,126,Power House,Waste,Wastewater,3100,kg
+Power Plant,IP PB Soedirman,127,150 kV Transmission Network,Product,Electricity,426000000,kWh
+Power Plant,IP PB Soedirman,128,Distribution Network,Product,Electricity,426000000,kWh
+Power Plant,IP Pemaron,129,Fowarding Pump,Product,Fuel,739641.78,kg
+Power Plant,IP Pemaron,130,Fuel Filtering Skid,Product,Fuel,261396.42,kg
+Power Plant,IP Pemaron,131,Fuel Filtering Skid,Product,Fuel,478245.36,kg
+Power Plant,IP Pemaron,132,Gas Turbine Generator,Product,Electricity,762718.4443,kWh
+Power Plant,IP Pemaron,132,Gas Turbine Generator,Emission,Carbon Dioxide (CO2),812657.3195,kg
+Power Plant,IP Pemaron,132,Gas Turbine Generator,Emission,Feedwater,353228.8917,liter
+Power Plant,IP Pemaron,132,Gas Turbine Generator,Emission,Sulfur Dioxide (SO2),1029.901895,kg
+Power Plant,IP Pemaron,132,Gas Turbine Generator,Emission,Dinitrogen (N2),2980668.99,kg
+Power Plant,IP Pemaron,132,Gas Turbine Generator,Emission,Hydrogen (H2),754.25,kg
+Power Plant,IP Pemaron,132,Gas Turbine Generator,Waste,Waste,1658.073588,liter
+Power Plant,IP Pemaron,133,Gas Turbine Generator,Product,Electricity,1328917.556,kWh
+Power Plant,IP Pemaron,133,Gas Turbine Generator,Emission,Carbon Dioxide (CO2),1486820.639,kg
+Power Plant,IP Pemaron,133,Gas Turbine Generator,Emission,Feedwater,646260.1075,liter
+Power Plant,IP Pemaron,133,Gas Turbine Generator,Emission,Sulfur Dioxide (SO2),1884.286718,kg
+Power Plant,IP Pemaron,133,Gas Turbine Generator,Emission,Dinitrogen (N2),5453368.926,kg
+Power Plant,IP Pemaron,133,Gas Turbine Generator,Emission,Hydrogen (H2),251.4166667,kg
+Power Plant,IP Pemaron,133,Gas Turbine Generator,Waste,Waste,1658.073588,liter
+Power Plant,IP Pemaron,134,Aux Transformator,Product,Electricity,395729.1,kWh
+Power Plant,IP Pemaron,135,Aux Transformator,Product,Electricity,252125,kWh
+Power Plant,IP Pemaron,136,Main Transformator,Product,Electricity,2091636,kWh
+Power Plant,IP Pemaron,137,Deep Well,Waste,Feedwater,3798000,liter
+Power Plant,IP Pemaron,138,Raw Water Tank,Waste,Feedwater,3798000,liter
+Power Plant,IP Pemaron,139,Water Treatment Plant,Waste,Feedwater,372236,liter
+Power Plant,IP Pemaron,139,Water Treatment Plant,Waste,Wastewater,15509.83333,kg
+Power Plant,IP Pemaron,140,Taman,Waste,Feedwater,3410254.167,liter
+Power Plant,IP Pemaron,141,Water Tank,Waste,Feedwater,372236,liter
+Power Plant,IP Pemaron,142,Air Conditioner Condensation Water Tank,Waste,Condensated Water,62722.1,liter
+Power Plant,IP Pemaron,143,Demineralized Plant,Waste,Demineralized Water,1672,liter
+Power Plant,IP Pemaron,143,Demineralized Plant,Waste,Demineralized Water,9051,liter
+Power Plant,IP Pemaron,143,Demineralized Plant,Waste,Reject Water,58027.1,liter
+Power Plant,IP Pemaron,144,DWTP Tank,Product,Demineralized Water,64394.1,liter
+Power Plant,IP Pemaron,145,DWTP Tank,Product,Demineralized Water,9051,liter
+Power Plant,IP Pemaron,146,Hydrogen Plant,Emission,Hydrogen (H2),1005.666667,kg
+Power Plant,IP Pemaron,146,Hydrogen Plant,Emission,Oxygen (O2),8045.333333,kg
+Power Plant,IP Pemaron,147,Fire Fighting Skid,Waste,Feedwater,33616,liter
+Power Plant,IP Pemaron,147,Fire Fighting Skid,Emission,Carbon Dioxide (CO2),132.6570877,kg
+Power Plant,IP Pemaron,147,Fire Fighting Skid,Emission,Feedwater,57.66060916,liter
+Power Plant,IP Pemaron,147,Fire Fighting Skid,Emission,Sulfur Dioxide (SO2),0.1681198,kg
+Power Plant,IP Pemaron,147,Fire Fighting Skid,Emission,Dinitrogen (N2),486.5603967,kg
+Power Plant,IP Pemaron,148,Maintenance,Waste,Wastewater,143264,kg
+Power Plant,IP Pemaron,149,Office,Waste,Wastewater,191000,kg
+Power Plant,IP Pemaron,150,Water Treatment Plant,Emission,Treated Water Waste,73536.93333,liter
+Power Plant,IP Pemaron,151,Waste Separator,Waste,Waste,3316.147176,liter
+Power Plant,IP Pemaron,151,Waste Separator,Waste,Sludge,5.7,kg
+Power Plant,IP Pemaron,152,Bio Threat,Waste,Treated Water Waste,191000,liter
+Power Plant,IP Saguling,153,Emergency Generator,Product,Electricity,132374,kWh
+Power Plant,IP Saguling,154,Emergency Generator,Product,Electricity,3861976.981,kWh
+Power Plant,IP Saguling,154,Emergency Generator,Emission,Particulates,0.0001,kg
+Power Plant,IP Saguling,154,Emergency Generator,Emission,Particulates,0.00003,kg
+Power Plant,IP Saguling,154,Emergency Generator,Emission,Carbon Monoxide (CO),0.0001,kg
+Power Plant,IP Saguling,154,Emergency Generator,Emission,"Hydrocarbons, Unspecified",0.0000000182,kg
+Power Plant,IP Saguling,154,Emergency Generator,Emission,Hydrogen Peroxide,0.00007,kg
+Power Plant,IP Saguling,154,Emergency Generator,Emission,Hydrogen Sulfide,0.00000035,kg
+Power Plant,IP Saguling,154,Emergency Generator,Emission,Nitrogen Dioxide (NO2),0.00003,kg
+Power Plant,IP Saguling,154,Emergency Generator,Waste,"Suspended Solids, Unspecified",0.2,kg
+Power Plant,IP Saguling,155,Dam and Reservoir,Waste,Aliran Air Masuk (Dam & Reservoir),224,m3*a
+Power Plant,IP Saguling,155,Dam and Reservoir,Waste,Jumlah Air Masuk (Dam & Reservoir),3530000000000,liter
+Power Plant,IP Saguling,155,Dam and Reservoir,Waste,Feedwater,2400,liter
+Power Plant,IP Saguling,156,Disposal Oil Tank,Waste,Waste,1600,kg
+Power Plant,IP Saguling,157,Trash Rack,Waste,Feedwater,224,liter
+Power Plant,IP Saguling,158,Intake Gate,Waste,Aliran Air Keluar (Trash Rack),224,m3*a
+Power Plant,IP Saguling,159,"Penstoke, Headrace tunnel, surge tank",Waste,"Aliran Air Keluar (Penstoke, headrace tunnel, surge tank)",54.8,m3*a
+Power Plant,IP Saguling,160,Main & By Pass Valve,Waste,Aliran Air Keluar (Main & Bypass Valve),54.8,m3*a
+Power Plant,IP Saguling,161,Turbine & Generator,Waste,Waste,1600,kg
+Power Plant,IP Saguling,161,Turbine & Generator,Waste,Feedwater,56,liter
+Power Plant,IP Saguling,162,Transformator,Product,Electricity,2509358030,kWh
+Power Plant,IP Saguling,163,Oil Tank Unit,Waste,Waste Lube Oil,7284.51,kg
+Power Plant,IP Jeranjang,164,Water Treatment Plant,Waste,Demineralized Water,61506186.8,kg
+Power Plant,IP Jeranjang,164,Water Treatment Plant,Waste,Wastewater,1.77190545,kg
+Power Plant,IP Jeranjang,164,Water Treatment Plant,Waste,Demineralized Water,25698890,kg
+Power Plant,IP Jeranjang,164,Water Treatment Plant,Waste,Wastewater,315062620,kg
+Power Plant,IP Jeranjang,165,Pellet Handling System,Product,Pelet,19150.2,kg
+Power Plant,IP Jeranjang,165,Pellet Handling System,Product,Pelet,8000,kg
+Power Plant,IP Jeranjang,166,Coal Handling System,Waste,Fine Coal,958.2377076,kg
+Power Plant,IP Jeranjang,166,Coal Handling System,Product,Coal,341516155.6,kg
+Power Plant,IP Jeranjang,166,Coal Handling System,Waste,Fine Coal,400,kg
+Power Plant,IP Jeranjang,166,Coal Handling System,Product,Coal,142694360,kg
+Power Plant,IP Jeranjang,167,HSD Tank,Waste,HSD,90899616,kg
+Power Plant,IP Jeranjang,167,HSD Tank,Waste,HSD,37980000,kg
+Power Plant,IP Jeranjang,168,Condenser,Waste,Condensated Water,1727803389,kg
+Power Plant,IP Jeranjang,168,Condenser,Waste,Condensated Water,721921310,kg
+Power Plant,IP Jeranjang,168,Condenser,Waste,Feedwater,130.085,liter
+Power Plant,IP Jeranjang,168,Condenser,Waste,Feedwater,23130422290,liter
+Power Plant,IP Jeranjang,169,Boiler,Product,Steam,1725799002,kg
+Power Plant,IP Jeranjang,169,Boiler,Waste,FABA,22546168.8,kg
+Power Plant,IP Jeranjang,169,Boiler,Waste,Wastewater,0.00471,kg
+Power Plant,IP Jeranjang,169,Boiler,Product,Steam,721083820,kg
+Power Plant,IP Jeranjang,169,Boiler,Waste,FABA,9420380,kg
+Power Plant,IP Jeranjang,169,Boiler,Waste,Wastewater,837490,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Carbon Dioxide (CO2),0.000159,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Carbon Dioxide (CO2),0.000031,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Nitrogen Dioxide (NO2),0.001642,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Nitrogen Dioxide (NO2),0.000031,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Sulfur Dioxide (SO2),0.000134,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Hydrogen Sulfide (H2S),0.000176,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Carbon Dioxide (CO2),28270,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Carbon Dioxide (CO2),5510,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Nitrogen Dioxide (NO2),291960,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Nitrogen Dioxide (NO2),5510,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Sulfur Dioxide (SO2),23830,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Hydrogen Sulfide (H2S),31290,kg
+Power Plant,IP Jeranjang,170,Turbine & Generator,Waste,Waste Lube Oil,0.000009,kg
+Power Plant,IP Jeranjang,170,Turbine & Generator,Waste,Steam,1666297202,kg
+Power Plant,IP Jeranjang,170,Turbine & Generator,Waste,Electricity,0.11025,kWh
+Power Plant,IP Jeranjang,170,Turbine & Generator,Waste,Electricity,1,kWh
+Power Plant,IP Jeranjang,170,Turbine & Generator,Waste,Waste Lube Oil,1600,kg
+Power Plant,IP Jeranjang,170,Turbine & Generator,Waste,Steam,696222420,kg
+Power Plant,IP Jeranjang,170,Turbine & Generator,Product,Electricity,19603559.65,kWh
+Power Plant,IP Jeranjang,170,Turbine & Generator,Product,Electricity,177810064.9,kWh
+Power Plant,IP Jeranjang,171,Trafo,Product,Electricity,1,kWh
+Power Plant,IP Jeranjang,171,Trafo,Product,Electricity,158206505.2,kWh
+Power Plant,IP Jeranjang,172,Water Treatment Plant,Emission,Waste,757496800,kg
+Power Plant,IP Jeranjang,172,Water Treatment Plant,Emission,Waste,316501900,kg
+Power Plant,IP Jeranjang,173,Ash Disposal,Emission,Fly Ash dan Bottom Ash (diambil pihak ke-3),22546168.8,kg
+Power Plant,IP Jeranjang,173,Ash Disposal,Emission,Fly Ash dan Bottom Ash (diambil pihak ke-3),9420380,kg
+Power Plant,IP Jeranjang,174,Water Tank,Emission,Waste Lube Oil,0.000009,kg
+Power Plant,IP Jeranjang,174,Water Tank,Emission,Waste Lube Oil,1600,kg
+Power Plant,IP Jeranjang,175,Lube Oil Tank,Waste,Waste Lube Oil,0.000018,kg
+Power Plant,IP Jeranjang,175,Lube Oil Tank,Waste,Waste Lube Oil,3200,kg
+Power Plant,IP Grati,176,Gas Turbine,Emission,Carbon Dioxide (CO2),172754230,kg
+Power Plant,IP Grati,176,Gas Turbine,Emission,Sulfur Dioxide (SO2),65200,kg
+Power Plant,IP Grati,176,Gas Turbine,Emission,Nitrogen Dioxide (NO2),1966290,kg
+Power Plant,IP Grati,176,Gas Turbine,Emission,Total Partikulat,49570,kg
+Power Plant,IP Grati,176,Gas Turbine,Product,Electricity,1591613749,Kwh
+Power Plant,IP Grati,176,Gas Turbine,Waste,GT Cooling Water,2582705.9,kg
+Power Plant,IP Grati,176,Gas Turbine,Waste,Waste Lube Oil,12980,kg
+Power Plant,IP Grati,176,Gas Turbine,Waste,Waste,540,kg
+Power Plant,IP Grati,176,Gas Turbine,Waste,Waste,140,kg
+Power Plant,IP Grati,176,Gas Turbine,Waste,Lamp,100,kg
+Power Plant,IP Grati,176,Gas Turbine,Waste,Waste,310,kg
+Power Plant,IP Grati,177,HRSG,Emission,Carbon Dioxide (CO2),601737.49,kg
+Power Plant,IP Grati,177,HRSG,Emission,Sulfur Dioxide (SO2),319.23,kg
+Power Plant,IP Grati,177,HRSG,Emission,Nitrogen Dioxide (NO2),9265.38,kg
+Power Plant,IP Grati,177,HRSG,Emission,Total Partikulat,375.13,kg
+Power Plant,IP Grati,177,HRSG,Waste,Steam,2022601408694,kCal
+Power Plant,IP Grati,177,HRSG,Waste,Steam,2923788468,kg
+Power Plant,IP Grati,177,HRSG,Waste,Blowdown HRSG,60050000,kg
+Power Plant,IP Grati,177,HRSG,Waste,Waste,80,kg
+Power Plant,IP Grati,177,HRSG,Waste,Waste,160,kg
+Power Plant,IP Grati,178,Steam Turbine,Emission,Losses Steam ST,31465829.23,kg
+Power Plant,IP Grati,178,Steam Turbine,Product,Electricity,8901284.12,Kwh
+Power Plant,IP Grati,178,Steam Turbine,Waste,Steam,2923788468,kg
+Power Plant,IP Grati,178,Steam Turbine,Waste,Waste,35,kg
+Power Plant,IP Grati,178,Steam Turbine,Waste,Waste,7596243,kg
+Power Plant,IP Grati,178,Steam Turbine,Waste,Lamp,87,kg
+Power Plant,IP Grati,178,Steam Turbine,Waste,Waste,145,kg
+Power Plant,IP Labuan,179,Condenser,Product,Condensated Water,1382975399,kg
+Power Plant,IP Labuan,180,Feed Water Sistem (Heater),Product,Feedwater,3.249777703,liter
+Power Plant,IP Labuan,181,Boiler,Product,Feedwater,3.249777703,liter
+Power Plant,IP Labuan,182,Turbine,Product,Torsi,1.06,kWh
+Power Plant,IP Labuan,182,Turbine,Product,Extraction Steam,446520.2095,kg
+Power Plant,IP Labuan,183,Generator,Product,Electricity,1.06,kWh
+Power Plant,IP Labuan,184,Trafo,Product,Electricity,1,Kwh
+Power Plant,IP Labuan,184,Trafo,Product,Electricity,0.06,kwh
+Power Plant,IP PLTG Gilimanuk,185,HSD Storage,Waste,Filter F/O Waste,37,kg
+Power Plant,IP PLTG Gilimanuk,185,HSD Storage,Waste,HSD Fuel (HSD Storage),2239866.91,kg
+Power Plant,IP PLTG Gilimanuk,185,HSD Storage,Waste,Waste,37.3,kg
+Power Plant,IP PLTG Gilimanuk,185,HSD Storage,Waste,Waste,2265,kg
+Power Plant,IP PLTG Gilimanuk,185,HSD Storage,Emission,Carbon Dioxide (CO2),18066.05,kg
+Power Plant,IP PLTG Gilimanuk,186,Governor Control Valve,Waste,HSD Fuel (Governor Control Valve),2237601.91,kg
+Power Plant,IP PLTG Gilimanuk,187,Gas Turbine,Waste,Thermal Energy (Gas Turbine),23683029570,kcal
+Power Plant,IP PLTG Gilimanuk,187,Gas Turbine,Emission,Carbon Dioxide (CO2),6957221.4,kg
+Power Plant,IP PLTG Gilimanuk,187,Gas Turbine,Emission,Nitrogen Oxide (NOx),25514352.81,kg
+Power Plant,IP PLTG Gilimanuk,187,Gas Turbine,Emission,Sulfur Dioxide (SO2),8995.16,kg
+Power Plant,IP PLTG Gilimanuk,187,Gas Turbine,Emission,Feedwater,3062843.74,liter
+Power Plant,IP PLTG Gilimanuk,188,Generator,Product,Electricity,7352050,kWh
+Power Plant,IP PLTG Gilimanuk,188,Generator,Product,Electricity,238350,kWh
+Power Plant,IP PLTG Gilimanuk,188,Generator,Emission,Carbon Dioxide (CO2),9245.81,kg
+Power Plant,IP PLTG Gilimanuk,189,Main Transformator,Product,Electricity,7352050,kWh
+Power Plant,IP PLTG Gilimanuk,189,Main Transformator,Emission,Carbon Dioxide (CO2),309.7,kg
+Power Plant,IP PLTG Gilimanuk,190,Aux Transformator,Product,Electricity,238350,kWh
+Power Plant,IP PLTG Gilimanuk,191,Liquid Waste Separator,Waste,Oil (Return to HSD Storage),2265,kg
+Power Plant,IP PLTG Gilimanuk,191,Liquid Waste Separator,Emission,Carbon Dioxide (CO2),43.1,kg
+Power Plant,IP PLTG Gilimanuk,192,Lube Oil Tank,Waste,Oil Shell T 46 (Lube Oil Tank),15532.25,kg
+Power Plant,IP PLTG Gilimanuk,192,Lube Oil Tank,Emission,Carbon Dioxide (CO2),96.78,kg
+Power Plant,IP PLTG Gilimanuk,193,Main Lube Oil Pump,Waste,Oil Shell T 46 (Main Lube Oil Pump),15532.25,kg
+Power Plant,IP PLTG Gilimanuk,193,Main Lube Oil Pump,Emission,Carbon Dioxide (CO2),3548.69,kg
+Power Plant,IP PLTG Gilimanuk,194,Power Oil Pump,Waste,Oil Shell T 46 (Power Oil Pump),15532.25,kg
+Power Plant,IP PLTG Gilimanuk,194,Power Oil Pump,Emission,Carbon Dioxide (CO2),1193.65,kg
+Power Plant,IP PLTG Gilimanuk,195,Pre Treatment Plant,Waste,Filter Product (Pre Treatment Plant),58182.67,kg
+Power Plant,IP PLTG Gilimanuk,195,Pre Treatment Plant,Waste,Wastewater,9388.57,kg
+Power Plant,IP PLTG Gilimanuk,195,Pre Treatment Plant,Emission,Carbon Dioxide (CO2),23.1,kg
+Power Plant,IP PLTG Gilimanuk,196,RO System,Waste,RO Product (RO System),44418.4,kg
+Power Plant,IP PLTG Gilimanuk,196,RO System,Waste,Wastewater,13764.27,kg
+Power Plant,IP PLTG Gilimanuk,196,RO System,Emission,Carbon Dioxide (CO2),37.96,kg
+Power Plant,IP PLTG Gilimanuk,197,Demineralization Process,Waste,Demin Water (Demineralization Process),39670,kg
+Power Plant,IP PLTG Gilimanuk,197,Demineralization Process,Waste,Wastewater,4748.4,kg
+Power Plant,IP PLTG Gilimanuk,197,Demineralization Process,Emission,Carbon Dioxide (CO2),51.16,kg
+Power Plant,IP PLTG Gilimanuk,198,Demin Storage,Waste,Cool Water (Demin Storage),410,kg
+Power Plant,IP PLTG Gilimanuk,198,Demin Storage,Waste,NOx Water (Demin Storage),39260,kg
+Power Plant,IP PLTG Gilimanuk,198,Demin Storage,Emission,Carbon Dioxide (CO2),23.1,kg
+Power Plant,IP PLTG Gilimanuk,199,Cooling Water Pump,Waste,Cool Water (Cooling Water Pump),410,kg
+Power Plant,IP PLTG Gilimanuk,199,Cooling Water Pump,Emission,Carbon Dioxide (CO2),2387.3,kg
+Power Plant,IP PLTG Gilimanuk,200,NOx Water System,Waste,NOx Water (NOx Water System),39260,kg
+Power Plant,IP PLTG Gilimanuk,200,NOx Water System,Emission,Carbon Dioxide (CO2),12904.32,kg
+Power Plant,IP PLTG Gilimanuk,201,Wastewater,Waste,Wastewater,27901.24,kg
+Power Plant,IP PLTG Gilimanuk,201,Wastewater,Emission,Carbon Dioxide (CO2),1.31,kg
+Power Plant,IP PLTG Gilimanuk,202,Wastewater,Emission,Carbon Dioxide (CO2),1.16,kg
+Power Plant,IP PLTG Gilimanuk,202,Wastewater,Emission,Feedwater,4401.24,liter
+Power Plant,IP PLTG Gilimanuk,202,Wastewater,Emission,Chromium (Cr),0.00026,kg
+Power Plant,IP PLTG Gilimanuk,202,Wastewater,Emission,Copper (Cu),0.00084,kg
+Power Plant,IP PLTG Gilimanuk,202,Wastewater,Emission,Iron (Fe),0.00336,kg
+Power Plant,IP PLTG Gilimanuk,202,Wastewater,Emission,Oil,0.042,liter
+Power Plant,IP PLTG Gilimanuk,202,Wastewater,Emission,"Suspended Solids, Unspecified",0.069,kg
+Power Plant,IP PLTG Gilimanuk,202,Wastewater,Emission,Feedwater,23499.99,liter
+Power Plant,IP PLTG Gilimanuk,202,Wastewater,Emission,Zinc (Zn),0.00044,kg
+Power Plant,IP Suralaya,203,Coal Handling System,Product,Coal,1991070650,kg
+Power Plant,IP Suralaya,203,Coal Handling System,Product,Coal,1668514540,kg
+Power Plant,IP Suralaya,204,Chlorination Plant,Emission,Hydrogen (H2),300,kg
+Power Plant,IP Suralaya,204,Chlorination Plant,Product,Sodium Hypochlorite (NaOCl),1050318,kg
+Power Plant,IP Suralaya,204,Chlorination Plant,Product,Feedwater,77760791.7,liter
+Power Plant,IP Suralaya,204,Chlorination Plant,Product,Citric Acid,1250,kg
+Power Plant,IP Suralaya,204,Chlorination Plant,Product,Sodium Hydroxide (NaOH 48%),1250,kg
+Power Plant,IP Suralaya,205,Desalination Plant,Emission,Steam leak,6174000,kg
+Power Plant,IP Suralaya,205,Desalination Plant,Emission,Air Laut Cooling Return,7316190000,kg
+Power Plant,IP Suralaya,205,Desalination Plant,Emission,Brine Water,633372000,kg
+Power Plant,IP Suralaya,205,Desalination Plant,Product,Feedwater,571332000,liter
+Power Plant,IP Suralaya,205,Desalination Plant,Product,Air Service,61740000,kg
+Power Plant,IP Suralaya,206,HSD Tank,Product,HSD,1852006.06,liter
+Power Plant,IP Suralaya,206,HSD Tank,Product,HSD,884455.44,liter
+Power Plant,IP Suralaya,206,HSD Tank,Product,HSD,590627,liter
+Power Plant,IP Suralaya,207,TPS Limbah B3,Emission,Waste Lube Oil,16440,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Emission,Waste,640,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Emission,Waste,1030,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Emission,Waste,1140,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Emission,Waste,1520,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Emission,Filter,400,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Emission,Pasir Terkontaminasi,15110,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Emission,Bahan Kimia Kadaluarsa,1440,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Emission,Waste,20,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Emission,Waste,460,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Emission,Fly Ash,74220710,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Emission,Bottom Ash,8583140,kg
+Power Plant,IP Suralaya,208,Water Treatment Plant,Emission,TSS,124.02,kg
+Power Plant,IP Suralaya,208,Water Treatment Plant,Emission,Iron (Fe),3.22,kg
+Power Plant,IP Suralaya,208,Water Treatment Plant,Emission,Copper (Cu),0.38,kg
+Power Plant,IP Suralaya,208,Water Treatment Plant,Emission,Chromium (Cr),1.78,kg
+Power Plant,IP Suralaya,208,Water Treatment Plant,Emission,Zinc (Zn),0.64,kg
+Power Plant,IP Suralaya,208,Water Treatment Plant,Emission,PO4,8.03,kg
+Power Plant,IP Suralaya,208,Water Treatment Plant,Emission,Minyak & Lemak,17.3,kg
+Power Plant,IP Suralaya,208,Water Treatment Plant,Product,Effluent WWTP,13328000,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Emission,Sulfur Dioxide (SO2),2403040,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Emission,Nitrogen Dioxide (NO2),1529820,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Emission,Total Partikulat,185000,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Product,Electricity,3177872320,kWh
+Power Plant,IP Suralaya,209,Unit Pembangkit,Waste,Waste Lube Oil,14930,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Waste,Waste,510,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Waste,Fly Ash,65426600,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Waste,Bottom Ash,7618270,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Waste,Filter,360,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Waste,Lamp,640,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Waste,Waste,1300,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Waste,Waste,930,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Waste,Waste,1090,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Emission,Losses Steam ST,1098900,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Emission,Losses Air ST,43956000,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Product,Steam,12857130000,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Product,Steam,1864467000,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Waste,Filter,0.4,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Product,Lamp,1.03,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Waste,Waste,1.52,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Emission,Gas SF6,160,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Product,Electricity,3005366920,kWh
+Power Plant,IP Suralaya,209,Unit Pembangkit,Product,Pemakaian Sendiri (PS) ST,172505400,kWh
+Power Plant,IP Suralaya,209,Unit Pembangkit,Waste,Waste Lube Oil,200,kg
+Power Plant,IP Cilegon,210,Gas Station,Product,Natural Gas,387988570,kg
+Power Plant,IP Cilegon,211,Desalination Plant,Emission,Brine Desal Plant,2346870000,kg
+Power Plant,IP Cilegon,211,Desalination Plant,Product,Distilat Desal,104678000,kg
+Power Plant,IP Cilegon,211,Desalination Plant,Product,Condensated Desal,10424000,kg
+Power Plant,IP Cilegon,211,Desalination Plant,Waste,Waste,1820000,kg
+Power Plant,IP Cilegon,212,Raw Water Tank,Product,Service Water,104678000,kg
+Power Plant,IP Cilegon,213,Common Unit,Product,Make-Up Water,107957770,kg
+Power Plant,IP Cilegon,213,Common Unit,Product,Waste,395.48,kg
+Power Plant,IP Cilegon,213,Common Unit,Waste,Waste,2360,kg
+Power Plant,IP Cilegon,214,Water Treatment Plant,Waste,Sludge,68000,kg
+Power Plant,IP Cilegon,214,Water Treatment Plant,Product,Purified Effluent WWTP,7909500,kg
+Power Plant,IP Cilegon,214,Water Treatment Plant,Waste,Waste,1790,kg
+Power Plant,IP Cilegon,215,TPS Limbah B3,Waste,Waste Lube Oil,4.48,kg
+Power Plant,IP Cilegon,215,TPS Limbah B3,Waste,Waste,0.21,kg
+Power Plant,IP Cilegon,215,TPS Limbah B3,Waste,Waste,0.41,kg
+Power Plant,IP Cilegon,215,TPS Limbah B3,Waste,Sludge,0.07,kg
+Power Plant,IP Cilegon,215,TPS Limbah B3,Waste,Waste,0.13,kg
+Power Plant,IP Cilegon,215,TPS Limbah B3,Waste,Waste,2.97,kg
+Power Plant,IP Cilegon,215,TPS Limbah B3,Waste,Waste,1.3,kg
+Power Plant,IP Cilegon,216,Hotwell/Condensor,Waste,Waste,2724.09,kg
+Power Plant,IP Cilegon,216,Hotwell/Condensor,Waste,Feedwater,76553368000,liter
+Power Plant,IP Cilegon,216,Hotwell/Condensor,Product,Condensated Water,107957770,kg
+Power Plant,IP Cilegon,217,Gas Turbine,Product,Electricity,1467494368,kWh
+Power Plant,IP Cilegon,217,Gas Turbine,Product,Exhaust Gas,55969576.71,kCal
+Power Plant,IP Cilegon,217,Gas Turbine,Product,Waste Lube Oil,2480,kg
+Power Plant,IP Cilegon,217,Gas Turbine,Product,Waste,210,kg
+Power Plant,IP Cilegon,217,Gas Turbine,Product,Glass Wool,130,kg
+Power Plant,IP Cilegon,217,Gas Turbine,Product,Lamp,200,kg
+Power Plant,IP Cilegon,217,Gas Turbine,Product,Waste,500,kg
+Power Plant,IP Cilegon,218,HRSG,Emission,Carbon Dioxide (CO2),898175510,kg
+Power Plant,IP Cilegon,218,HRSG,Emission,Sulfur Dioxide (SO2),433926510,kg
+Power Plant,IP Cilegon,218,HRSG,Emission,Nitrogen Dioxide (NO2),57854463759000,kg
+Power Plant,IP Cilegon,218,HRSG,Emission,Total Partikulat,1225807080,kg
+Power Plant,IP Cilegon,218,HRSG,Product,Steam,3320040000,kg
+Power Plant,IP Cilegon,218,HRSG,Product,Losses Air HRSG,3501.8,kg
+Power Plant,IP Cilegon,218,HRSG,Product,Blowdown HRSG,3501.8,kg
+Power Plant,IP Cilegon,218,HRSG,Waste,Waste,1000,kg
+Power Plant,IP Cilegon,218,HRSG,Waste,Waste,400,kg
+Power Plant,IP Cilegon,219,Steam Turbine,Emission,Losses Steam ST,118381.77,kg
+Power Plant,IP Cilegon,219,Steam Turbine,Product,Electricity,683683184,kWh
+Power Plant,IP Cilegon,219,Steam Turbine,Product,Steam,104678000,kg
+Power Plant,IP Cilegon,219,Steam Turbine,Product,Lamp,200,kg
+Power Plant,IP Cilegon,219,Steam Turbine,Waste,Waste,400,kg
+Power Plant,IP Cilegon,219,Steam Turbine,Waste,Waste,2000,kg
+Power Plant,IP Cilegon,220,Transformator,Product,Electricity,1467494368,kWh
+Power Plant,IP Cilegon,220,Transformator,Product,Electricity,683683184,kWh
+Power Plant,IP Cilegon,220,Transformator,Product,Pemakaian Sendiri (PS) GT,55969577,kWh
+Power Plant,IP Cilegon,220,Transformator,Product,Pemakaian Sendiri (PS) ST,3876681,kWh
+Power Plant,IP Adipala,221,Coal Handling System,Emission,Sulfur Dioxide (SO2),0.0000876,kg
+Power Plant,IP Adipala,221,Coal Handling System,Emission,Carbon Monoxide (CO),0.002,kg
+Power Plant,IP Adipala,221,Coal Handling System,Emission,Nitrogen Dioxide (NO2),0.00000438,kg
+Power Plant,IP Adipala,221,Coal Handling System,Emission,Particulate Matter (PM10),0.0000613,kg
+Power Plant,IP Adipala,221,Coal Handling System,Emission,PM2.5,0.0000304,kg
+Power Plant,IP Adipala,221,Coal Handling System,Emission,Oxydant,0.0000105,kg
+Power Plant,IP Adipala,221,Coal Handling System,Emission,TSP,0.00000061,kg
+Power Plant,IP Adipala,221,Coal Handling System,Emission,Hydrocarbon (HC),0.0000875,kg
+Power Plant,IP Adipala,221,Coal Handling System,Emission,Lead,0.00000004,kg
+Power Plant,IP Adipala,222,Fuel Oil Tank,Product,HSD B30,1902847.02,liter
+Power Plant,IP Adipala,223,Chlorination Plant,Emission,Chlorine (Cl2),562800000,kg
+Power Plant,IP Adipala,224,SWRO,Waste,Wastewater,40117000,kg
+Power Plant,IP Adipala,224,SWRO,Waste,Feedwater,231496370,liter
+Power Plant,IP Adipala,225,Demineralized Plant,Waste,Wastewater,79360250,kg
+Power Plant,IP Adipala,225,Demineralized Plant,Waste,Demineralized Water,180851000,liter
+Power Plant,IP Adipala,226,Condenser,Emission,Chlorine (Cl2),562800000,kg
+Power Plant,IP Adipala,226,Condenser,Emission,Chlorine (Cl2),933804.77,kg
+Power Plant,IP Adipala,226,Condenser,Waste,Feedwater,7300743360,liter
+Power Plant,IP Adipala,227,Condensate Polishing Unit,Waste,Feedwater,7300743360,liter
+Power Plant,IP Adipala,228,Heater,Waste,Feedwater,10973539110,liter
+Power Plant,IP Adipala,229,Deaerator,Waste,Feedwater,10973539110,liter
+Power Plant,IP Adipala,230,Boiler,Emission,Bottom Ash,5454500,kg
+Power Plant,IP Adipala,230,Boiler,Emission,Flue Gas,4098702000,liter
+Power Plant,IP Adipala,230,Boiler,Emission,Carbon Dioxide (CO2),3428896300,kg
+Power Plant,IP Adipala,230,Boiler,Emission,Nitrous Oxide (N2O),51190,kg
+Power Plant,IP Adipala,230,Boiler,Emission,Methane (CH4),34240,kg
+Power Plant,IP Adipala,230,Boiler,Emission,Nitrogen Oxide (NOx),2511200,kg
+Power Plant,IP Adipala,230,Boiler,Emission,Particulates,559200,kg
+Power Plant,IP Adipala,230,Boiler,Emission,Sulfur Dioxide (SO2),3056000,kg
+Power Plant,IP Adipala,230,Boiler,Product,Steam,10973539110,kg
+Power Plant,IP Adipala,231,Turbine & Generator,Product,Energy,3698655201,kWh
+Power Plant,IP Adipala,231,Turbine & Generator,Product,Steam,7119892360,kg
+Power Plant,IP Adipala,231,Turbine & Generator,Product,Steam,3853646750,kg
+Power Plant,IP Adipala,232,Transformator,Product,Electricity,3529604317,kWh
+Power Plant,IP Adipala,233,ESP,Waste,Fly Ash,66499710,kg
+Power Plant,IP Adipala,234,Water Treatment Plant,Emission,TSS,588.2,kg
+Power Plant,IP Adipala,234,Water Treatment Plant,Emission,Oil,30.8,liter
+Power Plant,IP Adipala,234,Water Treatment Plant,Emission,Sludge,100,kg
+Power Plant,IP Adipala,234,Water Treatment Plant,Emission,BOD,17.1,kg
+Power Plant,IP Adipala,234,Water Treatment Plant,Emission,Iron (Fe),9.4,kg
+Power Plant,IP Adipala,234,Water Treatment Plant,Emission,Copper (Cu),1.1,kg
+Power Plant,IP Adipala,234,Water Treatment Plant,Emission,Chromium (Cr),3.2,kg
+Power Plant,IP Adipala,234,Water Treatment Plant,Emission,Zinc (Zn),6.6,kg
+Power Plant,IP Adipala,234,Water Treatment Plant,Emission,PO4,2.6,kg
+Power Plant,IP Adipala,234,Water Treatment Plant,Emission,Residual Cl,2.2,kg
+Power Plant,IP Adipala,234,Water Treatment Plant,Emission,TOC,242.3,kg
+Power Plant,IP Adipala,234,Water Treatment Plant,Emission,Manganese (Mn),0.4,kg
+Power Plant,IP Adipala,234,Water Treatment Plant,Waste,Reuse Water,50457730,liter
+Power Plant,IP Adipala,235,Ash Pond,Waste,Bottom Ash,5454530,kg
+Power Plant,IP Adipala,235,Ash Pond,Waste,Fly Ash,66499710,kg
+Power Plant,IP Adipala,235,Ash Pond,Waste,Leachate Water,5219200,liter
+Power Plant,IP Adipala,236,Hazardous & Toxic Pond,Waste,Waste,25440,kg
+Mining,Timah Batu Besi,237,Stripping,Product,Ore,57710000,kg
+Mining,Timah Batu Besi,237,Stripping,Waste,Tin,463544500,kg
+Mining,Timah Batu Besi,237,Stripping,Emission,Carbon Dioxide (CO2),37394,kg
+Mining,Timah Batu Besi,238,Material Handling,Emission,Carbon Dioxide (CO2),87251.8,kg
+Mining,Timah Batu Besi,239,Rehandling,Product,Ore Greisen,40534000,kg
+Mining,Timah Batu Besi,239,Rehandling,Product,Ore Oxide,17116000,kg
+Mining,Timah Batu Besi,239,Rehandling,Product,Ore Skarn,60000,kg
+Mining,Timah Batu Besi,239,Rehandling,Emission,Carbon Dioxide (CO2),8214.4,kg
+Mining,Timah Batu Besi,240,Material Handling,Product,Ore Oxide,1948000,kg
+Mining,Timah Batu Besi,240,Material Handling,Emission,Carbon Dioxide (CO2),402.4,kg
+Mining,Timah Batu Besi,241,Material Handling,Product,Ore Greisen,40534000,kg
+Mining,Timah Batu Besi,242,Material Handling,Product,Ore Skarn,60000,kg
+Mining,Timah Batu Besi,242,Material Handling,Emission,Carbon Dioxide (CO2),68.7,kg
+Mining,Timah Batu Besi,243,Crusher,Product,Ore Skarn,60000,kg
+Mining,Timah Batu Besi,244,Pencucian,Waste,Konsentrat,1628000,kg
+Mining,Timah Batu Besi,244,Pencucian,Waste,SHP,38906000,kg
+Mining,Timah Batu Besi,244,Pencucian,Emission,Feedwater,1172000,liter
+Mining,Timah Batu Besi,245,Ball Mill,Product,Ore Oxide,1948000,kg
+Mining,Timah Batu Besi,245,Ball Mill,Product,Ore Skarn,60000,kg
+Mining,Timah Batu Besi,246,Material Handling,Product,Ore Skarn,60000,kg
+Mining,Timah Batu Besi,247,Material Handling,Product,Ore Oxide,1948000,kg
+Mining,Timah Batu Besi,248,Shaking Table,Waste,Konsentrat,1085000,kg
+Mining,Timah Batu Besi,248,Shaking Table,Waste,SHP,923000,kg
+Mining,Timah Batu Besi,248,Shaking Table,Emission,Feedwater,3476000,liter
+Mining,Timah Batu Besi,249,Material Handling,Waste,Konsentrat,1085000,kg
+Mining,Timah Batu Besi,250,Material Handling,Waste,Konsentrat,1628000,kg
+Mining,Timah Batu Besi,250,Material Handling,Emission,Carbon Dioxide (CO2),682.1,kg
+Mining,Timah Batu Besi,251,Rotary Dryer,Waste,Konsentrat,2360000,kg
+Mining,Timah Batu Besi,251,Rotary Dryer,Emission,Nitrogen Oxide (NOx),3703.5,kg
+Mining,Timah Batu Besi,251,Rotary Dryer,Emission,Particulates,260.3,kg
+Mining,Timah Batu Besi,251,Rotary Dryer,Emission,Sulfur Oxide (SOx),243.5,kg
+Mining,Timah Batu Besi,251,Rotary Dryer,Emission,Carbon Dioxide (CO2),144744,kg
+Mining,Timah Batu Besi,252,Pengarungan,Waste,Konsentrat,2360000,kg
+Mining,Timah Batu Besi,252,Pengarungan,Waste,Jumbo Bag,8890,kg
+Mining,Timah Batu Besi,253,Material Handling,Emission,Carbon Dioxide (CO2),1425.5,kg
+Mining,Timah Batu Besi,254,Gudang,Waste,Jumbo Bag,8890,kg
+Mining,Timah Batu Besi,255,Material Handling,Emission,Carbon Dioxide (CO2),44943.7,kg
+Mining,Timah Batu Besi,256,Pelabuhan,Waste,Konsentrat,2360000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,257,Penerimaan,Waste,Bijih Timah,22286000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,257,Penerimaan,Waste,Timah Sampling,2000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,257,Penerimaan,Waste,SHP,375000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,257,Penerimaan,Waste,Timah Sampling,1000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,257,Penerimaan,Emission,Carbon Dioxide (CO2),3548000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,258,Ore Bin,Waste,SHP,375000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,258,Ore Bin,Emission,Carbon Dioxide (CO2),8637000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,258,Ore Bin,Emission,Feedwater,23850000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,259,Harz Jig,Waste,Bijih Timah,19540000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,259,Harz Jig,Waste,SHP,112000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,259,Harz Jig,Emission,Feedwater,21465000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,259,Harz Jig,Emission,Feedwater,6813000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,260,Rotary Dryer,Waste,Konsentrat,3009000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,260,Rotary Dryer,Waste,Konsentrat,19507000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,260,Rotary Dryer,Emission,Carbon Dioxide (CO2),460658,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,261,HTS-MS,Waste,Konsentrat,32000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,261,HTS-MS,Emission,Carbon Dioxide (CO2),103,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,261,HTS-MS,Emission,Waste,14000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,262,Shaking Table,Waste,Konsentrat,34000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,262,Shaking Table,Emission,Carbon Dioxide (CO2),121,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,262,Shaking Table,Emission,Feedwater,5105000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,262,Shaking Table,Emission,Waste,15000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,263,Air Table,Waste,Konsentrat,12000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,263,Air Table,Emission,Carbon Dioxide (CO2),69,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,263,Air Table,Emission,Waste,5000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,264,Mixing,Waste,Komposisi Pasca Mixing,64268000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,264,Mixing,Emission,Carbon Dioxide (CO2),108689,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,264,Mixing,Waste,Waste Lube Oil,748,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,265,Peleburan,Waste,Crude Tin,17980000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,265,Peleburan,Waste,Slag,46288000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,265,Peleburan,Emission,Carbon Dioxide (CO2),2895710,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,265,Peleburan,Emission,Nitrogen Oxide (NOx),131220,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,265,Peleburan,Emission,Particulates,82690,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,265,Peleburan,Emission,Sulfur Dioxide (SO2),123760,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,265,Peleburan,Emission,Wastewater,30218000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,265,Peleburan,Emission,Feedwater,558000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,266,Peleburan,Waste,Crude Tin,5945000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,266,Peleburan,Emission,Carbon Dioxide (CO2),2294565,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,266,Peleburan,Emission,Waste,40343000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,266,Peleburan,Emission,Wastewater,32213000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,266,Peleburan,Emission,Feedwater,632000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,267,Eutatic Refining,Waste,Crude Tin,23925000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,267,Eutatic Refining,Waste,Dross,40343000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,267,Eutatic Refining,Emission,Carbon Dioxide (CO2),3526636,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,267,Eutatic Refining,Emission,Nitrogen Dioxide (NO2),4190,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,267,Eutatic Refining,Emission,Particulates,3180,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,267,Eutatic Refining,Emission,Sulfur Dioxide (SO2),3710,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,267,Eutatic Refining,Emission,Feedwater,33034000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,268,Flame Oven,Waste,Crude Tin,725000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,268,Flame Oven,Waste,Dross,39618000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,268,Flame Oven,Emission,Carbon Dioxide (CO2),1619599,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,269,Electrolitic Refining,Waste,Refined Tin,725000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,269,Electrolitic Refining,Emission,Carbon Dioxide (CO2),812018,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,269,Electrolitic Refining,Emission,Feedwater,1171000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,269,Electrolitic Refining,Waste,Scrap,15010,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,269,Electrolitic Refining,Waste,Kemasan Eks Kimia (Plastik),1352,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,270,Pyrorefining,Waste,Refined Tin,23200000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,270,Pyrorefining,Emission,Carbon Dioxide (CO2),499642,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,271,Casting,Waste,Ingot Tin (Casting),23925000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,271,Casting,Emission,Feedwater,9873000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,272,Gudang,Waste,Plat Stripping,181000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,272,Gudang,Waste,Plastic,47000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,272,Gudang,Emission,Carbon Dioxide (CO2),74821,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,272,Gudang,Waste,Sampah Plastik,952,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,272,Gudang,Waste,Waste Lube Oil,748,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,273,Pengapalan,Waste,Tin,23925000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,274,Office & Mess,Waste,Grey Water,14878910,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,274,Office & Mess,Waste,Sampah Organik,1235,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,274,Office & Mess,Waste,Ranting dan Daun,1297,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,274,Office & Mess,Waste,Paper,510,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,274,Office & Mess,Waste,Waste,3090,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,275,Waste Pool,Emission,Wastewater,4388000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,275,Waste Pool,Emission,Beban Outlet,0.09,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,276,Waste Pool,Emission,Wastewater,5347000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,276,Waste Pool,Emission,Beban Outlet,0.5,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,277,Waste Pool,Emission,Wastewater,6312000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,277,Waste Pool,Emission,Beban Outlet,283,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,278,Ore Getting,Waste,Material Tanah,33709809000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,278,Ore Getting,Emission,Carbon Dioxide (CO2),21630680.27,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,278,Ore Getting,Emission,Sulfur Dioxide (SO2),3420000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,278,Ore Getting,Emission,Carbon Monoxide (CO),30205000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,278,Ore Getting,Emission,Feedwater,2359224764,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,279,Mineral Processing,Waste,Konsentrat,10878000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,279,Mineral Processing,Emission,Carbon Dioxide (CO2),14420000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,279,Mineral Processing,Emission,Sulfur Dioxide (SO2),2280,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,279,Mineral Processing,Emission,Carbon Monoxide (CO),20137,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,279,Mineral Processing,Emission,Material Tanah,33688053000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,279,Mineral Processing,Emission,Feedwater,40620319000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,280,Pengangkutan,Emission,Carbon Dioxide (CO2),7203000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,281,Pengangkutan,Emission,Carbon Dioxide (CO2),1040,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,282,Stripping,Waste,Tin,5260661000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,282,Stripping,Emission,Carbon Dioxide (CO2),2060078,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,283,Pengangkutan,Emission,Carbon Dioxide (CO2),108145,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,284,Ore Getting,Product,Ore Mineral Processing,2016041000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,284,Ore Getting,Emission,Carbon Dioxide (CO2),265250,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,284,Ore Getting,Emission,Feedwater,6900185000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,284,Ore Getting,Emission,Waste,860650,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,285,Pengangkutan,Emission,Carbon Dioxide (CO2),290715,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,286,Mineral Processing,Waste,Konsentrat,11410000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,286,Mineral Processing,Emission,Carbon Dioxide (CO2),68303000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,286,Mineral Processing,Emission,Feedwater,5660972000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,286,Mineral Processing,Emission,Waste,2004631000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,287,Pengangkutan,Waste,Bijih Timah,11410000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,287,Pengangkutan,Emission,Carbon Dioxide (CO2),344412,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,288,Penerimaan,Waste,Konsentrat,6224933,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,288,Penerimaan,Waste,SHP,11799710,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,288,Penerimaan,Emission,Jumbo Bag,560,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,288,Penerimaan,Emission,Kampil Bekas,1120,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,288,Penerimaan,Emission,Tali Rafia,140,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,288,Penerimaan,Emission,Carbon Dioxide (CO2),2820,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,289,Orebin,Waste,SHP,11799710,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,289,Orebin,Emission,Feedwater,62723,liter
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,289,Orebin,Emission,Carbon Dioxide (CO2),13500,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,290,Harz Jig,Waste,Konsentrat,3497000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,290,Harz Jig,Waste,SHP,337000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,290,Harz Jig,Waste,Pasir,14190650,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,290,Harz Jig,Waste,Pipa Besi Bekas Penggantian Alat,220,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,290,Harz Jig,Emission,Feedwater,138954,liter
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,291,Rotary Dryer,Waste,Konsentrat,3497000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,291,Rotary Dryer,Waste,SHP,337000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,291,Rotary Dryer,Waste,Pipa Besi Bekas Penggantian Alat,500,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,291,Rotary Dryer,Emission,Nitrogen Oxide (NOx),2555.5,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,291,Rotary Dryer,Emission,Particulates,352,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,291,Rotary Dryer,Emission,Sulfur Dioxide (SO2),1164.6,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,291,Rotary Dryer,Emission,Carbon Dioxide (CO2),60140.3,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,292,Magnetic Separator,Waste,Konsentrat,3292280,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,292,Magnetic Separator,Waste,SHP,171000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,292,Magnetic Separator,Waste,Ilmenite LG,370490,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,293,Air Table,Waste,Konsentrat,171000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,293,Air Table,Emission,Carbon Monoxide (CO),490,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,293,Air Table,Emission,Nitrogen Dioxide (NO2),1120,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,293,Air Table,Emission,Particulates,210,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,293,Air Table,Emission,Sulfur Dioxide (SO2),80,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,294,Mixing,Waste,Komposisi Charging Tanur,18619980,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,294,Mixing,Waste,Waste,260,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,294,Mixing,Emission,Carbon Dioxide (CO2),52780,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Waste,Crude Tin,2679000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Waste,Backlog,13780000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Waste,Sisa Centong Tapping,170,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Waste,Sisa Pipa Tapping,2000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Waste,Sisa Besi Rubbling,3870,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Waste,Waste,630,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Emission,Particulates,820,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Emission,Carbon Dioxide (CO2),307660,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Emission,Nitrogen Oxide (NOx),5860,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Emission,Sulfur Dioxide (SO2),1320,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Emission,Wastewater,250.98,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,296,Rafinasi,Waste,Refined Tin,2602000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,296,Rafinasi,Waste,Dross,482000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,296,Rafinasi,Emission,Nitrogen Oxide (NOx),22660,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,296,Rafinasi,Emission,Sulfur Dioxide (SO2),14450,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,296,Rafinasi,Emission,Particulates,1770,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,296,Rafinasi,Emission,Carbon Dioxide (CO2),13560,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,296,Rafinasi,Emission,Feedwater,501.39,liter
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,297,Flame Oven,Waste,Crude Tin,405000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,297,Flame Oven,Waste,Dry Dross (Flame Oven),77000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,297,Flame Oven,Emission,Carbon Dioxide (CO2),20500,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,297,Flame Oven,Emission,Carbon Monoxide (CO),270,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,297,Flame Oven,Emission,Nitrogen Dioxide (NO2),120,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,297,Flame Oven,Emission,Particulates,150,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,297,Flame Oven,Emission,Sulfur Dioxide (SO2),90,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,298,Casting,Waste,Tin,2540000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,298,Casting,Emission,Feedwater,250.98,liter
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,299,Gudang,Waste,Plastic,48,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,299,Gudang,Waste,Waste,1150,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,299,Gudang,Emission,Carbon Dioxide (CO2),2840,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,300,Pengapalan,Waste,RFE Tin,2520000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,300,Pengapalan,Waste,RFE Tin,20000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,300,Pengapalan,Emission,Carbon Dioxide (CO2),33610,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,301,Genset,Product,Electricity,235086.82,kWh
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,301,Genset,Waste,Waste Lube Oil,13500,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,301,Genset,Waste,Waste,80,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,301,Genset,Waste,Waste,170,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,301,Genset,Emission,Carbon Dioxide (CO2),85034.9251,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,301,Genset,Emission,Carbon Monoxide (CO),8194.2981,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,301,Genset,Emission,Nitrogen Dioxide (NO2),9971.508,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,301,Genset,Emission,Particulates,1167.857,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,301,Genset,Emission,Sulfur Dioxide (SO2),6010.7846,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,302,Office & Mess,Waste,Paper,450,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,302,Office & Mess,Waste,Sampah Organik,1100,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,302,Office & Mess,Waste,Plastic,718.62,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,302,Office & Mess,Emission,Feedwater,1152102.52,liter
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,303,Ore Getting,Waste,Material Tanah,799668000,liter
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,303,Ore Getting,Emission,Feedwater,9282833.6,liter
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,303,Ore Getting,Emission,Oversize Material,932948000,liter
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,303,Ore Getting,Emission,Carbon Dioxide (CO2),19278300,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,304,Mineral Processing,Waste,SHP,704000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,304,Mineral Processing,Waste,Waste,3000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,304,Mineral Processing,Emission,Feedwater,5569687.62,liter
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,304,Mineral Processing,Emission,Carbon Dioxide (CO2),17036640,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,304,Mineral Processing,Emission,Carbon Monoxide (CO),33860,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,304,Mineral Processing,Emission,Nitrogen Oxide (NOx),36590,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,304,Mineral Processing,Emission,Particulates,3640,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,304,Mineral Processing,Emission,Sulfur Dioxide (SO2),30150,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,304,Mineral Processing,Emission,Bahan Pengotor/Impurities,792739070,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,305,Pengangkutan,Waste,Konsentrat,6224933,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,305,Pengangkutan,Waste,SHP,704000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,305,Pengangkutan,Emission,Carbon Dioxide (CO2),301440,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,306,Pengangkutan,Waste,SHP,704000,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,306,Pengangkutan,Emission,Carbon Dioxide (CO2),5140,kg
+Mining,Hengjaya,307,Overburden + Land Clearing,Product,Ore,2457694420,kg
+Mining,Hengjaya,307,Overburden + Land Clearing,Emission,Mine Wastewater,157430030,liter
+Mining,Hengjaya,307,Overburden + Land Clearing,Emission,Carbon Dioxide (CO2),5000150,kg
+Mining,Hengjaya,307,Overburden + Land Clearing,Emission,Sulfur Oxide (SOx),7720,kg
+Mining,Hengjaya,307,Overburden + Land Clearing,Emission,Nitrogen Oxide (NOx),127940,kg
+Mining,Hengjaya,307,Overburden + Land Clearing,Emission,Particulate Matter (PM10),8990,kg
+Mining,Hengjaya,307,Overburden + Land Clearing,Waste,Waste,11600,kg
+Mining,Hengjaya,307,Overburden + Land Clearing,Waste,Waste,2480,kg
+Mining,Hengjaya,307,Overburden + Land Clearing,Waste,Overburden Materials,2040575000,kg
+Mining,Hengjaya,307,Overburden + Land Clearing,Waste,Oil,3313.6,liter
+Mining,Hengjaya,307,Overburden + Land Clearing,Waste,Waste,120,kg
+Mining,Hengjaya,307,Overburden + Land Clearing,Waste,Filter,46.4,kg
+Mining,Hengjaya,308,Ore Getting,Emission,Carbon Dioxide (CO2),1250040,kg
+Mining,Hengjaya,308,Ore Getting,Emission,Sulfur Oxide (SOx),2100,kg
+Mining,Hengjaya,308,Ore Getting,Emission,Nitrogen Oxide (NOx),31980,kg
+Mining,Hengjaya,308,Ore Getting,Emission,Particulate Matter (PM10),2250,kg
+Mining,Hengjaya,308,Ore Getting,Waste,Waste,2900,kg
+Mining,Hengjaya,308,Ore Getting,Waste,Waste,620,kg
+Mining,Hengjaya,308,Ore Getting,Waste,Oil,828.4,liter
+Mining,Hengjaya,308,Ore Getting,Waste,Waste,30,kg
+Mining,Hengjaya,308,Ore Getting,Waste,Waste,11.6,kg
+Mining,Hengjaya,309,Ore Hauling,Emission,Carbon Dioxide (CO2),5625170,kg
+Mining,Hengjaya,309,Ore Hauling,Emission,Sulfur Oxide (SOx),9460,kg
+Mining,Hengjaya,309,Ore Hauling,Emission,Nitrogen Oxide (NOx),143930,kg
+Mining,Hengjaya,309,Ore Hauling,Emission,Particulate Matter (PM10),10120,kg
+Mining,Hengjaya,309,Ore Hauling,Waste,Waste,13050,kg
+Mining,Hengjaya,309,Ore Hauling,Waste,Oil,3727.8,liter
+Mining,Hengjaya,309,Ore Hauling,Waste,Waste,135,kg
+Mining,Hengjaya,309,Ore Hauling,Waste,Filter,52.2,kg
+Mining,Hengjaya,310,Ore Barging,Product,Ore,2457694420,kg
+Mining,Hengjaya,310,Ore Barging,Emission,Carbon Dioxide (CO2),625020,kg
+Mining,Hengjaya,310,Ore Barging,Emission,Sulfur Oxide (SOx),1050,kg
+Mining,Hengjaya,310,Ore Barging,Emission,Nitrogen Oxide (NOx),15990,kg
+Mining,Hengjaya,310,Ore Barging,Emission,Particulate Matter (PM10),1120,kg
+Mining,Hengjaya,310,Ore Barging,Waste,Waste,1450,kg
+Mining,Hengjaya,310,Ore Barging,Waste,Waste,310,kg
+Mining,Hengjaya,310,Ore Barging,Waste,Oil,414.2,liter
+Mining,Hengjaya,310,Ore Barging,Waste,Waste,15,kg
+Mining,Hengjaya,310,Ore Barging,Waste,Filter,5.8,kg
+Mining,Hengjaya,311,Waste Disposal Area,Waste,Oil,8284,liter
+Mining,Hengjaya,311,Waste Disposal Area,Waste,Waste,300,kg
+Mining,Hengjaya,311,Waste Disposal Area,Waste,Filter,116,kg
+Mining,Hengjaya,311,Waste Disposal Area,Waste,Waste,30,kg
+Mining,Hengjaya,312,Waste Disposal Area,Waste,Waste,29000,kg
+Mining,Hengjaya,312,Waste Disposal Area,Waste,Waste,6200,kg
+Mining,Hengjaya,312,Waste Disposal Area,Waste,Paper,432000,kg
+Mining,Hengjaya,312,Waste Disposal Area,Waste,Plastic,1820,kg
+Mining,Hengjaya,312,Waste Disposal Area,Waste,Sampah Organik,1980,kg
+Mining,Hengjaya,312,Waste Disposal Area,Waste,Daun Kering,2150,kg
+Mining,Hengjaya,313,Waste Disposal Area,Waste,Mine Wastewater,1570030,liter
+Mining,Hengjaya,313,Waste Disposal Area,Waste,Feedwater,155860000,liter
+Mining,Hengjaya,313,Waste Disposal Area,Waste,Overburden Materials,2040575000,kg
+Mining,Hengjaya,314,Office,Emission,Carbon Dioxide (CO2),1385110,kg
+Mining,Hengjaya,314,Office,Emission,Sulfur Oxide (SOx),2330,kg
+Mining,Hengjaya,314,Office,Emission,Nitrogen Oxide (NOx),35440,kg
+Mining,Hengjaya,314,Office,Emission,Particulate Matter (PM10),2490,kg
+Mining,Hengjaya,314,Office,Waste,Paper,4323,kg
+Mining,Hengjaya,314,Office,Waste,Plastic,1817,kg
+Mining,Hengjaya,314,Office,Waste,Sampah Organik,1982,kg
+Mining,Hengjaya,314,Office,Waste,Daun Kering,2146,kg
+Mining,Hengjaya,314,Office,Waste,Waste,30,kg
+Mining,Hengjaya,314,Office,Emission,Domestic Wastewater,1589000,liter

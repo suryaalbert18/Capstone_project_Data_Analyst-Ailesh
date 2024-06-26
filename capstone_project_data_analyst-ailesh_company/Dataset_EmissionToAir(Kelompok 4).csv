@@ -1,0 +1,271 @@
+Sector,Area,Unit_Id,Unit_Process,Output_Category,Output,Output_Amount,Output_Unit
+Oil & Gas Distribution,Pertamina IT Makassar,2,Genset,Emission,Carbon Dioxide (CO2),8780,kg
+Oil & Gas Distribution,Pertamina IT Makassar,2,Genset,Emission,Sulfur Oxide (SOx),4.992957099,kg
+Oil & Gas Distribution,Pertamina IT Makassar,2,Genset,Emission,Nitrogen Oxide (NOx),938.3581452,kg
+Oil & Gas Distribution,Pertamina IT Makassar,4,Storage Tank,Emission,Volatile Organic Compounds (VOC),137920.9043,kg
+Oil & Gas Distribution,FT Cilacap,9,Mobil Tangki,Emission,Methane (CH4),275450.579,kg
+Oil & Gas Distribution,FT Cilacap,9,Mobil Tangki,Emission,Nitrogen Oxide (NOx),8487.251292,kg
+Oil & Gas Distribution,FT Cilacap,9,Mobil Tangki,Emission,Sulfur Oxide (SOx),129105.6011,kg
+Oil & Gas Distribution,FT Cilacap,9,Mobil Tangki,Emission,Particulates,215.967889,kg
+Oil & Gas Distribution,FT Cilacap,9,Mobil Tangki,Emission,Dinitrogen Monoxide (N2O),34.3781923,kg
+Oil & Gas Distribution,FT Cilacap,10,Genset,Emission,Carbon Dioxide (CO2),3672642241,kg
+Oil & Gas Distribution,FT Cilacap,10,Genset,Emission,Sulfur Oxide (SOx),129105.6011,kg
+Oil & Gas Distribution,FT Cilacap,10,Genset,Emission,Particulates,215.967889,kg
+Oil & Gas Distribution,FT Cilacap,10,Genset,Emission,Dinitrogen Monoxide (N2O),34.3781923,kg
+Oil & Gas Distribution,IT Bitung,13,Genset,Emission,Carbon Dioxide (CO2),88500,kg
+Oil & Gas Distribution,IT Bitung,13,Genset,Emission,Nitrogen Oxide (NOx),573,kg
+Oil & Gas Distribution,IT Bitung,13,Genset,Emission,Sulfur Oxide (SOx),37.7,kg
+Oil & Gas Distribution,FT Boyolali,17,Storage Tank,Emission,Volatile Organic Compounds (VOC),1897000,kg
+Oil & Gas Distribution,FT Boyolali,18,Genset,Emission,Carbon Dioxide (CO2),30,kg
+Oil & Gas Distribution,FT Rewulu,20,Storage Tank,Emission,Volatile Organic Compounds (VOC),1180000,kg
+Oil & Gas Distribution,FT Rewulu,21,Genset,Emission,Methane (CH4),0.843,kg
+Oil & Gas Distribution,FT Rewulu,21,Genset,Emission,Nitrogen Oxide (NOx),614,kg
+Oil & Gas Distribution,FT Rewulu,21,Genset,Emission,Sulfur Oxide (SOx),40.8,kg
+Oil & Gas Distribution,FT Rewulu,21,Genset,Emission,Particulates,43.7,kg
+Oil & Gas Distribution,FT Rewulu,21,Genset,Emission,Dinitrogen Monoxide (N2O),0.169,kg
+Oil & Gas Distribution,FT Rewulu,21,Genset,Emission,Carbon Dioxide (CO2),22400,kg
+Oil & Gas Distribution,FT Rewulu,22,Pompa,Emission,Volatile Organic Compounds (VOC),467000,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,29,Use Stage,Emission,Carbon Dioxide (CO2),3.06,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,29,Use Stage,Emission,Dinitrogen Monoxide (N2O),849803,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,29,Use Stage,Emission,Methane (CH4),212451,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,30,Genset,Emission,Carbon Dioxide (CO2),0.0000015,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,30,Genset,Emission,Carbon Monoxide (CO),0.000235,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,30,Genset,Emission,Nitrogen Oxide (NOx),0.000381,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,30,Genset,Emission,Sulfur Oxide (SOx),0.00000099,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,39,Refueller,Emission,Carbon Dioxide (CO2),15047,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,39,Refueller,Emission,Dinitrogen Monoxide (N2O),0.1,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,39,Refueller,Emission,Methane (CH4),0.6,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,39,Refueller,Emission,Nitrogen Oxide (NOx),449,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,39,Refueller,Emission,Sulfur Oxide (SOx),2.95,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,40,Use Stage,Emission,Carbon Dioxide (CO2),130325,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,40,Use Stage,Emission,Dinitrogen Monoxide (N2O),362.09,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,40,Use Stage,Emission,Methane (CH4),90.52,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,41,Genset,Emission,Carbon Dioxide (CO2),2121.51,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,41,Genset,Emission,Dinitrogen Monoxide (N2O),61.45,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,41,Genset,Emission,Methane (CH4),2.08,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,41,Genset,Emission,Nitrogen Oxide (NOx),61.45,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,41,Genset,Emission,Particulates,4.3,kg
+Oil & Gas Distribution,Pertamina FT Maos,46,Storage Tank,Emission,Volatile Organic Compounds (VOC),1250,kg
+Oil & Gas Distribution,Pertamina FT Maos,47,Pompa,Emission,Volatile Organic Compounds (VOC),1620000,kg
+Oil & Gas Distribution,Pertamina FT Maos,49,Mobil Tangki,Emission,Volatile Organic Compounds (VOC),1620000,kg
+Oil & Gas Distribution,Pertamina FT Maos,51,Genset,Emission,Carbon Dioxide (CO2),2070,kg
+Oil & Gas Distribution,Pertamina FT Maos,51,Genset,Emission,Dinitrogen Monoxide (N2O),1680,kg
+Oil & Gas Distribution,Pertamina FT Maos,51,Genset,Emission,Methane (CH4),0.1,kg
+Oil & Gas Distribution,Pertamina FT Maos,51,Genset,Emission,Nitrogen Oxide (NOx),61.8,kg
+Oil & Gas Distribution,Pertamina FT Maos,51,Genset,Emission,Particulates,4.3,kg
+Oil & Gas Distribution,Pertamina FT Maos,51,Genset,Emission,Sulfur Oxide (SOx),4.1,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,55,Storage Tank,Emission,Volatile Organic Compounds (VOC),2467440,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,57,Mobil Tangki,Emission,Carbon Dioxide (CO2),15047,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,57,Mobil Tangki,Emission,Nitrogen Oxide (NOx),449,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,57,Mobil Tangki,Emission,Particulates,31.6,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,57,Mobil Tangki,Emission,Sulfur Oxide (SOx),2.95,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,58,Use Stage,Emission,Carbon Dioxide (CO2),5260662.144,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,58,Use Stage,Emission,Methane (CH4),212.9822731,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,58,Use Stage,Emission,Dinitrogen Monoxide (N2O),42.59645461,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,59,Genset,Emission,Carbon Dioxide (CO2),657233.5996,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,59,Genset,Emission,Nitrogen Oxide (NOx),313.8412923,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,59,Genset,Emission,Particulates,22.06205165,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,59,Genset,Emission,Sulfur Oxide (SOx),20.63847989,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,66,Use Stage,Emission,Carbon Dioxide (CO2),17600000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,66,Use Stage,Emission,Methane (CH4),122,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,66,Use Stage,Emission,Dinitrogen Monoxide (N2O),488,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,68,Genset,Emission,Carbon Dioxide (CO2),494,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,68,Genset,Emission,Nitrogen Oxide (NOx),12.6,kg
+Oil & Gas Distribution,DPPU Hasanudin,71,Storage Tank,Emission,Volatile Organic Compounds (VOC),1730,kg
+Oil & Gas Distribution,DPPU Hasanudin,72,Pompa,Emission,Volatile Organic Compounds (VOC),880,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Emission,Sulfur Oxide (SOx),413.1,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Emission,Nitrogen Oxide (NOx),6282.2,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Emission,Carbon Dioxide (CO2),215940,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Emission,Methane (CH4),8.5,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Emission,Dinitrogen Monoxide (N2O),1.7,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Emission,Particulates,441.6,kg
+Oil & Gas Distribution,DPPU Hasanudin,76,Genset,Emission,Sulfur Oxide (SOx),15881.6,kg
+Oil & Gas Distribution,DPPU Hasanudin,76,Genset,Emission,Nitrogen Oxide (NOx),30.4,kg
+Oil & Gas Distribution,DPPU Hasanudin,76,Genset,Emission,Carbon Dioxide (CO2),462,kg
+Oil & Gas Distribution,DPPU Hasanudin,76,Genset,Emission,Methane (CH4),32.5,kg
+Oil & Gas Distribution,DPPU Hasanudin,76,Genset,Emission,Dinitrogen Monoxide (N2O),0.6,kg
+Oil & Gas Distribution,DPPU Hasanudin,76,Genset,Emission,Particulates,0.125,kg
+Oil & Gas Distribution,Pertamina FT Poso,89,Use Stage,Emission,Carbon Dioxide (CO2),186736904,kg
+Oil & Gas Distribution,Pertamina FT Poso,89,Use Stage,Emission,Dinitrogen Monoxide (N2O),8547000,kg
+Oil & Gas Distribution,Pertamina FT Poso,89,Use Stage,Emission,Methane (CH4),3083000,kg
+Oil & Gas Distribution,Pertamina FT Poso,90,Genset,Emission,Carbon Dioxide (CO2),123.7131641,kg
+Oil & Gas Distribution,Pertamina FT Poso,90,Genset,Emission,Dinitrogen Monoxide (N2O),0.2985143554,kg
+Oil & Gas Distribution,Pertamina FT Poso,90,Genset,Emission,Methane (CH4),0.1252157531,kg
+Oil & Gas Distribution,Pertamina FT Poso,90,Genset,Emission,Nitrogen Oxide (NOx),3.691417814,kg
+Power Plant,IP Wonogiri,107,Emergency Diesel,Emission,Carbon Dioxide (CO2),470,kg
+Power Plant,IP Wonogiri,107,Emergency Diesel,Emission,Nitrogen Oxide (NOx),2.08,kg
+Power Plant,IP Wonogiri,107,Emergency Diesel,Emission,Particulates,0.45,kg
+Power Plant,IP Wonogiri,107,Emergency Diesel,Emission,Sulfur Dioxide (SO2),0.72,kg
+Power Plant,IP PB Soedirman,122,Generator,Emission,Carbon Dioxide (CO2),130,kg
+Power Plant,IP PB Soedirman,122,Generator,Emission,Nitrogen Oxide (NOx),0.19,kg
+Power Plant,IP PB Soedirman,122,Generator,Emission,Particulates,0.004,kg
+Power Plant,IP PB Soedirman,122,Generator,Emission,Sulfur Dioxide (SO2),0.003,kg
+Power Plant,IP PB Soedirman,123,Generator,Emission,Carbon Dioxide (CO2),70,kg
+Power Plant,IP PB Soedirman,123,Generator,Emission,Nitrogen Oxide (NOx),0.15,kg
+Power Plant,IP PB Soedirman,123,Generator,Emission,Particulates,0.003,kg
+Power Plant,IP PB Soedirman,123,Generator,Emission,Sulfur Dioxide (SO2),0.002,kg
+Power Plant,IP Pemaron,132,Gas Turbine Generator,Emission,Carbon Dioxide (CO2),812657.3195,kg
+Power Plant,IP Pemaron,132,Gas Turbine Generator,Emission,Sulfur Dioxide (SO2),1029.901895,kg
+Power Plant,IP Pemaron,133,Gas Turbine Generator,Emission,Carbon Dioxide (CO2),1486820.639,kg
+Power Plant,IP Pemaron,133,Gas Turbine Generator,Emission,Sulfur Dioxide (SO2),1884.286718,kg
+Power Plant,IP Pemaron,147,Fire Fighting Skid,Emission,Carbon Dioxide (CO2),132.6570877,kg
+Power Plant,IP Pemaron,147,Fire Fighting Skid,Emission,Sulfur Dioxide (SO2),0.1681198,kg
+Power Plant,IP Saguling,154,Emergency Generator,Emission,Particulates,0.0001,kg
+Power Plant,IP Saguling,154,Emergency Generator,Emission,Particulates,0.00003,kg
+Power Plant,IP Saguling,154,Emergency Generator,Emission,Carbon Monoxide (CO),0.0001,kg
+Power Plant,IP Saguling,154,Emergency Generator,Emission,Nitrogen Dioxide (NO2),0.00003,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Carbon Dioxide (CO2),0.000159,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Carbon Dioxide (CO2),0.000031,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Nitrogen Dioxide (NO2),0.001642,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Nitrogen Dioxide (NO2),0.000031,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Sulfur Dioxide (SO2),0.000134,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Carbon Dioxide (CO2),28270,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Carbon Dioxide (CO2),5510,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Nitrogen Dioxide (NO2),291960,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Nitrogen Dioxide (NO2),5510,kg
+Power Plant,IP Jeranjang,169,Boiler,Emission,Sulfur Dioxide (SO2),23830,kg
+Power Plant,IP Grati,176,Gas Turbine,Emission,Carbon Dioxide (CO2),172754230,kg
+Power Plant,IP Grati,176,Gas Turbine,Emission,Sulfur Dioxide (SO2),65200,kg
+Power Plant,IP Grati,176,Gas Turbine,Emission,Nitrogen Dioxide (NO2),1966290,kg
+Power Plant,IP Grati,177,HRSG,Emission,Carbon Dioxide (CO2),601737.49,kg
+Power Plant,IP Grati,177,HRSG,Emission,Sulfur Dioxide (SO2),319.23,kg
+Power Plant,IP Grati,177,HRSG,Emission,Nitrogen Dioxide (NO2),9265.38,kg
+Power Plant,IP PLTG Gilimanuk,185,HSD Storage,Emission,Carbon Dioxide (CO2),18066.05,kg
+Power Plant,IP PLTG Gilimanuk,187,Gas Turbine,Emission,Carbon Dioxide (CO2),6957221.4,kg
+Power Plant,IP PLTG Gilimanuk,187,Gas Turbine,Emission,Nitrogen Oxide (NOx),25514352.81,kg
+Power Plant,IP PLTG Gilimanuk,187,Gas Turbine,Emission,Sulfur Dioxide (SO2),8995.16,kg
+Power Plant,IP PLTG Gilimanuk,188,Generator,Emission,Carbon Dioxide (CO2),9245.81,kg
+Power Plant,IP PLTG Gilimanuk,189,Main Transformator,Emission,Carbon Dioxide (CO2),309.7,kg
+Power Plant,IP PLTG Gilimanuk,191,Liquid Waste Separator,Emission,Carbon Dioxide (CO2),43.1,kg
+Power Plant,IP PLTG Gilimanuk,192,Lube Oil Tank,Emission,Carbon Dioxide (CO2),96.78,kg
+Power Plant,IP PLTG Gilimanuk,193,Main Lube Oil Pump,Emission,Carbon Dioxide (CO2),3548.69,kg
+Power Plant,IP PLTG Gilimanuk,194,Power Oil Pump,Emission,Carbon Dioxide (CO2),1193.65,kg
+Power Plant,IP PLTG Gilimanuk,195,Pre Treatment Plant,Emission,Carbon Dioxide (CO2),23.1,kg
+Power Plant,IP PLTG Gilimanuk,196,RO System,Emission,Carbon Dioxide (CO2),37.96,kg
+Power Plant,IP PLTG Gilimanuk,197,Demineralization Process,Emission,Carbon Dioxide (CO2),51.16,kg
+Power Plant,IP PLTG Gilimanuk,198,Demin Storage,Emission,Carbon Dioxide (CO2),23.1,kg
+Power Plant,IP PLTG Gilimanuk,199,Cooling Water Pump,Emission,Carbon Dioxide (CO2),2387.3,kg
+Power Plant,IP PLTG Gilimanuk,200,NOx Water System,Emission,Carbon Dioxide (CO2),12904.32,kg
+Power Plant,IP PLTG Gilimanuk,201,Wastewater,Emission,Carbon Dioxide (CO2),1.31,kg
+Power Plant,IP PLTG Gilimanuk,202,Wastewater,Emission,Carbon Dioxide (CO2),1.16,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Emission,Fly Ash,74220710,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Emission,Bottom Ash,8583140,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Emission,Sulfur Dioxide (SO2),2403040,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Emission,Nitrogen Dioxide (NO2),1529820,kg
+Power Plant,IP Suralaya,209,Unit Pembangkit,Emission,Gas SF6,160,kg
+Power Plant,IP Cilegon,218,HRSG,Emission,Carbon Dioxide (CO2),898175510,kg
+Power Plant,IP Cilegon,218,HRSG,Emission,Sulfur Dioxide (SO2),433926510,kg
+Power Plant,IP Cilegon,218,HRSG,Emission,Nitrogen Dioxide (NO2),57854463759000,kg
+Power Plant,IP Adipala,221,Coal Handling System,Emission,Sulfur Dioxide (SO2),0.0000876,kg
+Power Plant,IP Adipala,221,Coal Handling System,Emission,Carbon Monoxide (CO),0.002,kg
+Power Plant,IP Adipala,221,Coal Handling System,Emission,Nitrogen Dioxide (NO2),0.00000438,kg
+Power Plant,IP Adipala,221,Coal Handling System,Emission,Oxydant,0.0000105,kg
+Power Plant,IP Adipala,221,Coal Handling System,Emission,TSP,0.00000061,kg
+Power Plant,IP Adipala,221,Coal Handling System,Emission,Hydrocarbon (HC),0.0000875,kg
+Power Plant,IP Adipala,221,Coal Handling System,Emission,Lead,0.00000004,kg
+Power Plant,IP Adipala,230,Boiler,Emission,Bottom Ash,5454500,kg
+Power Plant,IP Adipala,230,Boiler,Emission,Carbon Dioxide (CO2),3428896300,kg
+Power Plant,IP Adipala,230,Boiler,Emission,Methane (CH4),34240,kg
+Power Plant,IP Adipala,230,Boiler,Emission,Nitrogen Oxide (NOx),2511200,kg
+Power Plant,IP Adipala,230,Boiler,Emission,Particulates,559200,kg
+Power Plant,IP Adipala,230,Boiler,Emission,Sulfur Dioxide (SO2),3056000,kg
+Mining,Timah Batu Besi,237,Stripping,Emission,Carbon Dioxide (CO2),37394,kg
+Mining,Timah Batu Besi,238,Material Handling,Emission,Carbon Dioxide (CO2),87251.8,kg
+Mining,Timah Batu Besi,239,Rehandling,Emission,Carbon Dioxide (CO2),8214.4,kg
+Mining,Timah Batu Besi,240,Material Handling,Emission,Carbon Dioxide (CO2),402.4,kg
+Mining,Timah Batu Besi,242,Material Handling,Emission,Carbon Dioxide (CO2),68.7,kg
+Mining,Timah Batu Besi,250,Material Handling,Emission,Carbon Dioxide (CO2),682.1,kg
+Mining,Timah Batu Besi,251,Rotary Dryer,Emission,Nitrogen Oxide (NOx),3703.5,kg
+Mining,Timah Batu Besi,251,Rotary Dryer,Emission,Particulates,260.3,kg
+Mining,Timah Batu Besi,251,Rotary Dryer,Emission,Sulfur Oxide (SOx),243.5,kg
+Mining,Timah Batu Besi,251,Rotary Dryer,Emission,Carbon Dioxide (CO2),144744,kg
+Mining,Timah Batu Besi,253,Material Handling,Emission,Carbon Dioxide (CO2),1425.5,kg
+Mining,Timah Batu Besi,255,Material Handling,Emission,Carbon Dioxide (CO2),44943.7,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,257,Penerimaan,Emission,Carbon Dioxide (CO2),3548000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,258,Ore Bin,Emission,Carbon Dioxide (CO2),8637000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,260,Rotary Dryer,Emission,Carbon Dioxide (CO2),460658,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,261,HTS-MS,Emission,Carbon Dioxide (CO2),103,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,262,Shaking Table,Emission,Carbon Dioxide (CO2),121,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,263,Air Table,Emission,Carbon Dioxide (CO2),69,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,264,Mixing,Emission,Carbon Dioxide (CO2),108689,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,265,Peleburan,Emission,Carbon Dioxide (CO2),2895710,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,265,Peleburan,Emission,Nitrogen Oxide (NOx),131220,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,265,Peleburan,Emission,Particulates,82690,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,265,Peleburan,Emission,Sulfur Dioxide (SO2),123760,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,266,Peleburan,Emission,Carbon Dioxide (CO2),2294565,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,267,Eutatic Refining,Emission,Carbon Dioxide (CO2),3526636,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,267,Eutatic Refining,Emission,Nitrogen Dioxide (NO2),4190,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,267,Eutatic Refining,Emission,Particulates,3180,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,267,Eutatic Refining,Emission,Sulfur Dioxide (SO2),3710,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,268,Flame Oven,Emission,Carbon Dioxide (CO2),1619599,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,269,Electrolitic Refining,Emission,Carbon Dioxide (CO2),812018,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,270,Pyrorefining,Emission,Carbon Dioxide (CO2),499642,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,272,Gudang,Emission,Carbon Dioxide (CO2),74821,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,278,Ore Getting,Emission,Carbon Dioxide (CO2),21630680.27,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,278,Ore Getting,Emission,Sulfur Dioxide (SO2),3420000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,278,Ore Getting,Emission,Carbon Monoxide (CO),30205000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,279,Mineral Processing,Emission,Carbon Dioxide (CO2),14420000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,279,Mineral Processing,Emission,Sulfur Dioxide (SO2),2280,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,279,Mineral Processing,Emission,Carbon Monoxide (CO),20137,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,280,Pengangkutan,Emission,Carbon Dioxide (CO2),7203000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,281,Pengangkutan,Emission,Carbon Dioxide (CO2),1040,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,282,Stripping,Emission,Carbon Dioxide (CO2),2060078,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,283,Pengangkutan,Emission,Carbon Dioxide (CO2),108145,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,284,Ore Getting,Emission,Carbon Dioxide (CO2),265250,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,285,Pengangkutan,Emission,Carbon Dioxide (CO2),290715,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,286,Mineral Processing,Emission,Carbon Dioxide (CO2),68303000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,287,Pengangkutan,Emission,Carbon Dioxide (CO2),344412,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,288,Penerimaan,Emission,Carbon Dioxide (CO2),2820,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,289,Orebin,Emission,Carbon Dioxide (CO2),13500,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,291,Rotary Dryer,Emission,Nitrogen Oxide (NOx),2555.5,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,291,Rotary Dryer,Emission,Particulates,352,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,291,Rotary Dryer,Emission,Sulfur Dioxide (SO2),1164.6,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,291,Rotary Dryer,Emission,Carbon Dioxide (CO2),60140.3,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,293,Air Table,Emission,Carbon Monoxide (CO),490,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,293,Air Table,Emission,Nitrogen Dioxide (NO2),1120,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,293,Air Table,Emission,Particulates,210,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,293,Air Table,Emission,Sulfur Dioxide (SO2),80,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,294,Mixing,Emission,Carbon Dioxide (CO2),52780,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Emission,Particulates,820,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Emission,Carbon Dioxide (CO2),307660,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Emission,Nitrogen Oxide (NOx),5860,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Emission,Sulfur Dioxide (SO2),1320,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,296,Rafinasi,Emission,Nitrogen Oxide (NOx),22660,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,296,Rafinasi,Emission,Sulfur Dioxide (SO2),14450,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,296,Rafinasi,Emission,Particulates,1770,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,296,Rafinasi,Emission,Carbon Dioxide (CO2),13560,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,297,Flame Oven,Emission,Carbon Dioxide (CO2),20500,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,297,Flame Oven,Emission,Carbon Monoxide (CO),270,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,297,Flame Oven,Emission,Nitrogen Dioxide (NO2),120,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,297,Flame Oven,Emission,Particulates,150,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,297,Flame Oven,Emission,Sulfur Dioxide (SO2),90,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,299,Gudang,Emission,Carbon Dioxide (CO2),2840,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,300,Pengapalan,Emission,Carbon Dioxide (CO2),33610,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,301,Genset,Emission,Carbon Dioxide (CO2),85034.9251,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,301,Genset,Emission,Carbon Monoxide (CO),8194.2981,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,301,Genset,Emission,Nitrogen Dioxide (NO2),9971.508,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,301,Genset,Emission,Particulates,1167.857,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,301,Genset,Emission,Sulfur Dioxide (SO2),6010.7846,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,303,Ore Getting,Emission,Carbon Dioxide (CO2),19278300,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,304,Mineral Processing,Emission,Carbon Dioxide (CO2),17036640,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,304,Mineral Processing,Emission,Carbon Monoxide (CO),33860,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,304,Mineral Processing,Emission,Nitrogen Oxide (NOx),36590,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,304,Mineral Processing,Emission,Particulates,3640,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,304,Mineral Processing,Emission,Sulfur Dioxide (SO2),30150,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,305,Pengangkutan,Emission,Carbon Dioxide (CO2),301440,kg
+Mining,PT Timah Tbk Unit Metalurgi (Unmet) Kundur,306,Pengangkutan,Emission,Carbon Dioxide (CO2),5140,kg
+Mining,Hengjaya,307,Overburden + Land Clearing,Emission,Carbon Dioxide (CO2),5000150,kg
+Mining,Hengjaya,307,Overburden + Land Clearing,Emission,Sulfur Oxide (SOx),7720,kg
+Mining,Hengjaya,307,Overburden + Land Clearing,Emission,Nitrogen Oxide (NOx),127940,kg
+Mining,Hengjaya,308,Ore Getting,Emission,Carbon Dioxide (CO2),1250040,kg
+Mining,Hengjaya,308,Ore Getting,Emission,Sulfur Oxide (SOx),2100,kg
+Mining,Hengjaya,308,Ore Getting,Emission,Nitrogen Oxide (NOx),31980,kg
+Mining,Hengjaya,309,Ore Hauling,Emission,Carbon Dioxide (CO2),5625170,kg
+Mining,Hengjaya,309,Ore Hauling,Emission,Sulfur Oxide (SOx),9460,kg
+Mining,Hengjaya,309,Ore Hauling,Emission,Nitrogen Oxide (NOx),143930,kg
+Mining,Hengjaya,310,Ore Barging,Emission,Carbon Dioxide (CO2),625020,kg
+Mining,Hengjaya,310,Ore Barging,Emission,Sulfur Oxide (SOx),1050,kg
+Mining,Hengjaya,310,Ore Barging,Emission,Nitrogen Oxide (NOx),15990,kg
+Mining,Hengjaya,314,Office,Emission,Carbon Dioxide (CO2),1385110,kg
+Mining,Hengjaya,314,Office,Emission,Sulfur Oxide (SOx),2330,kg
+Mining,Hengjaya,314,Office,Emission,Nitrogen Oxide (NOx),35440,kg

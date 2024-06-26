@@ -1,0 +1,939 @@
+Sector,Area,Unit_Id,Unit_Process,Input_Category,Input,Input_Amount,Input_Unit
+Oil & Gas Distribution,Pertamina IT Makassar,1,Penerimaan,Energy,Fuel,2798232261,kg
+Oil & Gas Distribution,Pertamina IT Makassar,1,Penerimaan,Energy,Electricity,15625,kWh
+Oil & Gas Distribution,Pertamina IT Makassar,1,Penerimaan,Energy,Electricity,44.4133125,kWh
+Oil & Gas Distribution,Pertamina IT Makassar,2,Genset,Energy,Diesel,2681.25,kg
+Oil & Gas Distribution,Pertamina IT Makassar,2,Genset,Material,Oil,79.1,liter
+Oil & Gas Distribution,Pertamina IT Makassar,3,Office,Energy,Electricity,46875,kWh
+Oil & Gas Distribution,Pertamina IT Makassar,3,Office,Material,Feedwater,1840000,liter
+Oil & Gas Distribution,Pertamina IT Makassar,3,Office,Energy,Electricity,133.2399375,kWh
+Oil & Gas Distribution,Pertamina IT Makassar,4,Storage Tank,Energy,Electricity,15625,kWh
+Oil & Gas Distribution,Pertamina IT Makassar,4,Storage Tank,Energy,Electricity,44.4133125,kWh
+Oil & Gas Distribution,Pertamina IT Makassar,5,Pompa,Energy,Electricity,218750,kWh
+Oil & Gas Distribution,Pertamina IT Makassar,5,Pompa,Energy,Electricity,621.786375,kWh
+Oil & Gas Distribution,Pertamina IT Makassar,6,Filling Shed Pump,Energy,Electricity,15625,kWh
+Oil & Gas Distribution,Pertamina IT Makassar,6,Filling Shed Pump,Energy,Electricity,44.4133125,kWh
+Oil & Gas Distribution,Pertamina IT Makassar,7,Mobil Tangki,Material,Oil,6807,liter
+Oil & Gas Distribution,FT Cilacap,8,Storage Tank,Energy,Fuel,36944000,kg
+Oil & Gas Distribution,FT Cilacap,8,Storage Tank,Energy,Fuel,1754901860,kg
+Oil & Gas Distribution,FT Cilacap,9,Mobil Tangki,Energy,Fuel,1434261.45,kg
+Oil & Gas Distribution,FT Cilacap,10,Genset,Energy,Diesel,6850.34395,kg
+Oil & Gas Distribution,FT Cilacap,11,Office,Energy,Electricity,53457.9,kWh
+Oil & Gas Distribution,FT Cilacap,11,Office,Energy,Electricity,216774,kWh
+Oil & Gas Distribution,FT Cilacap,11,Office,Material,Feedwater,1818000,liter
+Oil & Gas Distribution,FT Cilacap,12,Pompa,Energy,Electricity,35638.5992,kWh
+Oil & Gas Distribution,FT Cilacap,12,Pompa,Energy,Electricity,325162,kWh
+Oil & Gas Distribution,IT Bitung,13,Genset,Energy,Diesel,6240,kg
+Oil & Gas Distribution,IT Bitung,14,Office,Energy,Electricity,16900,kWh
+Oil & Gas Distribution,IT Bitung,14,Office,Material,Feedwater,1750000,liter
+Oil & Gas Distribution,IT Bitung,14,Office,Energy,Electricity,3720,kWh
+Oil & Gas Distribution,IT Bitung,15,Pompa,Energy,Electricity,59300,kWh
+Oil & Gas Distribution,IT Bitung,15,Pompa,Energy,Electricity,13000,kWh
+Oil & Gas Distribution,IT Bitung,16,Filling Shed Pump,Energy,Electricity,8470,kWh
+Oil & Gas Distribution,IT Bitung,16,Filling Shed Pump,Energy,Electricity,1860,kWh
+Oil & Gas Distribution,FT Boyolali,17,Storage Tank,Energy,Fuel,1433969400,kg
+Oil & Gas Distribution,FT Boyolali,18,Genset,Energy,Diesel,1487,kg
+Oil & Gas Distribution,FT Boyolali,19,Office,Energy,Electricity,5760,kWh
+Oil & Gas Distribution,FT Boyolali,19,Office,Energy,Electricity,103284,kWh
+Oil & Gas Distribution,FT Boyolali,19,Office,Material,Feedwater,512300,liter
+Oil & Gas Distribution,FT Rewulu,20,Storage Tank,Energy,Fuel,98100,kg
+Oil & Gas Distribution,FT Rewulu,20,Storage Tank,Energy,Fuel,2070,kg
+Oil & Gas Distribution,FT Rewulu,21,Genset,Energy,Diesel ,0.00000383,kg
+Oil & Gas Distribution,FT Rewulu,21,Genset,Material,Waste Lube Oil,0.0000542,kg
+Oil & Gas Distribution,FT Rewulu,22,Pompa,Energy,Electricity,0.0329,kWh
+Oil & Gas Distribution,FT Rewulu,22,Pompa,Energy,Electricity,0.179,kWh
+Oil & Gas Distribution,FT Rewulu,23,Office,Energy,Electricity,0.0141,kWh
+Oil & Gas Distribution,FT Rewulu,23,Office,Energy,Electricity,0.0767,kWh
+Oil & Gas Distribution,FT Rewulu,23,Office,Material,Feedwater,0.967,liter
+Oil & Gas Distribution,DPPU Ahmad Yani,24,Pompa,Energy,Fuel,12168000,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,24,Pompa,Material,Waste,8,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,25,Storage Tank,Energy,Fuel,12168000,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,25,Storage Tank,Energy,Fuel,126251000,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,26,Pompa,Energy,Fuel,12294251000,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,27,Filter Separator,Energy,Fuel,12294251000,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,27,Filter Separator,Material,Filter,32,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,28,Refueller,Energy,Fuel,12294251000,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,28,Refueller,Material,Feedwater,0.336,liter
+Oil & Gas Distribution,DPPU Ahmad Yani,28,Refueller,Material,Waste Lube Oil,29281,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,28,Refueller,Energy,Fuel,3521.76,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,29,Use Stage,Energy,Fuel,12294251000,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,30,Genset,Energy,Diesel,12006,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,31,Genset,Material,Waste Lube Oil,17,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,32,Oil Catcher,Material,Wastewater,336,liter
+Oil & Gas Distribution,DPPU Ahmad Yani,33,Waste Pool,Material,Wastewater,0.121,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,34,Office,Material,Lamp,17.9,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,34,Office,Material,Feedwater,1001000,liter
+Oil & Gas Distribution,DPPU Ahmad Yani,34,Office,Material,Waste,1767,kg
+Oil & Gas Distribution,DPPU Ahmad Yani,34,Office,Material,Waste,399,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,35,Pompa,Energy,Fuel,5232000,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,35,Pompa,Material,Waste,2.3,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,36,Storage Tank,Energy,Fuel,5232000,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,36,Storage Tank,Energy,Fuel,143181000,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,36,Storage Tank,Material,Waste,1.5,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,37,Pompa,Energy,Fuel,5300669.5,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,37,Pompa,Material,Waste,0.9,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,37,Pompa,Energy,Electricity,15847.96,kWh
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,37,Pompa,Energy,Electricity,167.33,kWh
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,38,Filter Separator,Energy,Fuel,5300669.5,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,38,Filter Separator,Material,Filter,32.4,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,39,Refueller,Energy,Fuel,5300669.5,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,39,Refueller,Material,Feedwater,23.18,liter
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,39,Refueller,Material,Waste Lube Oil,589.68,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,39,Refueller,Energy,Fuel,3715,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,40,Use Stage,Energy,Fuel,5300669.5,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,41,Genset,Energy,Diesel,754.2,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,41,Genset,Material,Waste Lube Oil,0.20826,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,42,Oil Catcher,Material,Wastewater,23180,liter
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,43,Waste Pool,Material,Wastewater,54.68,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,44,Office,Material,Total Non-Hazardous Waste,905.2,kg
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,44,Office,Material,Feedwater,54.68,liter
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,44,Office,Energy,Electricity,19728.82386,kWh
+Oil & Gas Distribution,Pertamina FT Adi Sumarno - Inventory Data,44,Office,Energy,Electricity,502,kWh
+Oil & Gas Distribution,Pertamina FT Maos,45,Penerimaan,Energy,Fuel,1340000000,kg
+Oil & Gas Distribution,Pertamina FT Maos,45,Penerimaan,Material,Drum,2660,kg
+Oil & Gas Distribution,Pertamina FT Maos,45,Penerimaan,Material,Plastic,3,kg
+Oil & Gas Distribution,Pertamina FT Maos,46,Storage Tank,Energy,Fuel,1340000000,kg
+Oil & Gas Distribution,Pertamina FT Maos,46,Storage Tank,Energy,Fuel,9710000,kg
+Oil & Gas Distribution,Pertamina FT Maos,46,Storage Tank,Material,feedwater,726,liter
+Oil & Gas Distribution,Pertamina FT Maos,46,Storage Tank,Material,Drum,1340,kg
+Oil & Gas Distribution,Pertamina FT Maos,47,Pompa,Energy,Fuel,1330000000,kg
+Oil & Gas Distribution,Pertamina FT Maos,47,Pompa,Material,Oil,400,liter
+Oil & Gas Distribution,Pertamina FT Maos,47,Pompa,Material,Waste,300,kg
+Oil & Gas Distribution,Pertamina FT Maos,47,Pompa,Material,Drum,14,kg
+Oil & Gas Distribution,Pertamina FT Maos,47,Pompa,Energy,Electricity,434000,kWh
+Oil & Gas Distribution,Pertamina FT Maos,47,Pompa,Energy,Electricity ,2940,kWh
+Oil & Gas Distribution,Pertamina FT Maos,48,Filter Separator,Energy,Fuel,1330000000,kg
+Oil & Gas Distribution,Pertamina FT Maos,49,Mobil Tangki,Energy,Fuel,1330000000,kg
+Oil & Gas Distribution,Pertamina FT Maos,49,Mobil Tangki,Material,Oil,15300,liter
+Oil & Gas Distribution,Pertamina FT Maos,50,Use Stage ,Energy,Fuel,1330000000,kg
+Oil & Gas Distribution,Pertamina FT Maos,51,Genset,Energy,Diesel ,686000,kg
+Oil & Gas Distribution,Pertamina FT Maos,51,Genset,Material,Oil,289,liter
+Oil & Gas Distribution,Pertamina FT Maos,51,Genset,Material,Waste,300,kg
+Oil & Gas Distribution,Pertamina FT Maos,52,Oil Catcher,Material,Wastewater,753,kg
+Oil & Gas Distribution,Pertamina FT Maos,53,Waste Pool,Material,Chlorine (Cl2),60,kg
+Oil & Gas Distribution,Pertamina FT Maos,53,Waste Pool,Material,Wastewater,195,kg
+Oil & Gas Distribution,Pertamina FT Maos,54,Office,Material,Paper,260,kg
+Oil & Gas Distribution,Pertamina FT Maos,54,Office,Material,Waste,3600,kg
+Oil & Gas Distribution,Pertamina FT Maos,54,Office,Material,Feedwater,788,liter
+Oil & Gas Distribution,Pertamina FT Maos,54,Office,Energy,Electricity,127000,kWh
+Oil & Gas Distribution,Pertamina FT Maos,54,Office,Energy,Electricity ,863,kWh
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,55,Storage Tank,Energy,Fuel,1937480301,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,55,Storage Tank,Energy,Fuel,34577782.85,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,56,Pompa,Energy,Fuel,1972058084,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,56,Pompa,Material,Feedwater,13283,liter
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,56,Pompa,Energy,Electricity,476396.3165,kWh
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,56,Pompa,Energy,Electricity,26566.8,kWh
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,57,Mobil Tangki,Energy,Fuel,1972058084,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,57,Mobil Tangki,Energy,Fuel,4084800,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,57,Mobil Tangki,Energy,Fuel,3181318,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,58,Use Stage,Energy,Fuel,1972058084,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,58,Use Stage,Material,Konsumsi Organik,0.69,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,58,Use Stage,Material,Konsumsi Anorganik,1,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,58,Use Stage,Material,Feedwater,328600,liter
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,59,Genset,Energy,Diesel,160.95,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto,60,Oil Catcher,Material,Wastewater,83850,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,61,Penerimaan,Energy,Fuel,6720000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,61,Penerimaan,Energy,Electricity,392,kWh
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,62,Storage Tank,Energy,Fuel,6720000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,62,Storage Tank,Energy,Fuel,372000000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,62,Storage Tank,Material,Wastewater,450000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,63,Pompa,Energy,Fuel,7090000000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,63,Pompa,Energy,Electricity,1530,kWh
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,63,Pompa,Energy,Electricity,392,kWh
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,64,Filter Separator,Energy,Fuel,7090000000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,64,Filter Separator,Energy,Fuel,38600000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,65,Refueller,Energy,Fuel,7050000000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,65,Refueller,Material,Wastewater,31000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,66,Use Stage,Energy,Fuel,7050000000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,67,Office,Energy,Electricity,46300,kWh
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,67,Office,Energy,Electricity,1180,kWh
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,67,Office,Material,Konsumsi Organik,0.69,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,67,Office,Material,Konsumsi Anorganik,1,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,67,Office,Material,Feedwater,329000,liter
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,68,Genset,Energy,Diesel,161,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,69,Oil Catcher,Material,Wastewater,450000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,69,Oil Catcher,Material,Wastewater,47000,kg
+Oil & Gas Distribution,Pertamina DPPU Adi Sucipto - Inventory Data,69,Oil Catcher,Material,Wastewater,31000,kg
+Oil & Gas Distribution,DPPU Hasanudin,70,Penerimaan,Energy,Fuel,135200880,kg
+Oil & Gas Distribution,DPPU Hasanudin,70,Penerimaan,Material,Waste,1.5,kg
+Oil & Gas Distribution,DPPU Hasanudin,70,Penerimaan,Material,Filter,155.64,kg
+Oil & Gas Distribution,DPPU Hasanudin,70,Penerimaan,Material,Rainwater,20.23,kg
+Oil & Gas Distribution,DPPU Hasanudin,71,Storage Tank,Energy,Fuel,135200880,kg
+Oil & Gas Distribution,DPPU Hasanudin,71,Storage Tank,Energy,Fuel,5208840,kg
+Oil & Gas Distribution,DPPU Hasanudin,71,Storage Tank,Material,Waste,3,kg
+Oil & Gas Distribution,DPPU Hasanudin,71,Storage Tank,Material,Rainwater,96.1,kg
+Oil & Gas Distribution,DPPU Hasanudin,71,Storage Tank,Energy,Electricity,40882,kWh
+Oil & Gas Distribution,DPPU Hasanudin,71,Storage Tank,Energy,Electricity,1740,kWh
+Oil & Gas Distribution,DPPU Hasanudin,72,Pompa,Energy,Fuel,135969645,kg
+Oil & Gas Distribution,DPPU Hasanudin,72,Pompa,Material,Waste,1,kg
+Oil & Gas Distribution,DPPU Hasanudin,72,Pompa,Material,Rainwater,24.27,kg
+Oil & Gas Distribution,DPPU Hasanudin,72,Pompa,Material,Waste Lube Oil,43,kg
+Oil & Gas Distribution,DPPU Hasanudin,72,Pompa,Energy,Electricity,204408,kWh
+Oil & Gas Distribution,DPPU Hasanudin,72,Pompa,Energy,Electricity,8700,kWh
+Oil & Gas Distribution,DPPU Hasanudin,73,Filter Separator,Energy,Fuel,135969645,kg
+Oil & Gas Distribution,DPPU Hasanudin,73,Filter Separator,Material,Waste,2,kg
+Oil & Gas Distribution,DPPU Hasanudin,73,Filter Separator,Material,Rainwater,64.45,kg
+Oil & Gas Distribution,DPPU Hasanudin,73,Filter Separator,Material,Filter ,233.46,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Energy,Fuel,123336300,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Material,Waste Lube Oil,926.22,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Material,Waste,2,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Material,Rainwater,23.45,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Material,Filter ,389,kg
+Oil & Gas Distribution,DPPU Hasanudin,74,Refueller,Energy,Fuel,74524.2,kg
+Oil & Gas Distribution,DPPU Hasanudin,75,Bridger,Energy,Fuel,12632550,kg
+Oil & Gas Distribution,DPPU Hasanudin,76,Genset,Material,Waste Lube Oil,158.24,kg
+Oil & Gas Distribution,DPPU Hasanudin,76,Genset,Material,Waste,0.5,kg
+Oil & Gas Distribution,DPPU Hasanudin,76,Genset,Energy,Diesel,5545.38,kg
+Oil & Gas Distribution,DPPU Hasanudin,77,Oil Catcher,Material,Wastewater,20.2,kg
+Oil & Gas Distribution,DPPU Hasanudin,77,Oil Catcher,Material,Wastewater,96.1,kg
+Oil & Gas Distribution,DPPU Hasanudin,77,Oil Catcher,Material,Wastewater,24.3,kg
+Oil & Gas Distribution,DPPU Hasanudin,77,Oil Catcher,Material,Wastewater,64.5,kg
+Oil & Gas Distribution,DPPU Hasanudin,77,Oil Catcher,Material,Wastewater,23.5,kg
+Oil & Gas Distribution,DPPU Hasanudin,77,Oil Catcher,Material,Wastewater,187.4,kg
+Oil & Gas Distribution,DPPU Hasanudin,78,Waste Pool,Material,Wastewater,232.24,kg
+Oil & Gas Distribution,DPPU Hasanudin,79,Office,Material,Feedwater,232.242,liter
+Oil & Gas Distribution,DPPU Hasanudin,79,Office,Material,Konsumsi Organik,3.0654,kg
+Oil & Gas Distribution,DPPU Hasanudin,79,Office,Material,Konsumsi Anorganik,0.998,kg
+Oil & Gas Distribution,DPPU Hasanudin,79,Office,Energy,Electricity,265730,kWh
+Oil & Gas Distribution,DPPU Hasanudin,79,Office,Energy,Electricity,11310,kWh
+Oil & Gas Distribution,DPPU Hasanudin,80,Pompa,Material,Feedwater,187378,liter
+Oil & Gas Distribution,DPPU Hasanudin,80,Pompa,Material,Waste Lube Oil,21,kg
+Oil & Gas Distribution,DPPU Hasanudin,80,Pompa,Energy,Diesel,74,kg
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,Activated Bentonite,0.00000000658,kg
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,Antifoulant,0.0000000085550266,liter
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,Barite,0.0000000392,kg
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,Chemical,0.0000000165,kg
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,Corossion Inhibitor,0.0000000073058413,liter
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,Demulsifier,0.0000000065109052,liter
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Energy,Diesel,0.008670121086,kg
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Energy,Fuel Gas,0.0069659328,liter
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,Gas,0.36245504,liter
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,H2S Scavenger,0.0000000103341693,liter
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,Karbon Aktif,0.000000000111,kg
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,Oil,0.0000644,liter
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,PPD,0.0000000120754579,liter
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,Saraline,0.000000029571582,liter
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,Scale Inhibitor,0.00000000106748562,liter
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,SDF,0.000000067887449,liter
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,Sludging Compound,0.0000000061702183,liter
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,Feedwater,0.000192,liter
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,Feedwater,0.00000000328573588,liter
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,Feedwater,0.00000000183592385,liter
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,Feedwater,0.00000059143164,liter
+Oil & Gas Distribution,Pertamina FT Poso,81,Pertorelum Extraction And Production,Material,Wax Remover,0.00000000268385569,liter
+Oil & Gas Distribution,Pertamina FT Poso,82,Downstream,Material,Petreoleum,84619000,liter
+Oil & Gas Distribution,Pertamina FT Poso,83,BBM Transportation,Energy,Fuel,84619000,kg
+Oil & Gas Distribution,Pertamina FT Poso,84,Penerimaan,Energy,Fuel,84619000,kg
+Oil & Gas Distribution,Pertamina FT Poso,85,Fuel Storage Tank,Energy,Fuel,5246249,kg
+Oil & Gas Distribution,Pertamina FT Poso,86,Filter Separator,Energy,Fuel,86583420.19,kg
+Oil & Gas Distribution,Pertamina FT Poso,86,Filter Separator,Material,Waste,2900,kg
+Oil & Gas Distribution,Pertamina FT Poso,86,Filter Separator,Material,Waste,44,kg
+Oil & Gas Distribution,Pertamina FT Poso,86,Filter Separator,Material,Waste,73,kg
+Oil & Gas Distribution,Pertamina FT Poso,86,Filter Separator,Material,Waste,290,kg
+Oil & Gas Distribution,Pertamina FT Poso,86,Filter Separator,Material,Waste,31,kg
+Oil & Gas Distribution,Pertamina FT Poso,86,Filter Separator,Material,Feedwater,369100,liter
+Oil & Gas Distribution,Pertamina FT Poso,86,Filter Separator,Energy,Electricity,3806.04,kWh
+Oil & Gas Distribution,Pertamina FT Poso,86,Filter Separator,Energy,Electricity,42515.76,kWh
+Oil & Gas Distribution,Pertamina FT Poso,87,Pompa,Energy,Fuel,86583420.19,kg
+Oil & Gas Distribution,Pertamina FT Poso,87,Pompa,Energy,Electricity,58712.24,kWh
+Oil & Gas Distribution,Pertamina FT Poso,87,Pompa,Energy,Electricity,5255.96,kWh
+Oil & Gas Distribution,Pertamina FT Poso,88,Mobil Tangki,Energy,Fuel,86169000,kg
+Oil & Gas Distribution,Pertamina FT Poso,89,Use Stage,Energy,Fuel,86169000,kg
+Oil & Gas Distribution,Pertamina FT Poso,90,Genset,Material,Waste Lube Oil,40,kg
+Oil & Gas Distribution,Pertamina FT Poso,90,Genset,Energy,Fuel,604000,kg
+Oil & Gas Distribution,Pertamina FT Poso,90,Genset,Energy,Electricity,9062,kWh
+Oil & Gas Distribution,Pertamina FT Poso,91,Oil Catcher,Material,Wastewater,149200,liter
+Oil & Gas Distribution,Pertamina FT Poso,91,Oil Catcher,Material,Oil,0.14877,liter
+Oil & Gas Distribution,Pertamina FT Poso,91,Oil Catcher,Material,TOC,0.0328,kg
+Oil & Gas Distribution,Pertamina FT Poso,92,Waste Pool,Material,Wastewater,59270,liter
+Power Plant,IP Wonogiri,93,Dam,Energy,Electricity,1752,kWh
+Power Plant,IP Wonogiri,93,Dam,Material,Feedwater,663189718000,liter
+Power Plant,IP Wonogiri,94,Infiltration Gallery,Energy,Electricity,0.308,kWh
+Power Plant,IP Wonogiri,94,Infiltration Gallery,Material,Feedwater,1945000,liter
+Power Plant,IP Wonogiri,95,Power Intake,Energy,Electricity,15.14,kWh
+Power Plant,IP Wonogiri,95,Power Intake,Material,Waste Lube Oil,5,kg
+Power Plant,IP Wonogiri,96,Trash Rack,Material,Feedwater,663187773000,liter
+Power Plant,IP Wonogiri,97,Penstock,Material,Feedwater,663187773000,liter
+Power Plant,IP Wonogiri,98,Main & By Pass Valve,Material,Hydraulic Oil,600,liter
+Power Plant,IP Wonogiri,99,Turbine,Energy,Electricity,64.04,kWh
+Power Plant,IP Wonogiri,99,Turbine,Material,Hydraulic Oil,2000,liter
+Power Plant,IP Wonogiri,100,Generator,Energy,Electricity,0.32,kWh
+Power Plant,IP Wonogiri,100,Generator,Material,Waste Lube Oil,1200,kg
+Power Plant,IP Wonogiri,100,Generator,Energy,Energy,152748000,MJ
+Power Plant,IP Wonogiri,101,Main Transformator,Material,Cooling Oil,7700,liter
+Power Plant,IP Wonogiri,101,Main Transformator,Energy,Electricity,0.002,kWh
+Power Plant,IP Wonogiri,101,Main Transformator,Energy,Electricity,42214000,kWh
+Power Plant,IP Wonogiri,102,Transformator,Material,Cooling Oil,530,liter
+Power Plant,IP Wonogiri,102,Transformator,Energy,Electricity,216000,kWh
+Power Plant,IP Wonogiri,103,Transformator,Material,Cooling Oil,530,liter
+Power Plant,IP Wonogiri,104,Main Oil Tank,Energy,Electricity,64.008,kWh
+Power Plant,IP Wonogiri,104,Main Oil Tank,Material,Oil,7600,liter
+Power Plant,IP Wonogiri,105,Draft Tube,Energy,Electricity,0.004,kWh
+Power Plant,IP Wonogiri,105,Draft Tube,Material,Feedwater,663187773000,liter
+Power Plant,IP Wonogiri,107,Emergency Diesel,Energy,Diesel,300,kg
+Power Plant,IP Wonogiri,108,Power House,Energy,Electricity,1,kWh
+Power Plant,IP Wonogiri,108,Power House,Energy,Electricity,829.248,kWh
+Power Plant,IP Wonogiri,108,Power House,Material,Oil,7600,liter
+Power Plant,IP Wonogiri,108,Power House,Material,Feedwater,1945000,liter
+Power Plant,IP PB Soedirman,109,Extraction of Water,Material,Feedwater,3010000000000,liter
+Power Plant,IP PB Soedirman,110,Transportation,Energy,Diesel,120,kg
+Power Plant,IP PB Soedirman,111,Transportation,Material,Waste Lube Oil,333,kg
+Power Plant,IP PB Soedirman,112,Dam,Energy,Electricity ,20900,kWh
+Power Plant,IP PB Soedirman,112,Dam,Energy,Electricity ,556,kWh
+Power Plant,IP PB Soedirman,112,Dam,Energy,Electricity ,2950,kWh
+Power Plant,IP PB Soedirman,112,Dam,Energy,Electricity ,4940,kWh
+Power Plant,IP PB Soedirman,112,Dam,Material,Feedwater,3010000000000,liter
+Power Plant,IP PB Soedirman,112,Dam,Material,Feedwater,21600000,liter
+Power Plant,IP PB Soedirman,112,Dam,Material,Sediment,4510000000,liter
+Power Plant,IP PB Soedirman,112,Dam,Material,Waste Lube Oil,50,kg
+Power Plant,IP PB Soedirman,112,Dam,Material,Waste Lube Oil,22,kg
+Power Plant,IP PB Soedirman,113,Power Intake,Energy,Electricity ,1940,kWh
+Power Plant,IP PB Soedirman,113,Power Intake,Energy,Feedwater,2570000000000,liter
+Power Plant,IP PB Soedirman,113,Power Intake,Material,Waste Lube Oil,37,kg
+Power Plant,IP PB Soedirman,114,Trash Rack,Material,Feedwater,2570000000000,liter
+Power Plant,IP PB Soedirman,114,Trash Rack,Material,Material Pengotor,636000,liter
+Power Plant,IP PB Soedirman,115,Penstock,Material,Feedwater,2570000000000,liter
+Power Plant,IP PB Soedirman,116,Main & By Pass Valve,Energy,Electricity ,36500,kWh
+Power Plant,IP PB Soedirman,116,Main & By Pass Valve,Material,Hydraulic Oil ,5,liter
+Power Plant,IP PB Soedirman,116,Main & By Pass Valve,Material,Feedwater,2570000000000,liter
+Power Plant,IP PB Soedirman,117,Turbine,Energy,Electricity ,36500,kWh
+Power Plant,IP PB Soedirman,117,Turbine,Material,Waste Lube Oil,209,kg
+Power Plant,IP PB Soedirman,117,Turbine,Material,Feedwater,2570000000000,liter
+Power Plant,IP PB Soedirman,118,Generator,Energy,Electricity ,32,kWh
+Power Plant,IP PB Soedirman,118,Generator,Energy,Energy ,1540000000,MJ
+Power Plant,IP PB Soedirman,118,Generator,Material,Waste Lube Oil,5,kg
+Power Plant,IP PB Soedirman,119,Transformator,Energy,Electricity ,427000000,kWh
+Power Plant,IP PB Soedirman,119,Transformator,Material,Waste Lube Oil,5,kg
+Power Plant,IP PB Soedirman,120,Trafo,Energy,Electricity ,1700000,kWh
+Power Plant,IP PB Soedirman,121,Main Oil Tank,Material,Oil ,224,liter
+Power Plant,IP PB Soedirman,122,Generator,Energy,Diesel ,60,kg
+Power Plant,IP PB Soedirman,122,Generator,Energy,Diesel,70,kg
+Power Plant,IP PB Soedirman,122,Generator,Material,Oil ,5,liter
+Power Plant,IP PB Soedirman,123,Generator,Energy,Diesel ,70,kg
+Power Plant,IP PB Soedirman,123,Generator,Material,Oil ,5,liter
+Power Plant,IP PB Soedirman,124,Hazardous Waste,Material,Waste,276,kg
+Power Plant,IP PB Soedirman,124,Hazardous Waste,Material,Waste,35,kg
+Power Plant,IP PB Soedirman,124,Hazardous Waste,Material,Waste,55,kg
+Power Plant,IP PB Soedirman,124,Hazardous Waste,Material,Waste Lube Oil,5050,kg
+Power Plant,IP PB Soedirman,124,Hazardous Waste,Material,Wastewater,3100,kg
+Power Plant,IP PB Soedirman,125,Non-Hazardous Waste,Material,Paper ,759,kg
+Power Plant,IP PB Soedirman,125,Non-Hazardous Waste,Material,Plastic,380,kg
+Power Plant,IP PB Soedirman,125,Non-Hazardous Waste,Material,Waste,438,kg
+Power Plant,IP PB Soedirman,125,Non-Hazardous Waste,Material,Bahan Organik,4650,kg
+Power Plant,IP PB Soedirman,125,Non-Hazardous Waste,Material,"Kaca, Kain, Karet, Logam dll",18.3,kg
+Power Plant,IP PB Soedirman,126,Power House,Energy,Electricity ,1,kWh
+Power Plant,IP PB Soedirman,126,Power House,Energy,Electricity ,1600000,kWh
+Power Plant,IP PB Soedirman,126,Power House,Material,Oil ,209,liter
+Power Plant,IP PB Soedirman,126,Power House,Material,Feedwater,21600000,liter
+Power Plant,IP PB Soedirman,126,Power House,Material,Waste Lube Oil,5050,kg
+Power Plant,IP PB Soedirman,126,Power House,Material,Waste,276,kg
+Power Plant,IP PB Soedirman,126,Power House,Material,Feedwater,3100,liter
+Power Plant,IP PB Soedirman,126,Power House,Material,Lamp,35,kg
+Power Plant,IP PB Soedirman,126,Power House,Material,Toner & Catridge,55,kg
+Power Plant,IP PB Soedirman,126,Power House,Material,Paper ,759,kg
+Power Plant,IP PB Soedirman,126,Power House,Material,Plastic,380,kg
+Power Plant,IP PB Soedirman,126,Power House,Material,Waste,438,kg
+Power Plant,IP PB Soedirman,126,Power House,Material,Bahan Organik,4650,kg
+Power Plant,IP PB Soedirman,126,Power House,Material,"Kaca, Kain, Karet, Logam dll",18.3,kg
+Power Plant,IP PB Soedirman,127,150 kV Transmission Network,Energy,Electricity ,426000000,kWh
+Power Plant,IP PB Soedirman,128,Distribution Network,Energy,Electricity,426000000,kWh
+Power Plant,IP Pemaron,129,Fowarding Pump,Energy,Fuel,739641.78,kg
+Power Plant,IP Pemaron,129,Fowarding Pump,Energy,Aux Electricity,9330.9,kWh
+Power Plant,IP Pemaron,130,Fuel Filtering Skid,Energy,Fuel,261396.42,kg
+Power Plant,IP Pemaron,131,Fuel Filtering Skid,Energy,Fuel,478245.36,kg
+Power Plant,IP Pemaron,132,Gas Turbine Generator,Material,Hydrogen (H2),754.25,kg
+Power Plant,IP Pemaron,132,Gas Turbine Generator,Material,Feedwater,3886188.683,liter
+Power Plant,IP Pemaron,132,Gas Turbine Generator,Energy,Fuel,261396.42,kg
+Power Plant,IP Pemaron,132,Gas Turbine Generator,Material,Aquades ( Air Accu ),480,liter
+Power Plant,IP Pemaron,132,Gas Turbine Generator,Energy,Aux Electricity,310733.1721,kWh
+Power Plant,IP Pemaron,133,Gas Turbine Generator,Material,Hydrogen (H2),251.4166667,kg
+Power Plant,IP Pemaron,133,Gas Turbine Generator,Material,Feedwater,7110088.599,liter
+Power Plant,IP Pemaron,133,Gas Turbine Generator,Energy,Fuel,478245.36,kg
+Power Plant,IP Pemaron,133,Gas Turbine Generator,Material,Aquades ( Air Accu ),480,liter
+Power Plant,IP Pemaron,133,Gas Turbine Generator,Energy,Aux Electricity,252125,kWh
+Power Plant,IP Pemaron,134,Aux Transformator,Energy,Electricity,239877,kWh
+Power Plant,IP Pemaron,134,Aux Transformator,Energy,Electricity,155852.1,kWh
+Power Plant,IP Pemaron,135,Aux Transformator,Energy,Electricity,252125,kWh
+Power Plant,IP Pemaron,136,Main Transformator,Energy,Electricity,2091636,kWh
+Power Plant,IP Pemaron,137,Deep Well,Energy,Aux Electricity,7121.25,kWh
+Power Plant,IP Pemaron,138,Raw Water Tank,Material,Feedwater,3798000,liter
+Power Plant,IP Pemaron,139,Water Treatment Plant ,Material,Feedwater,387745.8333,liter
+Power Plant,IP Pemaron,139,Water Treatment Plant ,Material,Chlorine (Cl2),11.20833333,liter
+Power Plant,IP Pemaron,139,Water Treatment Plant ,Material,Feedwater,12.744,liter
+Power Plant,IP Pemaron,139,Water Treatment Plant ,Energy,Aux Electricity,173.9533333,kWh
+Power Plant,IP Pemaron,140,Taman,Material,Feedwater,3410254.167,liter
+Power Plant,IP Pemaron,140,Taman,Energy,Aux Electricity,1550.528894,kWh
+Power Plant,IP Pemaron,141,Water Tank,Material,Feedwater,372236,liter
+Power Plant,IP Pemaron,142,Air Conditioner Condensation Water Tank,Material,Condensated Water,62722.1,liter
+Power Plant,IP Pemaron,142,Air Conditioner Condensation Water Tank,Energy,Aux Electricity,4.355701389,kWh
+Power Plant,IP Pemaron,143,Demineralized Plant,Material,Feedwater,68750.1,liter
+Power Plant,IP Pemaron,143,Demineralized Plant,Energy,Aux Electricity,166.3689,kWh
+Power Plant,IP Pemaron,144,DWTP Tank,Material,Demineralized Water,1672,liter
+Power Plant,IP Pemaron,145,DWTP Tank,Material,Condensated Water,62722.1,liter
+Power Plant,IP Pemaron,145,DWTP Tank,Material,Demineralized Water,9051,liter
+Power Plant,IP Pemaron,146,Hydrogen Plant,Material,Demineralized Water,9051,liter
+Power Plant,IP Pemaron,146,Hydrogen Plant,Energy,Aux Electricity,57597.3,kWh
+Power Plant,IP Pemaron,147,Fire Fighting Skid,Material,Feedwater,33616,liter
+Power Plant,IP Pemaron,147,Fire Fighting Skid,Material,Feedwater,634.3762134,liter
+Power Plant,IP Pemaron,147,Fire Fighting Skid,Energy,Fuel,42.67,kg
+Power Plant,IP Pemaron,147,Fire Fighting Skid,Energy,Aux Electricity,55.9,kWh
+Power Plant,IP Pemaron,148,Maintenance,Material,Feedwater,143264,liter
+Power Plant,IP Pemaron,149,Office,Material,Feedwater,191000,liter
+Power Plant,IP Pemaron,149,Office,Energy,Aux Electricity,10601.8,kWh
+Power Plant,IP Pemaron,150,Water Treatment Plant,Material,Wastewater,73536.93333,kg
+Power Plant,IP Pemaron,151,Waste Separator,Material,Waste,3316.147176,liter
+Power Plant,IP Pemaron,151,Waste Separator,Energy,Aux Electricity,0.2302879983,kWh
+Power Plant,IP Pemaron,152,Bio Threat,Material,Wastewater,191000,kg
+Power Plant,IP Saguling,153,Emergency Generator,Energy,Diesel,240,kg
+Power Plant,IP Saguling,154,Emergency Generator,Energy,Diesel,354,kg
+Power Plant,IP Saguling,155,Dam and Reservoir,Material,Feedwater,612000000000,liter
+Power Plant,IP Saguling,155,Dam and Reservoir,Energy,Electricity,132374,kWh
+Power Plant,IP Saguling,156,Disposal Oil Tank,Material,Waste,1600,kg
+Power Plant,IP Saguling,157,Trash Rack,Material,Aliran Air Masuk (Dam & Reservoir),224,m3*a
+Power Plant,IP Saguling,157,Trash Rack,Material,Jumlah Air Masuk (Dam & Reservoir),3530000000000,liter
+Power Plant,IP Saguling,158,Intake Gate,Material,Feedwater,224,liter
+Power Plant,IP Saguling,159,"Penstoke, Headrace tunnel, surge tank",Material,Aliran Air Keluar (Trash Rack),224,m3*a
+Power Plant,IP Saguling,160,Main & By Pass Valve,Material,Aliran Air Masuk (Dam & Reservoir),224,m3*a
+Power Plant,IP Saguling,160,Main & By Pass Valve,Energy,Electricity,3861976.981,kWh
+Power Plant,IP Saguling,161,Turbine & Generator,Material,Aliran Air Keluar (Main & Bypass Valve),54.8,m3*a
+Power Plant,IP Saguling,161,Turbine & Generator,Material,Lube Oil,7284.51,kg
+Power Plant,IP Saguling,162,Transformator,Energy,Electricity,2509358030,kWh
+Power Plant,IP Saguling,163,Oil Tank Unit,Material,Transported Lube Oil,7284.51,kg
+Power Plant,IP Jeranjang,164,Water Treatment Plant,Material,Feedwater,1.91972421,liter
+Power Plant,IP Jeranjang,164,Water Treatment Plant,Material,Sodium Hydroxide (NaOH),13979.22044,kg
+Power Plant,IP Jeranjang,164,Water Treatment Plant,Material,Hydrogen Chloride (HCl),5824.63972,kg
+Power Plant,IP Jeranjang,164,Water Treatment Plant,Material,Feedwater,341346290,liter
+Power Plant,IP Jeranjang,164,Water Treatment Plant,Material,Sodium Hydroxide (NaOH),5840,kg
+Power Plant,IP Jeranjang,164,Water Treatment Plant,Material,Hydrogen Chloride (HCl),2430,kg
+Power Plant,IP Jeranjang,165,Pellet Handling System,Material,Waste,18206.5207,kg
+Power Plant,IP Jeranjang,165,Pellet Handling System,Material,Fine Coal (20% dari berat pelet),958.2377076,kg
+Power Plant,IP Jeranjang,165,Pellet Handling System,Material,Waste,7610,kg
+Power Plant,IP Jeranjang,165,Pellet Handling System,Material,Fine Coal (20% dari berat pelet),400,kg
+Power Plant,IP Jeranjang,166,Coal Handling System,Material,Coal,1137175237,kg
+Power Plant,IP Jeranjang,166,Coal Handling System,Material,Coal,475141470,kg
+Power Plant,IP Jeranjang,167,HSD Tank,Material,HSD,100998962.1,kg
+Power Plant,IP Jeranjang,167,HSD Tank,Material,HSD,42200000,kg
+Power Plant,IP Jeranjang,168,Condenser,Material,Feedwater,130.085,liter
+Power Plant,IP Jeranjang,168,Condenser,Material,Demineralized Water,61506186.8,kg
+Power Plant,IP Jeranjang,168,Condenser,Energy,Steam,1666297202,kg
+Power Plant,IP Jeranjang,168,Condenser,Material,Feedwater,23130422290,liter
+Power Plant,IP Jeranjang,168,Condenser,Material,Demineralized Water,25698890,kg
+Power Plant,IP Jeranjang,168,Condenser,Material,Steam,696222420,kg
+Power Plant,IP Jeranjang,169,Boiler,Material,Condensated Water,1727803389,kg
+Power Plant,IP Jeranjang,169,Boiler,Energy,Coal,341516155.6,kg
+Power Plant,IP Jeranjang,169,Boiler,Material,Pelet,19150.2,kg
+Power Plant,IP Jeranjang,169,Boiler,Energy,HSD,90899062.77,kg
+Power Plant,IP Jeranjang,169,Boiler,Material,Feedwater,9.57127,liter
+Power Plant,IP Jeranjang,169,Boiler,Material,Condensated Water,721921310,kg
+Power Plant,IP Jeranjang,169,Boiler,Energy,Coal,142694360,kg
+Power Plant,IP Jeranjang,169,Boiler,Material,Pelet,8000,kg
+Power Plant,IP Jeranjang,169,Boiler,Energy,HSD,37980000,kg
+Power Plant,IP Jeranjang,169,Boiler,Material,Feedwater,1701868140,liter
+Power Plant,IP Jeranjang,170,Turbine & Generator,Material,Steam,1725799002,kg
+Power Plant,IP Jeranjang,170,Turbine & Generator,Material,Waste Lube Oil,0.000018,kg
+Power Plant,IP Jeranjang,170,Turbine & Generator,Material,Steam,721083820,kg
+Power Plant,IP Jeranjang,170,Turbine & Generator,Material,Waste Lube Oil,3200,kg
+Power Plant,IP Jeranjang,171,Trafo,Energy,Electricity,1,kWh
+Power Plant,IP Jeranjang,171,Trafo,Energy,Electricity,158206505.2,kWh
+Power Plant,IP Jeranjang,172,Water Treatment Plant,Material,Sodium Hydroxide (NaOH),274.6208154,kg
+Power Plant,IP Jeranjang,172,Water Treatment Plant,Material,Feedwater,0.00471,liter
+Power Plant,IP Jeranjang,172,Water Treatment Plant,Material,Feedwater,1.771905446,liter
+Power Plant,IP Jeranjang,172,Water Treatment Plant,Material,Sodium Hydroxide (NaOH),110,kg
+Power Plant,IP Jeranjang,172,Water Treatment Plant,Material,Feedwater,837490,liter
+Power Plant,IP Jeranjang,172,Water Treatment Plant,Material,Feedwater,315062620,liter
+Power Plant,IP Jeranjang,173,Ash Disposal,Material,Fly Ash dan Bottom Ash,22546168.8,kg
+Power Plant,IP Jeranjang,173,Ash Disposal,Material,Fly Ash dan Bottom Ash,9420380,kg
+Power Plant,IP Jeranjang,174,Water Tank,Material,Waste Lube Oil,0.000009,kg
+Power Plant,IP Jeranjang,174,Water Tank,Material,Waste Lube Oil,1600,kg
+Power Plant,IP Jeranjang,175,Lube Oil Tank,Material,Waste Lube Oil,0.0000183612,kg
+Power Plant,IP Jeranjang,175,Lube Oil Tank,Material,Waste Lube Oil,3260,kg
+Power Plant,IP Grati,176,Gas Turbine,Material,GT Cooling Water,2582705.9,kg
+Power Plant,IP Grati,176,Gas Turbine,Material,Aki/Batery,0.54,kg
+Power Plant,IP Grati,176,Gas Turbine,Material,Filter GT,0.14,kg
+Power Plant,IP Grati,176,Gas Turbine,Material,Lamp,0.07,kg
+Power Plant,IP Grati,176,Gas Turbine,Material,Waste,0.31,kg
+Power Plant,IP Grati,177,HRSG,Material,Hydrazine Teknik (N2h4) 35%,853,kg
+Power Plant,IP Grati,177,HRSG,Material,Ammoniak Teknik (Nh4oh) Min 25%,1382,kg
+Power Plant,IP Grati,177,HRSG,Material,Tri Sodium Phospate / Tsp (Na3po4) 98-100%,99,kg
+Power Plant,IP Grati,178,Steam Turbine,Material,Waste,26,kg
+Power Plant,IP Grati,178,Steam Turbine,Material,Waste,75,kg
+Power Plant,IP Grati,178,Steam Turbine,Material,Waste,15,kg
+Power Plant,IP Grati,178,Steam Turbine,Material,Pertamina Masri 320,51,kg
+Power Plant,IP Grati,178,Steam Turbine,Material,Waste,50,kg
+Power Plant,IP Grati,178,Steam Turbine,Material,Eni Ote 46,200,kg
+Power Plant,IP Grati,178,Steam Turbine,Material,Waste,64,kg
+Power Plant,IP Grati,178,Steam Turbine,Material,Turbolube Xt 46,171,kg
+Power Plant,IP Grati,178,Steam Turbine,Material,Pertamina 220,30,kg
+Power Plant,IP Grati,178,Steam Turbine,Material,Pertamina Turbolube 100,40,kg
+Power Plant,IP Grati,178,Steam Turbine,Material,Cooling Water ST,1792311.95,kg
+Power Plant,IP Labuan,179,Condenser,Material,Air Make Up,15277604,kg
+Power Plant,IP Labuan,179,Condenser,Energy,Electricity,0.00239,kWh
+Power Plant,IP Labuan,179,Condenser,Material,Feedwater,0.199,liter
+Power Plant,IP Labuan,179,Condenser,Material,Waste Lube Oil,0.000000216,kg
+Power Plant,IP Labuan,179,Condenser,Material,Sodium Hypochlorite (NaOCl),76175.24,kg
+Power Plant,IP Labuan,180,Feed Water Sistem (Heater),Material,Condensated Water,1383070000,kg
+Power Plant,IP Labuan,180,Feed Water Sistem (Heater),Energy,Electricity,0.0007854488114,kWh
+Power Plant,IP Labuan,180,Feed Water Sistem (Heater),Energy,Steam,446520.2095,kg
+Power Plant,IP Labuan,180,Feed Water Sistem (Heater),Material,Waste Lube Oil,0.000000734,kg
+Power Plant,IP Labuan,180,Feed Water Sistem (Heater),Material,Hydrazine,347.68252,kg
+Power Plant,IP Labuan,180,Feed Water Sistem (Heater),Material,Amoniak,991.5548,kg
+Power Plant,IP Labuan,181,Boiler,Material,Feedwater,3.25,liter
+Power Plant,IP Labuan,181,Boiler,Energy,HSD,127668,kg
+Power Plant,IP Labuan,181,Boiler,Energy,Coal,271890284,kg
+Power Plant,IP Labuan,181,Boiler,Energy,Electricity,0.00502,kWh
+Power Plant,IP Labuan,181,Boiler,Material,Udara,1903227732,kg
+Power Plant,IP Labuan,181,Boiler,Material,Waste Lube Oil,0.000000922,kg
+Power Plant,IP Labuan,181,Boiler,Material,Phospate,19.86971567,kg
+Power Plant,IP Labuan,182,Turbine,Energy,Steam,1382953753,kg
+Power Plant,IP Labuan,182,Turbine,Energy,Electricity,0.0003077574302,kWh
+Power Plant,IP Labuan,182,Turbine,Material,Waste Lube Oil,0.000001101304264,kg
+Power Plant,IP Labuan,183,Generator,Material,Torsi,1.06,kWh
+Power Plant,IP Labuan,183,Generator,Energy,Electricity,0.0000002447503206,kWh
+Power Plant,IP Labuan,183,Generator,Material,Waste Lube Oil,0.0000001223671404,kg
+Power Plant,IP Labuan,183,Generator,Material,Hydrogen (H2),0.0000000227516353,MPa/kWh
+Power Plant,IP Labuan,184,Trafo,Energy,Electricity,1.06,Kwh
+Power Plant,IP PLTG Gilimanuk,185,HSD Storage,Material,Filter F/O,37,kg
+Power Plant,IP PLTG Gilimanuk,185,HSD Storage,Energy,HSD Fuel Transported,2239866.91,kg
+Power Plant,IP PLTG Gilimanuk,185,HSD Storage,Material,Waste,37.3,kg
+Power Plant,IP PLTG Gilimanuk,186,Governor Control Valve,Material,HSD Fuel (HSD Storage),2237601.91,kg
+Power Plant,IP PLTG Gilimanuk,186,Governor Control Valve,Material,Oil Shell T 46 (Power Oil Pump),15532.25,kg
+Power Plant,IP PLTG Gilimanuk,187,Gas Turbine,Material,Feedwater,33265548.6,liter
+Power Plant,IP PLTG Gilimanuk,187,Gas Turbine,Energy,HSD Fuel (Governor Control Valve),2237601.91,kg
+Power Plant,IP PLTG Gilimanuk,187,Gas Turbine,Material,NOx Water (NOx Water System),39260,kg
+Power Plant,IP PLTG Gilimanuk,188,Generator,Material,Thermal Energy (Gas Turbine),23683029570,kcal
+Power Plant,IP PLTG Gilimanuk,188,Generator,Material,Cool Water (Cooling Water Pump),410,kg
+Power Plant,IP PLTG Gilimanuk,188,Generator,Energy,SFC SSD PLN,2970,kWh
+Power Plant,IP PLTG Gilimanuk,189,Main Transformator,Energy,Electricity,7352050,kWh
+Power Plant,IP PLTG Gilimanuk,189,Main Transformator,Material,Oil Diala B Transported,32025,kg
+Power Plant,IP PLTG Gilimanuk,190,Aux Transformator,Energy,Electricity,238350,kWh
+Power Plant,IP PLTG Gilimanuk,191,Liquid Waste Separator,Material,Waste ,2265,kg
+Power Plant,IP PLTG Gilimanuk,192,Lube Oil Tank,Material,Oil Shell T 46 Transported,15532.25,kg
+Power Plant,IP PLTG Gilimanuk,193,Main Lube Oil Pump,Material,Oil Shell T 46 (Lube Oil Tank),15532.25,kg
+Power Plant,IP PLTG Gilimanuk,194,Power Oil Pump,Material,Oil Shell T 46 (Main Lube Oil Pump),15532.25,kg
+Power Plant,IP PLTG Gilimanuk,195,Pre Treatment Plant,Material,Feedwater,67571.23,liter
+Power Plant,IP PLTG Gilimanuk,196,RO System,Material,Filter Product (Pre Treatment Plant),58182.67,kg
+Power Plant,IP PLTG Gilimanuk,196,RO System,Material,HCl Transported,12,kg
+Power Plant,IP PLTG Gilimanuk,197,Demineralization Process,Material,HCl Transported,11,kg
+Power Plant,IP PLTG Gilimanuk,197,Demineralization Process,Material,NaOH transported,13,kg
+Power Plant,IP PLTG Gilimanuk,197,Demineralization Process,Material,RO Product (RO System),44418.4,kg
+Power Plant,IP PLTG Gilimanuk,198,Demin Storage,Material,Demin Water (Demineralization Process),39670,kg
+Power Plant,IP PLTG Gilimanuk,199,Cooling Water Pump,Material,Cool Water (Demin Storage),410,kg
+Power Plant,IP PLTG Gilimanuk,200,NOx Water System,Material,NOx Water (Demin Storage),39260,kg
+Power Plant,IP PLTG Gilimanuk,201,Wastewater,Material,Wastewater,13764.27,kg
+Power Plant,IP PLTG Gilimanuk,201,Wastewater,Material,Wastewater,9388.57,kg
+Power Plant,IP PLTG Gilimanuk,201,Wastewater,Material,Wastewater,4748.4,kg
+Power Plant,IP PLTG Gilimanuk,202,Wastewater,Material,Wastewater,27901.24,kg
+Power Plant,IP Suralaya,203,Coal Handling System,Energy,Coal Handling Transformer A,881.75,kWh
+Power Plant,IP Suralaya,203,Coal Handling System,Energy,Coal Handling Transformer B,352.56,kWh
+Power Plant,IP Suralaya,203,Coal Handling System,Energy,ASH Handling Transformer B,602.09,kWh
+Power Plant,IP Suralaya,203,Coal Handling System,Material,Coal,155778270,kg
+Power Plant,IP Suralaya,203,Coal Handling System,Material,Coal,194878600,kg
+Power Plant,IP Suralaya,203,Coal Handling System,Material,Coal,164685010,kg
+Power Plant,IP Suralaya,203,Coal Handling System,Material,Coal,206052350,kg
+Power Plant,IP Suralaya,203,Coal Handling System,Material,Coal,715047670,kg
+Power Plant,IP Suralaya,203,Coal Handling System,Material,Coal,282700900,kg
+Power Plant,IP Suralaya,203,Coal Handling System,Material,Coal,66323900,kg
+Power Plant,IP Suralaya,203,Coal Handling System,Material,Coal,36206990,kg
+Power Plant,IP Suralaya,203,Coal Handling System,Material,Coal,36555090,kg
+Power Plant,IP Suralaya,203,Coal Handling System,Material,Coal,7496900,kg
+Power Plant,IP Suralaya,203,Coal Handling System,Energy,HSD,590627,liter
+Power Plant,IP Suralaya,204,Chlorination Plant,Energy,Electricity,7496.9,kWh
+Power Plant,IP Suralaya,204,Chlorination Plant,Material,Feedwater,78811110,liter
+Power Plant,IP Suralaya,204,Chlorination Plant,Energy,Electricity,9304.02,kWh
+Power Plant,IP Suralaya,204,Chlorination Plant,Material,Citric Acid,1250,kg
+Power Plant,IP Suralaya,204,Chlorination Plant,Material,Sodium Hydroxide (NaOH 48%),1250,kg
+Power Plant,IP Suralaya,204,Chlorination Plant,Material,Cooling Water For Rectifier,17399.25,kg
+Power Plant,IP Suralaya,204,Chlorination Plant,Material,Waste Lube Oil,19.7,kg
+Power Plant,IP Suralaya,205,Desalination Plant,Material,Feedwater,8452980000,liter
+Power Plant,IP Suralaya,205,Desalination Plant,Energy,Steam,74088000,kg
+Power Plant,IP Suralaya,205,Desalination Plant,Material,Antiscale,9700,kg
+Power Plant,IP Suralaya,205,Desalination Plant,Material,Sodium Bisulfit (NaHSO3),7675,kg
+Power Plant,IP Suralaya,205,Desalination Plant,Material,Air Service,61740000,kg
+Power Plant,IP Suralaya,205,Desalination Plant,Material,Waste Lube Oil,38400,kg
+Power Plant,IP Suralaya,206,HSD Tank,Material,HSD,2744000,liter
+Power Plant,IP Suralaya,207,TPS Limbah B3,Material,Waste Lube Oil,14931000,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Material,Waste,507000,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Material,Waste,6405000,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Material,Waste,933000,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Material,Waste,1085000,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Material,Filter,358000,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Material,Pasir Terkontaminasi,14898000,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Material,Bahan Kimia Kadaluarsa,1295000,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Material,Waste,22000,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Material,Waste,345000,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Material,Fly Ash,65426603000,kg
+Power Plant,IP Suralaya,207,TPS Limbah B3,Material,Bottom Ash,76182695000,kg
+Power Plant,IP Suralaya,208,Water Treatment Plant,Material,Influent WWTP,13328000,liter
+Power Plant,IP Suralaya,208,Water Treatment Plant,Material,Hydrochloric Acid Teknik (HCl) 32%,1861,kg
+Power Plant,IP Suralaya,208,Water Treatment Plant,Material,Sodium Hydroksida Teknik (NaOh) 48%,1360,kg
+Power Plant,IP Suralaya,208,Water Treatment Plant,Material,Coagulant (PAC),2400,kg
+Power Plant,IP Suralaya,208,Water Treatment Plant,Material,Flocculant (N9905),725,kg
+Power Plant,IP Suralaya,208,Water Treatment Plant,Material,Oil Dispersant,324,kg
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Energy,Boiler Circulating Pump (6KV) BCP A Motor,21.87,kWh
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Energy,Boiler Transformer A,4340.16,kWh
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Energy,Pulverizer (Mill) A Motor,5342.93,kWh
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Energy,Primary Air Fan A Motor,16220.96,kWh
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Energy,Forced Draft Fan A Motor,5882.66,kWh
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Energy,Induced Draft Fan A Motor,30595.89,kWh
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Material,Coal,1991070650,kg
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Material,HSD,1852006.06,liter
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Material,Udara,21771290,kg
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Energy,Electricity,182296677,kWh
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Material,Waste Lube Oil,5671,kg
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Material,Shell Tellus S2 V32,564,kg
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Material,Turbofluid 230,102,kg
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Material,Make-Up Water,171906.2,kg
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Material,Aki/Batery,0.51,kg
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Material,Filter,0.4,kg
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Material,Lamp,0.64,kg
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Material,Waste,0.64,kg
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Energy,Steam,18007776000,kg
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Energy,Electricity,18951409.62,kWh
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Material,Waste Lube Oil,3447,kg
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Material,Sealing Steam Turbin,1098900,kg
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Material,Filter,0.36,kg
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Material,Lamp,1.0325,kg
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Material,Electricity,3177872320,kWh
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Material,Gas SF6,160,kg
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Material,Silika Gel,12,kg
+Power Plant,IP Suralaya,209,Unit Pembangkitan,Material,Waste Lube Oil,200,kg
+Power Plant,IP Cilegon,210,Gas Station,Material,Natural Gas,149005050,kg
+Power Plant,IP Cilegon,210,Gas Station,Material,Natural Gas,238978980,kg
+Power Plant,IP Cilegon,211,Desalination Plant,Material,Feedwater,2451548000,liter
+Power Plant,IP Cilegon,211,Desalination Plant,Energy,Electricity,18877800,kWh
+Power Plant,IP Cilegon,211,Desalination Plant,Material,Antiscale,600,kg
+Power Plant,IP Cilegon,211,Desalination Plant,Material,Anti Foam,10250,kg
+Power Plant,IP Cilegon,211,Desalination Plant,Material,Waste,182000,kg
+Power Plant,IP Cilegon,212,Raw Water Tank,Material,Distilat Desal,104678000,kg
+Power Plant,IP Cilegon,213,Common Unit,Material,Service Water,104677770,kg
+Power Plant,IP Cilegon,213,Common Unit,Energy,Electricity,1542636,kWh
+Power Plant,IP Cilegon,213,Common Unit,Material,Hydrochloric Acid Teknik (HCL) 32%,12000,kg
+Power Plant,IP Cilegon,213,Common Unit,Material,Sodium Hydroksida Teknik (NaOH) 48%,16000,kg
+Power Plant,IP Cilegon,213,Common Unit,Material,Make-Up Water,3280000,kg
+Power Plant,IP Cilegon,214,Water Treatment Plant,Material,Regenerasi (Air + kimia),395.48,kg
+Power Plant,IP Cilegon,214,Water Treatment Plant,Material,Blowdown,3501800,kg
+Power Plant,IP Cilegon,214,Water Treatment Plant,Material,Losses Air HRSG,3501800,kg
+Power Plant,IP Cilegon,214,Water Treatment Plant,Material,GT Cooling,255.21,kg
+Power Plant,IP Cilegon,214,Water Treatment Plant,Material,ST Cooling,255.21,kg
+Power Plant,IP Cilegon,214,Water Treatment Plant,Material,Hydrochloric Acid Teknik (HCl) 32%,3600,kg
+Power Plant,IP Cilegon,214,Water Treatment Plant,Material,Sodium Hydroksida Teknik (NaOh) 48%,5800,kg
+Power Plant,IP Cilegon,214,Water Treatment Plant,Material,Coagulant N 3279 NALCO,8500,kg
+Power Plant,IP Cilegon,215,TPS Limbah B3,Material,Waste Lube Oil,4480,kg
+Power Plant,IP Cilegon,215,TPS Limbah B3,Material,Waste,210,kg
+Power Plant,IP Cilegon,215,TPS Limbah B3,Material,Waste,410,kg
+Power Plant,IP Cilegon,215,TPS Limbah B3,Material,Waste,70,kg
+Power Plant,IP Cilegon,215,TPS Limbah B3,Material,Waste,2360,kg
+Power Plant,IP Cilegon,215,TPS Limbah B3,Material,Waste,130,kg
+Power Plant,IP Cilegon,215,TPS Limbah B3,Material,Waste,2970,kg
+Power Plant,IP Cilegon,215,TPS Limbah B3,Material,Waste,1300,kg
+Power Plant,IP Cilegon,216,Hotwell/Condensor,Material,Steam,3320040000,kg
+Power Plant,IP Cilegon,216,Hotwell/Condensor,Material,Make-Up water,107957770,kg
+Power Plant,IP Cilegon,216,Hotwell/Condensor,Material,Chlorine (Cl2),2724.09,kg
+Power Plant,IP Cilegon,216,Hotwell/Condensor,Material,Feedwater,76553368,liter
+Power Plant,IP Cilegon,217,Gas Turbine,Material,Natural Gas,387988.57,mmBtu
+Power Plant,IP Cilegon,217,Gas Turbine,Material,Udara,625113600,kg
+Power Plant,IP Cilegon,217,Gas Turbine,Energy,Electricity,35860541.24,kWh
+Power Plant,IP Cilegon,217,Gas Turbine,Material,GT Cooling Water,4402.75,kg
+Power Plant,IP Cilegon,217,Gas Turbine,Material,Aki/Batery,210,kg
+Power Plant,IP Cilegon,217,Gas Turbine,Material,Glass Wool,130,kg
+Power Plant,IP Cilegon,217,Gas Turbine,Material,Waste,500,kg
+Power Plant,IP Cilegon,217,Gas Turbine,Material,Lamp,200,kg
+Power Plant,IP Cilegon,218,HRSG,Material,Make-Up Water,107957770,kg
+Power Plant,IP Cilegon,218,HRSG,Energy,Exhaust Gas,65048.96144,kWh
+Power Plant,IP Cilegon,218,HRSG,Material,"Eliminox, N1250 @ 25 Kg/Drigen",2350,kg
+Power Plant,IP Cilegon,218,HRSG,Material,"NH3, Ammonia 25% (liq) (568)",4075,kg
+Power Plant,IP Cilegon,218,HRSG,Material,"Na2HPO4.12H2O, Phosphate",60,kg
+Power Plant,IP Cilegon,218,HRSG,Material,TriSodium Phosphate Anhydrate (Nalco 444) (2106),270,kg
+Power Plant,IP Cilegon,218,HRSG,Material,Waste,400,kg
+Power Plant,IP Cilegon,219,Steam Turbine,Material,Steam,3320040000,kg
+Power Plant,IP Cilegon,219,Steam Turbine,Energy,Electricity,3876680.88,kWh
+Power Plant,IP Cilegon,219,Steam Turbine,Material,Oil,12000,liter
+Power Plant,IP Cilegon,219,Steam Turbine,Material,Cooling Water ST,4402.75,kg
+Power Plant,IP Cilegon,219,Steam Turbine,Material,Lamp,200,kg
+Power Plant,IP Cilegon,219,Steam Turbine,Material,Waste,0.4,kg
+Power Plant,IP Cilegon,220,Transformator,Material,Electricity,1467494368,kWh
+Power Plant,IP Cilegon,220,Transformator,Material,Electricity,683683184,kWh
+Power Plant,IP Adipala,221,Coal Handling System,Material,Coal,2112458171,kg
+Power Plant,IP Adipala,222,Fuel Oil Tank,Material,HSD B30,1902847.02,liter
+Power Plant,IP Adipala,223,Chlorination Plant,Material,Feedwater,562800000,liter
+Power Plant,IP Adipala,223,Chlorination Plant,Material,Hydrogen Chloride (HCl),170698,kg
+Power Plant,IP Adipala,224,SWRO,Material,Feedwater,260251370,liter
+Power Plant,IP Adipala,224,SWRO,Material,Sodium Bisulfit (NaHSO3),6900,kg
+Power Plant,IP Adipala,224,SWRO,Material,Antiscalant,4462,kg
+Power Plant,IP Adipala,225,Demineralized Plant,Material,Feedwater,231496370,liter
+Power Plant,IP Adipala,225,Demineralized Plant,Material,"Flocculant, Optimer 9901",175,kg
+Power Plant,IP Adipala,225,Demineralized Plant,Material,Coagulant (FeCl3),13350,kg
+Power Plant,IP Adipala,225,Demineralized Plant,Material,Sodium Hydroxide (NaOH),101547,kg
+Power Plant,IP Adipala,226,Condenser,Material,Demineralized Water,180851000,liter
+Power Plant,IP Adipala,226,Condenser,Energy,Steam,7119892360,kg
+Power Plant,IP Adipala,226,Condenser,Material,Chlorine (Cl2),562800000,liter
+Power Plant,IP Adipala,227,Condensate Polishing Unit,Material,Feedwater,7300743360,liter
+Power Plant,IP Adipala,227,Condensate Polishing Unit,Material,Ammonia,24750,kg
+Power Plant,IP Adipala,228,Heater,Material,Feedwater,7300743360,liter
+Power Plant,IP Adipala,228,Heater,Energy,Steam,3672795750,kg
+Power Plant,IP Adipala,229,Deaerator,Material,Feedwater,10973539110,liter
+Power Plant,IP Adipala,229,Deaerator,Material,"Oxygen Scavenger, N2H4",990,kg
+Power Plant,IP Adipala,230,Boiler,Material,Feedwater,10973539110,liter
+Power Plant,IP Adipala,230,Boiler,Material,Coal,2101437103,kg
+Power Plant,IP Adipala,230,Boiler,Energy,HSD B30,1277193.64,liter
+Power Plant,IP Adipala,230,Boiler,Material,Waste Lube Oil,24500,kg
+Power Plant,IP Adipala,230,Boiler,Material,Feedwater,11843520000,liter
+Power Plant,IP Adipala,231,Turbine & Generator,Energy,Steam,10973539110,kg
+Power Plant,IP Adipala,232,Transformator,Energy,Energy,3698655201,kWh
+Power Plant,IP Adipala,233,ESP,Material,Flue Gas,4098702000,liter
+Power Plant,IP Adipala,234,Water Treatment Plant,Material,Leachate Water,5219200,liter
+Power Plant,IP Adipala,234,Water Treatment Plant,Material,Wastewater,50457730,kg
+Power Plant,IP Adipala,235,Ash Pond,Material,Bottom Ash,5454530,kg
+Power Plant,IP Adipala,235,Ash Pond,Material,Fly Ash,66499710,kg
+Power Plant,IP Adipala,236,Hazardous & Toxic Pond,Material,Waste,25440,kg
+Mining,Timah Batu Besi,237,Stripping,Material,Occupation,347503000,liter
+Mining,Timah Batu Besi,237,Stripping,Energy,Diesel,11662,kg
+Mining,Timah Batu Besi,238,Material Handling,Material,Ore,57710000,kg
+Mining,Timah Batu Besi,238,Material Handling,Energy,Diesel,27213,kg
+Mining,Timah Batu Besi,239,Rehandling,Energy,Diesel,2561.9843,kg
+Mining,Timah Batu Besi,240,Material Handling,Material,Ore Oxide,1948000,kg
+Mining,Timah Batu Besi,240,Material Handling,Energy,Diesel,125.498,kg
+Mining,Timah Batu Besi,241,Material Handling,Material,Ore Greisen,40534000,kg
+Mining,Timah Batu Besi,241,Material Handling,Energy,Electricity,338193,kWh
+Mining,Timah Batu Besi,242,Material Handling,Material,Ore Skarn,60000,kg
+Mining,Timah Batu Besi,242,Material Handling,Energy,Diesel,21.4261,kg
+Mining,Timah Batu Besi,243,Crusher,Energy,Electricity,766,kWh
+Mining,Timah Batu Besi,244,Pencucian,Material,Ore Greisen,40534000,kg
+Mining,Timah Batu Besi,244,Pencucian,Energy,Electricity,903759,kWh
+Mining,Timah Batu Besi,244,Pencucian,Material,Feedwater,1172000,liter
+Mining,Timah Batu Besi,245,Ball Mill,Material,Ore Oxide,1948000,kg
+Mining,Timah Batu Besi,245,Ball Mill,Material,Ore Skarn,60000,kg
+Mining,Timah Batu Besi,245,Ball Mill,Energy,Electricity,918001,kWh
+Mining,Timah Batu Besi,246,Material Handling,Energy,Electricity,302949,kWh
+Mining,Timah Batu Besi,247,Material Handling,Energy,Electricity,7309,kWh
+Mining,Timah Batu Besi,248,Shaking Table,Energy,Electricity,381205,kWh
+Mining,Timah Batu Besi,248,Shaking Table,Material,Feedwater,3476000,liter
+Mining,Timah Batu Besi,249,Material Handling,Material,Konsentrat,1085000,kg
+Mining,Timah Batu Besi,250,Material Handling,Material,Konsentrat,1628000,kg
+Mining,Timah Batu Besi,250,Material Handling,Energy,Diesel,212.7334,kg
+Mining,Timah Batu Besi,251,Rotary Dryer,Energy,Diesel,45144,kg
+Mining,Timah Batu Besi,252,Pengarungan,Material,Konsentrat,2360000,kg
+Mining,Timah Batu Besi,252,Pengarungan,Material,Jumbo Bag,8890,kg
+Mining,Timah Batu Besi,253,Material Handling,Energy,Diesel,444.5976,kg
+Mining,Timah Batu Besi,254,Gudang,Material,Jumbo Bag,8890,kg
+Mining,Timah Batu Besi,255,Material Handling,Energy,Diesel,14017.53,kg
+Mining,Timah Batu Besi,256,Pelabuhan,Material,Konsentrat,2360000,kg
+Mining,Timah Batu Besi,256,Pelabuhan,Material,Jumbo Bag,8890,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,257,Penerimaan,Material,Bijih Timah,10878,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,257,Penerimaan,Material,Bijih Timah,11410,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,257,Penerimaan,Material,SHP,376000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,257,Penerimaan,Energy,Diesel,131221,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,258,Ore Bin,Material,Bijih Timah,22286,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,258,Ore Bin,Material,SHP,375000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,258,Ore Bin,Energy,Diesel,2.694,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,258,Ore Bin,Material,Feedwater,23850,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,259,Harz Jig,Material,SHP,375000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,259,Harz Jig,Energy,Electricity,20.406,kWh
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,259,Harz Jig,Material,Feedwater,28278,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,260,Rotary Dryer,Material,Bijih Timah,19540,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,260,Rotary Dryer,Material,SHP,112000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,260,Rotary Dryer,Energy,Diesel,143.675,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,260,Rotary Dryer,Energy,Electricity,39.48,kWh
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,261,HTS-MS,Energy,Electricity,193,kWh
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,261,HTS-MS,Energy,Diesel,33,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,262,Shaking Table,Material,Konsentrat,49000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,262,Shaking Table,Energy,Diesel,38,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,262,Shaking Table,Energy,Electricity,85,kWh
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,262,Shaking Table,Material,Feedwater,5105,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,263,Air Table,Material,Konsentrat,17000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,263,Air Table,Energy,Electricity,30,kWh
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,263,Air Table,Energy,Diesel,22,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,264,Mixing,Material,Coal,9205,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,264,Mixing,Material,Backlog,33739,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,264,Mixing,Material,Konsentrat,19618,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,264,Mixing,Material,Limestone,1706,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,264,Mixing,Energy,Diesel,33.899,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,264,Mixing,Energy,Electricity,134.242,kWh
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,265,Peleburan,Material,Komposisi Pasca Mixing,64268,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,265,Peleburan,Energy,MFO,851.128,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,265,Peleburan,Energy,Electricity,149.308,kWh
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,265,Peleburan,Material,Feedwater,30776,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,266,Peleburan,Material,Slag,46288,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,266,Peleburan,Energy,Electricity,55.21,kWh
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,266,Peleburan,Energy,MFO,647.436,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,266,Peleburan,Material,Wastewater,30218,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,266,Peleburan,Material,Feedwater,2627,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,267,Eutatic Refining,Material,Crude Tin,17980,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,267,Eutatic Refining,Material,Crude Tin,5945,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,267,Eutatic Refining,Energy,Diesel,156.455,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,267,Eutatic Refining,Energy,Electricity,2192800,kWh
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,267,Eutatic Refining,Energy,MFO,889.132,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,267,Eutatic Refining,Material,Feedwater,33034,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,268,Flame Oven,Material,Dross,40343,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,268,Flame Oven,Energy,Diesel,114.899,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,268,Flame Oven,Energy,Electricity,4.207,kWh
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,268,Flame Oven,Energy,MFO,367.763,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,269,Electrolitic Refining,Material,Crude Tin,725,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,269,Electrolitic Refining,Material,Dross,39618,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,269,Electrolitic Refining,Energy,Electricity,204.817,kWh
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,269,Electrolitic Refining,Energy,Diesel,253.261,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,269,Electrolitic Refining,Material,Feedwater,1171,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,269,Electrolitic Refining,Material,Besi,18030,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,270,Pyrorefining,Material,Crude Tin,23200,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,270,Pyrorefining,Energy,Diesel,155.834,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,270,Pyrorefining,Energy,Electricity,5.52,kWh
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,271,Casting,Material,Refined Tin,23200,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,271,Casting,Material,Refined Tin,725000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,271,Casting,Energy,Electricity,42.069,kWh
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,271,Casting,Material,Feedwater,9873,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,272,Gudang,Material,Ingot Tin (Casting),23925,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,272,Gudang,Material,Plastic,47000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,272,Gudang,Material,Plat Stripping,181000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,272,Gudang,Energy,Diesel,23.336,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,273,Pengapalan,Material,Tin,23925,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,273,Pengapalan,Energy,Electricity,142.519,kWh
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,274,Office & Mess,Material,Feedwater,14878910,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,274,Office & Mess,Energy,Electricity,176.197,kWh
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,275,Waste Pool,Material,Wastewater,4388,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,275,Waste Pool,Material,Beban Inlet,176000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,276,Waste Pool,Material,Wastewater,5347,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,276,Waste Pool,Material,Beban Inlet,96000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,277,Waste Pool,Material,Wastewater,6312,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,277,Waste Pool,Material,Beban Inlet,283000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,278,Ore Getting,Material,Material Tanah,33709809000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,278,Ore Getting,Energy,Diesel,6746411,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,278,Ore Getting,Material,Feedwater,2359224764,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,279,Mineral Processing,Material,Material Tanah,33709809000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,279,Mineral Processing,Energy,Diesel,4497608,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,279,Mineral Processing,Material,Feedwater,40620319,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,280,Pengangkutan,Material,Konsentrat,10878000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,280,Pengangkutan,Energy,Diesel,2246,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,280,Pengangkutan,Material,Jumbo Bag,21000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,281,Pengangkutan,Material,Konsentrat,10878000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,281,Pengangkutan,Energy,Diesel,324,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,282,Stripping,Material,Tin,5260661000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,282,Stripping,Energy,Diesel,642519,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,283,Pengangkutan,Material,Tin,5260661000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,283,Pengangkutan,Energy,Diesel,33729,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,284,Ore Getting,Material,Ore Kasar,367929000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,284,Ore Getting,Material,Ore Material Processing,2016041000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,284,Ore Getting,Material,Tin,5260661000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,284,Ore Getting,Energy,Diesel,93.07,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,284,Ore Getting,Material,Feedwater,6900185000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,285,Pengangkutan,Material,Ore Mineral Processing,2016041000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,285,Pengangkutan,Energy,Diesel,90671,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,286,Mineral Processing,Material,Ore Mineral Processing,2016041000,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,286,Mineral Processing,Energy,Diesel,21303,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,286,Mineral Processing,Material,Feedwater,5660972000,liter
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,286,Mineral Processing,Material,Jumbo Bag,3760,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,287,Pengangkutan,Material,Konsentrat,11410,kg
+Mining,PT Timah Unit Metalurgi (Unmet) Muntok,287,Pengangkutan,Energy,Diesel,107419,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,288,Penerimaan,Material,SHP,11799710,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,288,Flame Oven,Energy,Diesel,878.59,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,288,Penerimaan,Energy,Electricity,67.39,kWh
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,289,Ore Bin,Material,Konsentrat,6224933,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,289,Ore Bin,Material,SHP,11799714,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,289,Ore Bin,Energy,Diesel,4210.75,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,289,Ore Bin,Material,Feedwater,62723,liter
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,290,Harz Jig,Material,Konsentrat,6224933,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,290,Harz Jig,Material,SHP,11799710,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,290,Harz Jig,Energy,Electricity,461.1,kWh
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,290,Harz Jig,Material,Feedwater,126195,liter
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,290,Harz Jig,Material,Feedwater,12759,liter
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,291,Rotary Dryer,Material,Konsentrat,3497000,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,291,Rotary Dryer,Material,SHP,337000,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,291,Rotary Dryer,Energy,Diesel,18757.21,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,291,Rotary Dryer,Energy,Electricity,299.4,kWh
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,292,Magnetic Separator,Material,Konsentrat,3497000,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,292,Magnetic Separator,Material,SHP,337000,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,292,Magnetic Separator,Energy,Electricity,179.86,kWh
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,293,Air Table,Material,SHP,171000,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,293,Air Table,Energy,Electricity,106.8,kWh
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,294,Mixing,Material,Backlog,12482650,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,294,Mixing,Material,Coal,2608990,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,294,Mixing,Material,Konsentrat,3459370,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,294,Mixing,Material,Limestone,68960,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,294,Mixing,Material,Botol Jumbo,260,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,294,Mixing,Energy,Diesel,16461.95,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Material,Komposisi Charging Tanur,18619980,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Material,Pipa Tapping,20570,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Material,Centong Tapping,340,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Material,Besi,7540,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Material,Waste,630,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Energy,MFO,90430.34,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Energy,Electricity,6198.1,kWh
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,295,Peleburan,Material,Feedwater,250.98,liter
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,296,Rafinasi,Material,Crude Tin,2679000,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,296,Rafinasi,Material,Crude Tin,405000,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,296,Rafinasi,Energy,Electricity,226707,kWh
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,296,Rafinasi,Energy,Diesel,4230.72,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,296,Rafinasi,Material,Feedwater,501.39,liter
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,297,Flame Oven,Material,Dross,482000,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,297,Flame Oven,Energy,MFO,6024.2,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,298,Casting,Energy,Electricity,1009.5,kWh
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,298,Casting,Energy,Refined Tin,2602000,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,298,Casting,Material,Feedwater,250.98,liter
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,299,Gudang,Material,Tin,2540000,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,299,Gudang,Material,Plat Stripping,2570,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,299,Gudang,Material,Plastic,48,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,299,Gudang,Energy,Diesel,885.25,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,299,Gudang,Energy,Electricity,57.67,kWh
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,300,Pengapalan,Material,RFE Tin,2520000,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,300,Pengapalan,Material,RFE Tin,20000,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,300,Pengapalan,Energy,Diesel,10483.2,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,301,Genset,Material,Waste Lube Oil,13500,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,301,Genset,Material,Drum Oli,80,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,301,Genset,Material,Waste,170,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,301,Genset,Energy,Diesel,26521.61,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,302,Office & Mess,Material,Feedwater,1152102.52,liter
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,303,Ore Getting,Energy,Diesel,6012725.06,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,303,Ore Getting,Material,Feedwater,9329481,liter
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,304,Mineral Processing,Material,Material Tanah,799668000,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,304,Mineral Processing,Energy,Diesel,5313571.33,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,304,Mineral Processing,Material,Feedwater,5597676,liter
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,305,Pengangkutan,Material,Konsentrat,6224933,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,305,Pengangkutan,Material,SHP,704000,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,305,Pengangkutan,Energy,Diesel,94016,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,306,Pengangkutan,Material,Konsentrat,6224933,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,306,Pengangkutan,Material,SHP,704000,kg
+Mining, PT Timah Tbk Unit Metalurgi (Unmet) Kundur,306,Pengangkutan,Energy,Diesel,1601.6,kg
+Mining,HengJaya,307,Overburden + Land Clearing,Material,Ore,2457694420,kg
+Mining,HengJaya,307,Overburden + Land Clearing,Energy,Diesel,1874399.95,kg
+Mining,HengJaya,307,Overburden + Land Clearing,Material,Feedwater,155860000,liter
+Mining,HengJaya,307,Overburden + Land Clearing,Material,Ban,11600,kg
+Mining,HengJaya,307,Overburden + Land Clearing,Material,Besi,2480,kg
+Mining,HengJaya,307,Overburden + Land Clearing,Material,Waste Lube Oil,3313.6,kg
+Mining,HengJaya,307,Overburden + Land Clearing,Material,Aki,120,kg
+Mining,HengJaya,307,Overburden + Land Clearing,Material,Filter,46.4,kg
+Mining,HengJaya,308,Ore Getting,Material,Ore,2457694420,kg
+Mining,HengJaya,308,Ore Getting,Energy,Diesel,468599.99,kg
+Mining,HengJaya,308,Ore Getting,Material,Ban,2900,kg
+Mining,HengJaya,308,Ore Getting,Material,Besi,620,kg
+Mining,HengJaya,308,Ore Getting,Material,Waste Lube Oil,828.4,kg
+Mining,HengJaya,308,Ore Getting,Material,Aki,30,kg
+Mining,HengJaya,308,Ore Getting,Material,Filter,11.6,kg
+Mining,HengJaya,309,Ore Hauling,Material,Ore,257694420,kg
+Mining,HengJaya,309,Ore Hauling,Energy,Diesel,2108699.94,kg
+Mining,HengJaya,309,Ore Hauling,Material,Ban,13050,kg
+Mining,HengJaya,309,Ore Hauling,Material,Besi,2790,kg
+Mining,HengJaya,309,Ore Hauling,Material,Waste Lube Oil,3727.8,kg
+Mining,HengJaya,309,Ore Hauling,Material,Aki,135,kg
+Mining,HengJaya,309,Ore Hauling,Material,Filter,52.2,kg
+Mining,HengJaya,310,Ore Barging,Material,Ore,2457694420,kg
+Mining,HengJaya,310,Ore Barging,Energy,Diesel,234299.99,kg
+Mining,HengJaya,310,Ore Barging,Material,Ban,1450,kg
+Mining,HengJaya,310,Ore Barging,Material,Besi,310,kg
+Mining,HengJaya,310,Ore Barging,Material,Waste Lube Oil,414.2,kg
+Mining,HengJaya,310,Ore Barging,Material,Aki,15,kg
+Mining,HengJaya,310,Ore Barging,Material,Filter,5.8,kg
+Mining,HengJaya,311,Waste Disposal Area,Material,Waste Lube Oil,3480,kg
+Mining,HengJaya,311,Waste Disposal Area,Material,Waste Lube Oil,870,kg
+Mining,HengJaya,311,Waste Disposal Area,Material,Waste Lube Oil,3915,kg
+Mining,HengJaya,311,Waste Disposal Area,Material,Waste Lube Oil,435,kg
+Mining,HengJaya,311,Waste Disposal Area,Material,Waste Lube Oil,30,kg
+Mining,HengJaya,312,Waste Disposal Area,Material,Waste,14080,kg
+Mining,HengJaya,312,Waste Disposal Area,Material,Waste,3520,kg
+Mining,HengJaya,312,Waste Disposal Area,Material,Waste,15840,kg
+Mining,HengJaya,312,Waste Disposal Area,Material,Waste,1760,kg
+Mining,HengJaya,312,Waste Disposal Area,Material,Waste,10270,kg
+Mining,HengJaya,313,Waste Disposal Area,Material,Overburden Materials,2040575000,kg
+Mining,HengJaya,313,Waste Disposal Area,Material,Feedwater,157430030,liter
+Mining,HengJaya,314,Office,Energy,Electricity,118944,kWh
+Mining,HengJaya,314,Office,Energy,Electricity,5503877.75,kWh
+Mining,HengJaya,314,Office,Energy,Diesel,519233.75,kg
+Mining,HengJaya,314,Office,Material,Feedwater,13507000,liter
